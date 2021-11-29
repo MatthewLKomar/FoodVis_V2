@@ -1,0 +1,597 @@
+,source_id,food_id,flavor_name,food_name,orig_content,flavor_group,normalized
+0,82,197,papaya,Broad bean,0.42600000099999996,fruity,1e-05
+7,570,197,lemon peel,Broad bean,3442.25,fruity,0.09187
+18,570,949,lemon peel,White wine,3327.7,fruity,0.85259
+20,846,949,watercress,White wine,12.39,fruity,0.00317
+29,570,56,lemon peel,"Mandarin orange (Clementine, Tangerine)",661.45,fruity,0.2655
+31,700,56,red hots,"Mandarin orange (Clementine, Tangerine)",0.1,fruity,4e-05
+40,570,57,lemon peel,Sweet orange,1556.65,fruity,0.17362
+43,683,57,powderful,Sweet orange,0.964271894,fruity,0.00011
+52,570,88,lemon peel,Barley,10114.8,fruity,0.28339
+61,570,268,lemon peel,Beer,548.035,fruity,0.0131
+67,846,268,watercress,Beer,3.5722347809999997,fruity,9e-05
+76,570,2,lemon peel,Savoy cabbage,760.0,fruity,0.57313
+83,570,4,lemon peel,Kiwi,144.0,fruity,0.14158
+91,570,5,lemon peel,Allium,3114.0,fruity,0.25153
+100,570,6,lemon peel,Garden onion,220.15,fruity,0.06497
+102,846,6,watercress,Garden onion,26.7692,fruity,0.0079
+109,570,7,lemon peel,Leek,112.0,fruity,0.14698
+115,570,8,lemon peel,Garlic,2174.0,fruity,0.1771
+118,846,8,watercress,Garlic,0.3581,fruity,3e-05
+124,570,9,lemon peel,Chives,3049.75,fruity,0.24236
+132,570,11,lemon peel,Cashew nut,8873.95,fruity,0.16013
+139,570,12,lemon peel,Pineapple,211.7,fruity,0.1551
+148,570,13,lemon peel,Dill,248.0,fruity,0.03702
+151,846,13,watercress,Dill,1.973800024,fruity,0.00029
+157,570,15,lemon peel,Wild celery,268.9,fruity,0.13556
+164,570,16,lemon peel,Peanut,36953.1,fruity,0.18307
+165,846,16,watercress,Peanut,4.3,fruity,2e-05
+173,570,17,lemon peel,Burdock,350.0,fruity,0.22996
+179,570,18,lemon peel,Horseradish,1042.0,fruity,0.41803
+181,846,18,watercress,Horseradish,4.5,fruity,0.00181
+187,570,21,lemon peel,Asparagus,3122.15,fruity,0.21988
+195,570,22,lemon peel,Oat,6606.6,fruity,0.12858
+198,846,22,watercress,Oat,0.712111105,fruity,1e-05
+205,570,23,lemon peel,Star fruit,306.0,fruity,0.17038
+211,570,24,lemon peel,Brazil nut,2992.2,fruity,0.19796
+217,570,25,lemon peel,Common beet,409.0,fruity,0.13935
+234,570,30,lemon peel,Common cabbage,2941.0,fruity,0.32599
+242,570,31,lemon peel,Cauliflower,1651.0,fruity,0.16586
+250,570,32,lemon peel,Brussel sprouts,5680.0,fruity,0.38991
+259,570,34,lemon peel,Broccoli,1422.0,fruity,0.13194
+261,846,34,watercress,Broccoli,3.6651,fruity,0.00034
+267,570,35,lemon peel,Chinese cabbage,52.0,fruity,0.09748
+276,570,36,lemon peel,Turnip,1278.0,fruity,0.13906
+278,846,36,watercress,Turnip,0.2573,fruity,3e-05
+285,570,37,lemon peel,Pigeon pea,2620.0,fruity,0.17291
+293,570,38,lemon peel,Tea,3.0,fruity,0.01616
+300,570,40,lemon peel,Pepper,7793.85,fruity,0.24669
+307,570,41,lemon peel,Papaya,81.75,fruity,0.12635
+314,570,42,lemon peel,Safflower,2325.0,fruity,0.15791
+320,570,43,lemon peel,Caraway,917.0,fruity,0.15597
+327,570,44,lemon peel,Pecan nut,4063.0,fruity,0.17745
+333,570,45,lemon peel,Chestnut,220.0,fruity,0.19504
+339,570,47,lemon peel,Chickpea,5243.0,fruity,0.17577
+345,570,48,lemon peel,Endive,799.5,fruity,0.17535
+352,570,49,lemon peel,Chicory,114.0,fruity,0.06228
+354,846,49,watercress,Chicory,0.05,fruity,3e-05
+360,570,50,lemon peel,Chinese cinnamon,419.0,fruity,0.30296
+366,570,52,lemon peel,Watermelon,2799.7,fruity,0.17989
+373,570,54,lemon peel,Lemon,52.0,fruity,0.17961
+382,570,58,lemon peel,Coffee,1374.0,fruity,0.20304
+383,846,58,watercress,Coffee,0.035,fruity,1e-05
+391,570,59,lemon peel,Arabica coffee,1374.0,fruity,0.20298
+392,846,59,watercress,Arabica coffee,0.035,fruity,1e-05
+400,570,60,lemon peel,Robusta coffee,1374.0,fruity,0.20304
+401,846,60,watercress,Robusta coffee,0.035,fruity,1e-05
+408,570,64,lemon peel,Muskmelon,95.0,fruity,0.09116
+416,570,65,lemon peel,Cucumber,272.9,fruity,0.11111
+420,846,65,watercress,Cucumber,5.0328,fruity,0.00205
+426,570,66,lemon peel,Cucurbita,6971.25,fruity,0.134
+432,570,72,lemon peel,Wild carrot,133.25,fruity,0.05744
+441,570,73,lemon peel,Japanese persimmon,75.0,fruity,0.14286
+447,570,76,lemon peel,Loquat,81.0,fruity,0.22438
+453,570,79,lemon peel,Common buckwheat,4343.5,fruity,0.16681
+459,570,81,lemon peel,Fig,2003.8,fruity,0.32531
+465,570,82,lemon peel,Fennel,3663.65,fruity,0.19941
+476,570,83,lemon peel,Strawberry,356.0,fruity,0.16333
+479,846,83,watercress,Strawberry,0.100000001,fruity,5e-05
+486,570,85,lemon peel,Soy bean,84211.7,fruity,0.19194
+488,846,85,watercress,Soy bean,0.2511,fruity,0.0
+495,570,86,lemon peel,Sunflower,12554.0,fruity,0.17319
+502,570,91,lemon peel,Swamp cabbage,856.25,fruity,0.16282
+509,570,92,lemon peel,Sweet potato,1185.5,fruity,0.1416
+517,570,93,lemon peel,Black walnut,1576.0,fruity,0.16525
+523,570,94,lemon peel,Common walnut,1269.5,fruity,0.17245
+530,570,95,lemon peel,Lettuce,924.0,fruity,0.14392
+537,570,98,lemon peel,Lentils,8865.25,fruity,0.16229
+544,570,99,lemon peel,Garden cress,198.0,fruity,0.1623
+552,570,101,lemon peel,Flaxseed,3006.0,fruity,0.15684
+558,570,105,lemon peel,Apple,1049.75,fruity,0.3563
+567,570,106,lemon peel,Mango,174.0,fruity,0.11638
+574,570,112,lemon peel,Spearmint,951.0,fruity,0.15512
+575,846,112,watercress,Spearmint,0.699999988,fruity,0.00011
+581,570,113,lemon peel,Peppermint,154.0,fruity,0.15556
+589,570,119,lemon peel,Sweet basil,3392.0,fruity,0.26177
+590,846,119,watercress,Sweet basil,14.0,fruity,0.00108
+596,570,120,lemon peel,Evening primrose,609.85,fruity,0.16851
+602,570,121,lemon peel,Olive,87.0,fruity,0.14707
+605,846,121,watercress,Olive,37.904667493,fruity,0.06408
+612,570,124,lemon peel,Common oregano,1712.0,fruity,0.38025
+615,846,124,watercress,Common oregano,6.0,fruity,0.00133
+622,570,125,lemon peel,Rice,13177.0,fruity,0.17732
+623,846,125,watercress,Rice,0.725999993,fruity,1e-05
+629,570,126,lemon peel,Millet,3807.0,fruity,0.2341
+635,570,127,lemon peel,Poppy,2200.0,fruity,0.18513
+643,570,129,lemon peel,Parsnip,240.0,fruity,0.11195
+646,846,129,watercress,Parsnip,2.8526,fruity,0.00133
+652,570,130,lemon peel,Avocado,630.65,fruity,0.15873
+658,570,131,lemon peel,Parsley,3083.0,fruity,0.15773
+662,846,131,watercress,Parsley,0.600000024,fruity,3e-05
+668,570,133,lemon peel,Lima bean,5195.75,fruity,0.114
+674,570,134,lemon peel,Common bean,39384.25,fruity,0.1625
+681,570,135,lemon peel,Date,566.5,fruity,0.2067
+683,846,135,watercress,Date,6.646666765000001,fruity,0.00243
+690,570,138,lemon peel,Pine nut,2013.0,fruity,0.18563
+697,570,139,lemon peel,Pepper (Spice),1413.0,fruity,0.15538
+703,570,140,lemon peel,Pistachio,6799.05,fruity,0.15542
+710,570,141,lemon peel,Common pea,9122.5,fruity,0.14763
+717,570,142,lemon peel,Purslane,888.0,fruity,0.19566
+725,570,143,lemon peel,"Prunus (Cherry, Plum)",194.0,fruity,0.22401
+732,570,144,lemon peel,Apricot,4168.5,fruity,0.41009
+739,570,145,lemon peel,Sweet cherry,39.0,fruity,0.24638
+747,570,147,lemon peel,European plum,651.85,fruity,0.30791
+755,570,148,lemon peel,Almond,11952.85,fruity,0.1846
+759,846,148,watercress,Almond,0.172000001,fruity,0.0
+766,570,149,lemon peel,Peach,1299.95,fruity,0.17015
+773,570,150,lemon peel,Guava,244.5,fruity,0.15085
+779,570,152,lemon peel,Pear,308.45,fruity,0.20358
+786,570,153,lemon peel,Radish,255.5,fruity,0.12676
+793,570,154,lemon peel,Garden rhubarb,96.0,fruity,0.15085
+794,846,154,watercress,Garden rhubarb,0.4,fruity,0.00063
+800,570,158,lemon peel,Watercress,1246.0,fruity,0.14275
+807,570,159,lemon peel,Rosemary,136.0,fruity,0.15006
+810,846,159,watercress,Rosemary,6.1316666159999995,fruity,0.00677
+818,846,162,watercress,Red raspberry,0.519999981,fruity,0.00085
+825,570,164,lemon peel,Sorrel,240.0,fruity,0.18663
+832,570,169,lemon peel,Rye,10396.75,fruity,0.25813
+835,846,169,watercress,Rye,3.041999996,fruity,8e-05
+841,570,170,lemon peel,Sesame,18754.85,fruity,0.15935
+848,570,171,lemon peel,Garden tomato,2387.0,fruity,0.15028
+852,846,171,watercress,Garden tomato,0.0348,fruity,0.0
+858,570,173,lemon peel,Garden tomato (var.),212.3,fruity,0.17343
+862,846,173,watercress,Garden tomato (var.),0.023,fruity,2e-05
+868,570,174,lemon peel,Eggplant,501.0,fruity,0.1412
+872,846,174,watercress,Eggplant,0.3133,fruity,9e-05
+880,570,175,lemon peel,Potato,10239.0,fruity,0.15916
+887,570,177,lemon peel,Sorghum,1460.0,fruity,0.25667
+896,570,178,lemon peel,Spinach,2241.05,fruity,0.13247
+903,570,179,lemon peel,Cloves,390.0,fruity,0.20697
+913,570,182,lemon peel,Cocoa bean,720.0,fruity,0.12383
+917,846,183,watercress,Common thyme,6.099999905,fruity,0.00286
+923,570,186,lemon peel,Fenugreek,2687.0,fruity,0.18754
+930,570,187,lemon peel,Common wheat,6052.15,fruity,0.35342
+931,846,187,watercress,Common wheat,6.631999807,fruity,0.00039
+939,570,188,lemon peel,"Vaccinium (Blueberry, Cranberry, Huckleberry)",174.0,fruity,0.16809
+946,570,191,lemon peel,Highbush blueberry,93.7,fruity,0.19098
+954,570,192,lemon peel,American cranberry,31.0,fruity,0.12088
+957,846,192,watercress,American cranberry,4.733999997,fruity,0.01846
+964,570,198,lemon peel,Adzuki bean,2789.85,fruity,0.14813
+970,570,199,lemon peel,Gram bean,1864.0,fruity,0.16272
+976,570,200,lemon peel,Mung bean,5093.0,fruity,0.14255
+983,570,204,lemon peel,Common grape,401.6,fruity,0.34879
+991,570,205,lemon peel,Corn,35835.35,fruity,0.2765
+993,846,205,watercress,Corn,0.9315950070000001,fruity,1e-05
+1001,570,206,lemon peel,Ginger,596.3,fruity,0.16058
+1010,570,208,lemon peel,Banana,301.0,fruity,0.17862
+1017,570,214,lemon peel,Celeriac,90.0,fruity,0.14354
+1023,570,224,lemon peel,Longan,200.0,fruity,0.11403
+1029,570,229,lemon peel,Nectarine,30.0,fruity,0.1456
+1039,846,237,watercress,Swiss chard,14.600000024,fruity,0.00456
+1046,570,241,lemon peel,Welsh onion,126.0,fruity,0.22303
+1053,570,242,lemon peel,Hard wheat,1459.0,fruity,0.40128
+1054,846,242,watercress,Hard wheat,0.896333337,fruity,0.00025
+1060,570,243,lemon peel,Shallot,978.0,fruity,0.2328
+1067,570,245,lemon peel,Carrot,1043.25,fruity,0.10808
+1071,846,245,watercress,Carrot,7.219799986,fruity,0.00075
+1079,570,246,lemon peel,Triticale,2380.0,fruity,0.33014
+1085,570,247,lemon peel,Black cabbage,652.0,fruity,0.17195
+1092,570,249,lemon peel,Celery leaves,90.0,fruity,0.14354
+1098,570,252,lemon peel,Pak choy,157.0,fruity,0.09387
+1105,570,253,lemon peel,Napa cabbage,87.0,fruity,0.09025
+1112,570,256,lemon peel,Grapefruit,738.0,fruity,0.38088
+1115,846,256,watercress,Grapefruit,0.448999997,fruity,0.00023
+1123,570,261,lemon peel,Daikon radish,331.0,fruity,0.1418
+1131,570,264,lemon peel,Red beetroot,248.85,fruity,0.10529
+1138,570,269,lemon peel,Other bread,17190.0,fruity,0.37857
+1145,570,270,lemon peel,Breakfast cereal,39439.0,fruity,0.30643
+1151,570,272,lemon peel,Other soy product,36168.0,fruity,0.19015
+1157,570,274,lemon peel,Pasta,54204.0,fruity,0.39806
+1164,570,275,lemon peel,Biscuit,47061.0,fruity,0.3257
+1170,570,280,lemon peel,Abalone,1549.0,fruity,0.13438
+1176,570,283,lemon peel,Acorn,870.0,fruity,0.1369
+1182,570,284,lemon peel,Winter squash,439.0,fruity,0.15623
+1188,570,286,lemon peel,Red king crab,1241.0,fruity,0.10391
+1194,570,289,lemon peel,Amaranth,1815.3,fruity,0.15541
+1200,570,291,lemon peel,Arrowroot,9.0,fruity,0.12329
+1206,570,292,lemon peel,Asian pear,16.0,fruity,0.18605
+1212,570,293,lemon peel,Atlantic herring,3690.0,fruity,0.11015
+1218,570,294,lemon peel,Atlantic mackerel,1501.0,fruity,0.11018
+1224,570,295,lemon peel,Painted comber,1161.0,fruity,0.10832
+1230,570,296,lemon peel,Atlantic pollock,1569.0,fruity,0.11019
+1236,570,297,lemon peel,Atlantic wolffish,2592.0,fruity,0.11837
+1242,570,299,lemon peel,Striped bass,1431.0,fruity,0.11019
+1248,570,301,lemon peel,Beech nut,326.0,fruity,0.1677
+1254,570,302,lemon peel,Beluga whale,3481.0,fruity,0.15242
+1260,570,306,lemon peel,Blue crab,2627.0,fruity,0.11367
+1266,570,307,lemon peel,Blue mussel,1457.0,fruity,0.12985
+1272,570,308,lemon peel,Northern bluefin tuna,1882.0,fruity,0.11014
+1278,570,309,lemon peel,Bluefish,1617.0,fruity,0.11017
+1284,570,312,lemon peel,Breadfruit,1548.5,fruity,0.13742
+1290,570,313,lemon peel,Breadnut tree seed,726.0,fruity,0.1338
+1296,570,314,lemon peel,Rapini,289.0,fruity,0.16309
+1302,570,317,lemon peel,Burbot,1558.0,fruity,0.11015
+1308,570,319,lemon peel,American butterfish,1394.0,fruity,0.11015
+1314,570,320,lemon peel,Butternut,2493.35,fruity,0.16693
+1320,570,321,lemon peel,Butternut squash,251.0,fruity,0.15697
+1326,570,326,lemon peel,Carob,2234.0,fruity,0.15278
+1333,570,327,lemon peel,Common carp,1439.0,fruity,0.11017
+1339,570,328,lemon peel,Cassava,257.75,fruity,0.17531
+1345,570,329,lemon peel,Channel catfish,3170.0,fruity,0.11463
+1351,570,330,lemon peel,Chayote,566.75,fruity,0.16478
+1357,570,331,lemon peel,Cherimoya,157.0,fruity,0.3848
+1363,570,332,lemon peel,Chervil,488.0,fruity,0.14743
+1369,570,333,lemon peel,Chia,776.0,fruity,0.14758
+1375,570,334,lemon peel,Chicken,12540.0,fruity,0.19012
+1381,570,336,lemon peel,Chinese chestnut,708.0,fruity,0.14458
+1387,570,339,lemon peel,Cisco,1250.0,fruity,0.11018
+1393,570,341,lemon peel,Coconut,2695.0,fruity,0.15699
+1399,570,342,lemon peel,Pacific cod,1140.0,fruity,0.10705
+1405,570,343,lemon peel,Atlantic cod,4463.0,fruity,0.11017
+1411,570,344,lemon peel,Common octopus,1825.0,fruity,0.12983
+1417,570,345,lemon peel,Corn salad,658.5,fruity,0.16214
+1423,570,346,lemon peel,Cottonseed,7355.0,fruity,0.1547
+1429,570,347,lemon peel,Catjang pea,1802.0,fruity,0.16076
+1435,570,348,lemon peel,Malus (Crab apple),42.0,fruity,0.1597
+1441,570,350,lemon peel,Atlantic croaker,1388.0,fruity,0.12047
+1447,570,351,lemon peel,Cusk,1533.0,fruity,0.1102
+1453,570,352,lemon peel,Cuttlefish,1987.0,fruity,0.1298
+1459,570,355,lemon peel,Dock,328.0,fruity,0.16673
+1466,570,356,lemon peel,Dolphin fish,1493.0,fruity,0.11018
+1472,570,357,lemon peel,Freshwater drum,1415.0,fruity,0.11014
+1478,570,359,lemon peel,Dungeness crab,1310.0,fruity,0.10404
+1484,570,361,lemon peel,Eastern oyster,1811.0,fruity,0.13497
+1490,570,362,lemon peel,Freshwater eel,1488.0,fruity,0.11017
+1496,570,363,lemon peel,Elderberry,151.0,fruity,0.13153
+1504,570,367,lemon peel,European anchovy,1741.0,fruity,0.11017
+1510,570,368,lemon peel,European chestnut,1246.6,fruity,0.16675
+1516,570,369,lemon peel,Turbot,2456.0,fruity,0.11821
+1522,570,371,lemon peel,Florida pompano,1491.0,fruity,0.11018
+1528,570,372,lemon peel,Ginkgo nuts,1921.4,fruity,0.25252
+1534,570,374,lemon peel,Grape,619.0,fruity,0.27436
+1541,570,375,lemon peel,Greenland halibut/turbot,2159.0,fruity,0.11978
+1547,570,377,lemon peel,Grouper,1563.0,fruity,0.11012
+1553,570,379,lemon peel,Haddock,5960.0,fruity,0.12511
+1559,570,380,lemon peel,Hippoglossus (Common halibut),3152.0,fruity,0.11217
+1565,570,381,lemon peel,Hazelnut,2998.0,fruity,0.16393
+1571,570,382,lemon peel,Hickory nut,571.0,fruity,0.15765
+1577,570,384,lemon peel,Horseradish tree,2239.25,fruity,0.14692
+1585,570,386,lemon peel,Hyacinth bean,2648.6,fruity,0.1404
+1591,570,388,lemon peel,Pacific jack mackerel,820.0,fruity,0.11016
+1597,570,389,lemon peel,Jackfruit,17.0,fruity,0.03803
+1603,570,390,lemon peel,Japanese chestnut,705.0,fruity,0.17529
+1609,570,392,lemon peel,Jerusalem artichoke,257.3,fruity,0.14516
+1615,570,394,lemon peel,Jute,1695.1,fruity,0.18062
+1622,570,395,lemon peel,Kale,2002.0,fruity,0.2118
+1629,570,396,lemon peel,Kelp,73.0,fruity,0.15368
+1635,570,397,lemon peel,King mackerel,1636.0,fruity,0.11012
+1641,570,399,lemon peel,Lambsquarters,1384.75,fruity,0.14396
+1647,570,401,lemon peel,Wild leek,812.0,fruity,0.17296
+1654,570,402,lemon peel,Common ling,1532.0,fruity,0.11016
+1660,570,403,lemon peel,Lingcod,1425.0,fruity,0.11017
+1666,570,404,lemon peel,American lobster,1593.0,fruity,0.14013
+1672,570,406,lemon peel,Lotus,1629.0,fruity,0.23998
+1678,570,407,lemon peel,Sacred lotus,1386.2,fruity,0.18322
+1686,570,408,lemon peel,White lupine,4308.0,fruity,0.11266
+1693,570,409,lemon peel,Malabar spinach,612.25,fruity,0.17032
+1699,570,413,lemon peel,Milkfish,1657.0,fruity,0.11018
+1705,570,414,lemon peel,Monkfish,1168.0,fruity,0.11013
+1711,570,417,lemon peel,Mountain yam,323.25,fruity,0.1644
+1717,570,418,lemon peel,Striped mullet,1561.0,fruity,0.11015
+1723,570,420,lemon peel,White mustard,5190.0,fruity,0.26717
+1729,570,423,lemon peel,Nopal,88.0,fruity,0.14991
+1735,570,424,lemon peel,Ocean pout,1342.0,fruity,0.11013
+1741,570,427,lemon peel,Okra,332.0,fruity,0.11008
+1747,570,432,lemon peel,Pacific herring,1323.0,fruity,0.11019
+1753,570,433,lemon peel,Pacific oyster,1157.0,fruity,0.12987
+1759,570,434,lemon peel,Pacific rockfish,1540.0,fruity,0.11562
+1765,570,436,lemon peel,Pepper (C. frutescens),398.45,fruity,0.18996
+1771,570,437,lemon peel,Common persimmon,31.0,fruity,0.14419
+1777,570,439,lemon peel,Northern pike,1554.0,fruity,0.11019
+1783,570,440,lemon peel,Pili nut,471.0,fruity,0.15287
+1789,570,441,lemon peel,Colorado pinyon,1263.5,fruity,0.19024
+1795,570,444,lemon peel,French plantain,180.0,fruity,0.18614
+1801,570,447,lemon peel,Opium poppy,3854.6,fruity,0.27567
+1807,570,448,lemon peel,Prairie turnip,126.6,fruity,0.12822
+1813,570,450,lemon peel,Quinoa,1013.0,fruity,0.20982
+1819,570,453,lemon peel,Rainbow smelt,1422.0,fruity,0.11014
+1825,570,454,lemon peel,Rainbow trout,3154.0,fruity,0.11019
+1831,570,458,lemon peel,Orange roughy,1274.0,fruity,0.10791
+1837,570,459,lemon peel,Sablefish,1706.0,fruity,0.11013
+1843,570,460,lemon peel,Pink salmon,5454.0,fruity,0.12131
+1849,570,461,lemon peel,Chum salmon,3831.0,fruity,0.109
+1855,570,462,lemon peel,Coho salmon,4952.0,fruity,0.11135
+1861,570,463,lemon peel,Sockeye salmon,8911.0,fruity,0.12056
+1867,570,464,lemon peel,Chinook salmon,3989.0,fruity,0.11737
+1873,570,465,lemon peel,Atlantic salmon,3103.0,fruity,0.1096
+1879,570,468,lemon peel,Sapodilla,36.0,fruity,0.26471
+1885,570,469,lemon peel,Mamey sapote,85.0,fruity,0.19953
+1891,570,470,lemon peel,Spanish mackerel,1516.0,fruity,0.11017
+1897,570,471,lemon peel,Pacific sardine,651.0,fruity,0.1198
+1903,570,472,lemon peel,Scallop,2276.0,fruity,0.1282
+1909,570,473,lemon peel,Scup,1523.0,fruity,0.11015
+1914,570,475,lemon peel,Steller sea lion,200.0,fruity,0.25
+1920,570,476,lemon peel,Bearded seal,9355.0,fruity,0.15198
+1926,570,478,lemon peel,Sea trout,1351.0,fruity,0.11016
+1932,570,480,lemon peel,American shad,1366.0,fruity,0.11015
+1938,570,481,lemon peel,Shark,1486.0,fruity,0.11721
+1944,570,482,lemon peel,Sheefish,1150.0,fruity,0.15232
+1949,570,483,lemon peel,"Sheep (Mutton, Lamb)",7120.0,fruity,0.18351
+1955,570,484,lemon peel,Sheepshead,1635.0,fruity,0.1102
+1961,570,485,lemon peel,Hedge mustard,673.0,fruity,0.16884
+1967,570,486,lemon peel,Skipjack tuna,1775.0,fruity,0.11016
+1973,570,487,lemon peel,Snapper,1655.0,fruity,0.11019
+1979,570,489,lemon peel,Spelt,1625.0,fruity,0.38434
+1985,570,490,lemon peel,Spirulina,2627.0,fruity,0.12459
+1991,570,493,lemon peel,Strawberry guava,73.5,fruity,0.15123
+1997,570,494,lemon peel,Greater sturgeon,2406.0,fruity,0.11017
+2003,570,495,lemon peel,White sucker,1353.0,fruity,0.11023
+2009,570,497,lemon peel,Pumpkinseed sunfish,1565.0,fruity,0.11015
+2015,570,498,lemon peel,Swordfish,1535.0,fruity,0.11018
+2021,570,499,lemon peel,Taro,234.25,fruity,0.04086
+2029,570,500,lemon peel,Teff,857.0,fruity,0.19477
+2035,570,501,lemon peel,Tilefish,1485.0,fruity,0.11019
+2041,570,504,lemon peel,"Salmonidae (Salmon, Trout)",7696.0,fruity,0.12423
+2047,570,505,lemon peel,Turkey,2531.0,fruity,0.16084
+2053,570,506,lemon peel,"Cattle (Beef, Veal)",1010930.0,fruity,0.13146
+2059,570,507,lemon peel,Walleye,1545.0,fruity,0.11021
+2065,570,508,lemon peel,Alaska pollock,1293.0,fruity,0.11315
+2071,570,511,lemon peel,Whelk,3547.0,fruity,0.15774
+2077,570,514,lemon peel,Whitefish,6447.0,fruity,0.1326
+2083,570,515,lemon peel,Whiting,1478.0,fruity,0.11018
+2089,570,516,lemon peel,Wild rice,659.0,fruity,0.12574
+2095,570,518,lemon peel,Winged bean,6365.85,fruity,0.20599
+2101,570,519,lemon peel,Yam,268.0,fruity,0.16962
+2107,570,520,lemon peel,Jicama,315.0,fruity,0.20352
+2113,570,522,lemon peel,Yellowfin tuna,1815.0,fruity,0.11023
+2119,570,523,lemon peel,Yellowtail amberjack,1867.0,fruity,0.11015
+2125,570,525,lemon peel,Albacore tuna,3546.0,fruity,0.11014
+2131,570,526,lemon peel,Gadus (Common cod),9840.0,fruity,0.1373
+2137,570,527,lemon peel,Atlantic halibut,2760.0,fruity,0.11917
+2143,570,530,lemon peel,Smelt,2360.0,fruity,0.13817
+2149,570,531,lemon peel,"Clupeinae (Herring, Sardine, Sprat)",15520.0,fruity,0.13213
+2155,570,532,lemon peel,Spiny lobster,1549.0,fruity,0.10399
+2161,570,533,lemon peel,Snow crab,1392.0,fruity,0.10403
+2167,570,534,lemon peel,Black-eyed pea,2087.0,fruity,0.11108
+2173,570,535,lemon peel,Deer,10466.0,fruity,0.14189
+2179,570,536,lemon peel,Macadamia nut,1329.75,fruity,0.20532
+2185,570,537,lemon peel,Percoidei (Bass and others),4575.0,fruity,0.1102
+2191,570,538,lemon peel,Perciformes,1620.0,fruity,0.1102
+2197,570,540,lemon peel,Rabbit,4459.0,fruity,0.1397
+2206,570,544,lemon peel,"Bivalvia (Clam, Mussel, Oyster)",4912.0,fruity,0.14892
+2212,570,545,lemon peel,Squid,1418.0,fruity,0.13474
+2218,570,546,lemon peel,Shrimp,11271.0,fruity,0.14396
+2224,570,547,lemon peel,Crayfish,2146.0,fruity,0.10408
+2230,570,548,lemon peel,Flatfish,2426.0,fruity,0.12046
+2236,570,549,lemon peel,Domestic pig,453660.0,fruity,0.13989
+2242,570,552,lemon peel,Oriental wheat,2293.0,fruity,0.38223
+2248,570,553,lemon peel,Yardlong bean,1840.0,fruity,0.0964
+2255,570,555,lemon peel,Quail,2491.0,fruity,0.10908
+2261,570,557,lemon peel,Persian lime,30.0,fruity,0.26838
+2268,570,558,lemon peel,Feijoa,26.0,fruity,0.125
+2274,570,561,lemon peel,Common mushroom,1269.0,fruity,0.13084
+2280,570,562,lemon peel,Shiitake,727.0,fruity,0.15225
+2286,570,563,lemon peel,Purple laver,251.0,fruity,0.11713
+2292,570,564,lemon peel,Wakame,92.0,fruity,0.12958
+2298,570,565,lemon peel,Enokitake,60.0,fruity,0.06977
+2304,570,567,lemon peel,Oyster mushroom,382.0,fruity,0.13432
+2310,570,569,lemon peel,Maitake,60.0,fruity,0.11236
+2316,570,571,lemon peel,Spot croaker,1494.0,fruity,0.11019
+2322,570,575,lemon peel,Wheat,49930.0,fruity,0.32366
+2329,570,577,lemon peel,Agave,13.0,fruity,0.11304
+2335,570,580,lemon peel,Anchovy,1080.0,fruity,0.1374
+2341,570,587,lemon peel,Crab,5700.0,fruity,0.14438
+2347,570,590,lemon peel,Anatidae,9690.0,fruity,0.17126
+2353,570,591,lemon peel,Anguilliformes,3120.0,fruity,0.13991
+2359,570,593,lemon peel,Garfish,1500.0,fruity,0.12
+2365,570,597,lemon peel,Lemon sole,2200.0,fruity,0.14676
+2371,570,598,lemon peel,Clawed lobster,4940.0,fruity,0.14394
+2377,570,600,lemon peel,"Scombridae (Bonito, Mackerel, Tuna)",5020.0,fruity,0.12358
+2383,570,601,lemon peel,Marine mussel,4400.0,fruity,0.14226
+2389,570,603,lemon peel,Norway lobster,1700.0,fruity,0.14505
+2395,570,606,lemon peel,True oyster,340.0,fruity,0.12879
+2401,570,608,lemon peel,Persimmon,54.0,fruity,0.16216
+2407,570,610,lemon peel,"Pleuronectidae (Dab, Halibut, Plaice)",1580.0,fruity,0.13527
+2413,570,618,lemon peel,True sole,780.0,fruity,0.11982
+2419,570,619,lemon peel,Catfish,2090.0,fruity,0.12005
+2425,570,621,lemon peel,Thunnus,10969.0,fruity,0.11756
+2431,570,622,lemon peel,Walnut,650.0,fruity,0.157
+2436,570,624,lemon peel,"Columbidae (Dove, Pigeon)",1610.0,fruity,0.17312
+2442,570,630,lemon peel,Liquor,812.0,fruity,0.00316
+2450,570,631,lemon peel,Cheese,420032.0,fruity,0.32135
+2456,570,632,lemon peel,Milk (Cow),11080.0,fruity,0.00578
+2463,570,633,lemon peel,Eggs,49092.0,fruity,0.13591
+2470,570,634,lemon peel,Yogurt,13134.0,fruity,0.29578
+2476,570,638,lemon peel,Bean,1753.0,fruity,0.16327
+2483,570,641,lemon peel,Ice cream,6221.0,fruity,0.27798
+2489,570,643,lemon peel,Honey,90.0,fruity,0.70247
+2498,570,654,lemon peel,Cake,20339.0,fruity,0.28871
+2504,570,655,lemon peel,Pizza,38623.0,fruity,0.33118
+2510,570,656,lemon peel,Ymer,2600.0,fruity,0.32059
+2516,570,657,lemon peel,Other snack food,22616.0,fruity,0.24484
+2522,570,659,lemon peel,Crisp bread,11142.0,fruity,0.3229
+2529,570,660,lemon peel,Pastry,51375.0,fruity,0.32376
+2535,570,663,lemon peel,Marzipan,1100.0,fruity,0.18456
+2541,570,664,lemon peel,Salad dressing,2365.0,fruity,0.25565
+2547,570,665,lemon peel,Sauce,2405.0,fruity,0.26296
+2554,570,667,lemon peel,Butter,438.0,fruity,0.29475
+2560,570,669,lemon peel,Cream,6315.0,fruity,0.29542
+2566,570,671,lemon peel,Sausage,81072.0,fruity,0.16369
+2572,570,673,lemon peel,Mustard,960.0,fruity,0.29448
+2578,570,674,lemon peel,Pate,3820.0,fruity,0.16648
+2584,570,677,lemon peel,Meat bouillon,7760.0,fruity,0.22746
+2590,570,679,lemon peel,Whey,6466.0,fruity,0.2691
+2596,570,680,lemon peel,Casein,9400.0,fruity,0.20982
+2602,570,681,lemon peel,Fruit preserve,23.0,fruity,0.13939
+2608,570,682,lemon peel,Leavening agent,7567.0,fruity,0.13665
+2614,570,683,lemon peel,Marshmallow,275.0,fruity,0.27282
+2620,570,684,lemon peel,Gelatin,26200.0,fruity,0.27089
+2626,570,686,lemon peel,Other fish product,3417.0,fruity,0.13852
+2632,570,687,lemon peel,Milk (Human),82.0,fruity,0.25
+2639,570,689,lemon peel,Other beverage,2146.0,fruity,0.24596
+2646,570,690,lemon peel,Baby food,22516.0,fruity,0.20586
+2652,570,692,lemon peel,Soup,18087.0,fruity,0.22368
+2658,570,693,lemon peel,Other vegetable product,1157.0,fruity,0.12528
+2664,570,694,lemon peel,Unclassified food or beverage,1045.0,fruity,0.01074
+2672,570,695,lemon peel,Syrup,765.0,fruity,0.22815
+2678,570,696,lemon peel,Tallow,2880.0,fruity,0.2063
+2685,570,701,lemon peel,Other candy,2293.0,fruity,0.14351
+2691,570,704,lemon peel,Other animal fat,400.0,fruity,0.14184
+2698,570,707,lemon peel,Cocoa powder,5611.0,fruity,0.13613
+2700,846,707,watercress,Cocoa powder,3.700000048,fruity,9e-05
+2708,570,709,lemon peel,Chocolate,5420.0,fruity,0.21099
+2715,570,710,lemon peel,Hot chocolate,4363.0,fruity,0.29982
+2721,570,711,lemon peel,Dried milk,34743.0,fruity,0.29155
+2727,570,712,lemon peel,Milk (Other mammals),2052.0,fruity,0.29978
+2733,570,713,lemon peel,Kefir,660.0,fruity,0.30359
+2739,570,714,lemon peel,Buttermilk,5669.0,fruity,0.28803
+2745,570,715,lemon peel,Other fermented milk,1380.0,fruity,0.30626
+2751,570,716,lemon peel,Soy sauce,2567.0,fruity,0.24876
+2757,570,717,lemon peel,Miso,619.0,fruity,0.21033
+2763,570,718,lemon peel,Tofu,13000.0,fruity,0.18964
+2770,570,722,lemon peel,Roe,3914.0,fruity,0.15953
+2776,570,723,lemon peel,Cichlidae (Tilapia),1710.0,fruity,0.11705
+2783,570,724,lemon peel,Icing,486.0,fruity,0.13858
+2790,570,725,lemon peel,Snack bar,15543.0,fruity,0.20875
+2796,570,728,lemon peel,Burrito,7605.0,fruity,0.24014
+2802,570,729,lemon peel,Hamburger,31558.0,fruity,0.21313
+2808,570,730,lemon peel,Baked beans,1753.0,fruity,0.16327
+2814,570,731,lemon peel,Chili,1151.0,fruity,0.15896
+2820,570,732,lemon peel,Taco,3673.0,fruity,0.2154
+2826,570,733,lemon peel,Tortilla,4622.0,fruity,0.37017
+2832,570,734,lemon peel,Nachos,3662.0,fruity,0.26771
+2838,570,735,lemon peel,Processed cheese,15793.0,fruity,0.30284
+2844,570,736,lemon peel,Salad,1940.0,fruity,0.16798
+2851,570,737,lemon peel,Cream substitute,1044.0,fruity,0.26444
+2857,570,739,lemon peel,Topping,1507.0,fruity,0.27662
+2863,570,740,lemon peel,Sweet custard,1682.0,fruity,0.24974
+2869,570,742,lemon peel,Egg roll,2848.0,fruity,0.31184
+2875,570,743,lemon peel,Heart of palm,88.0,fruity,0.15686
+2881,570,744,lemon peel,Popcorn,7879.0,fruity,0.25574
+2887,570,745,lemon peel,Potato chip,3608.0,fruity,0.16065
+2893,570,746,lemon peel,Tortilla chip,4346.0,fruity,0.27613
+2899,570,747,lemon peel,Corn chip,4441.0,fruity,0.25811
+2905,570,749,lemon peel,Stew,1527.0,fruity,0.17594
+2911,570,750,lemon peel,Gelatin dessert,32784.0,fruity,0.27203
+2918,570,751,lemon peel,Junket,1346.0,fruity,0.23827
+2924,570,752,lemon peel,Falafel,545.0,fruity,0.15834
+2931,570,754,lemon peel,Other frozen dessert,270.0,fruity,0.18621
+2937,570,755,lemon peel,Lasagna,2844.0,fruity,0.536
+2943,570,757,lemon peel,Pancake,8604.0,fruity,0.30227
+2950,570,759,lemon peel,Pudding,5284.0,fruity,0.25668
+2957,570,760,lemon peel,Waffle,3067.0,fruity,0.31087
+2964,570,761,lemon peel,Soy milk,482.0,fruity,0.20537
+2970,570,762,lemon peel,Meatloaf,9443.0,fruity,0.16523
+2976,570,765,lemon peel,Couscous,1821.0,fruity,0.42467
+2982,570,766,lemon peel,Bulgur,1595.0,fruity,0.36887
+2988,570,767,lemon peel,Coffee substitute,575.0,fruity,0.24499
+2994,570,769,lemon peel,Chimichanga,2823.0,fruity,0.21724
+3000,570,770,lemon peel,Semolina,4990.0,fruity,0.42951
+3006,570,771,lemon peel,Tapioca pearl,5.0,fruity,0.18519
+3012,570,772,lemon peel,Tostada,2049.0,fruity,0.21749
+3018,570,774,lemon peel,Baked potato,1767.0,fruity,0.25203
+3024,570,775,lemon peel,Hot dog,2172.0,fruity,0.20897
+3030,570,776,lemon peel,Spread,3562.0,fruity,0.16544
+3036,570,777,lemon peel,Enchilada,1616.0,fruity,0.2365
+3042,570,778,lemon peel,Egg substitute,558.0,fruity,0.15906
+3049,570,779,lemon peel,Nutritional drink,425.0,fruity,0.33919
+3055,570,780,lemon peel,Other sandwich,12894.0,fruity,0.20753
+3061,570,781,lemon peel,Ketchup,244.0,fruity,0.17087
+3068,570,782,lemon peel,Breakfast sandwich,16881.0,fruity,0.22317
+3074,570,784,lemon peel,Macaroni and cheese,6663.0,fruity,0.34145
+3080,570,785,lemon peel,Butterfat,27.0,fruity,0.27551
+3086,570,787,lemon peel,Hushpuppy,693.0,fruity,0.2973
+3092,570,789,lemon peel,Relish,100.0,fruity,0.1845
+3098,570,790,lemon peel,Other fruit product,340.0,fruity,0.24781
+3104,570,793,lemon peel,Vegetarian food,5354.0,fruity,0.20426
+3110,570,795,lemon peel,Cold cut,8548.0,fruity,0.1591
+3116,570,796,lemon peel,Mixed nuts,7679.0,fruity,0.1761
+3122,570,803,lemon peel,Phyllo dough,826.0,fruity,0.41929
+3129,570,805,lemon peel,Pie crust,9470.0,fruity,0.4026
+3135,570,806,lemon peel,Pie filling,14.0,fruity,0.2
+3142,570,807,lemon peel,Pie,7922.0,fruity,0.3079
+3149,570,810,lemon peel,Ice cream cone,1885.0,fruity,0.42831
+3155,570,812,lemon peel,Cracker,36945.0,fruity,0.37394
+3161,570,815,lemon peel,Natto,1403.0,fruity,0.25207
+3167,570,816,lemon peel,Ravioli,619.0,fruity,0.27511
+3173,570,818,lemon peel,Other pasta dish,947.0,fruity,0.34499
+3179,570,819,lemon peel,Succotash,1301.0,fruity,0.13583
+3185,570,820,lemon peel,Tamale,1012.0,fruity,0.19276
+3191,570,824,lemon peel,Evaporated milk,2711.0,fruity,0.27917
+3197,570,829,lemon peel,Pita bread,3070.0,fruity,0.39425
+3203,570,831,lemon peel,Bagel,10543.0,fruity,0.40007
+3209,570,832,lemon peel,Other bread product,10622.0,fruity,0.38143
+3215,570,835,lemon peel,French toast,2416.0,fruity,0.28575
+3221,570,836,lemon peel,Wheat bread,38219.0,fruity,0.39055
+3227,570,837,lemon peel,Rye bread,11663.0,fruity,0.36668
+3228,846,837,watercress,Rye bread,3.069999993,fruity,0.0001
+3235,570,838,lemon peel,Oat bread,7105.0,fruity,0.33691
+3241,570,839,lemon peel,Potato bread,479.0,fruity,0.27293
+3247,570,840,lemon peel,Cornbread,2622.0,fruity,0.31233
+3253,570,841,lemon peel,Corn grits,4412.0,fruity,0.2882
+3259,570,842,lemon peel,Multigrain bread,1473.0,fruity,0.30123
+3265,570,843,lemon peel,Rice bread,1899.0,fruity,0.36185
+3271,570,845,lemon peel,Raisin bread,2555.0,fruity,0.39472
+3277,570,846,lemon peel,Wonton wrapper,1134.0,fruity,0.42456
+3283,570,848,lemon peel,Trail mix,2856.0,fruity,0.17461
+3289,570,850,lemon peel,Fruit-flavor drink,316.0,fruity,0.2878
+3296,570,854,lemon peel,Frozen yogurt,685.0,fruity,0.23531
+3303,570,855,lemon peel,Milkshake,1716.0,fruity,0.28648
+3309,570,858,lemon peel,Pupusa,2223.0,fruity,0.24482
+3315,570,859,lemon peel,Empanada,855.0,fruity,0.24913
+3321,570,860,lemon peel,Arepa,508.0,fruity,0.3031
+3327,570,862,lemon peel,Gefilte fish,341.0,fruity,0.11144
+3333,570,865,lemon peel,Other dish,16449.0,fruity,0.19381
+3340,570,866,lemon peel,Pot pie,1082.0,fruity,0.27036
+3346,570,867,lemon peel,Stuffing,336.0,fruity,0.17266
+3352,570,868,lemon peel,Edible shell,1400.0,fruity,0.31015
+3358,570,871,lemon peel,Condensed milk,766.0,fruity,0.27915
+3364,570,872,lemon peel,Margarine,723.0,fruity,0.31164
+3370,570,873,lemon peel,Margarine-like spread,119.0,fruity,0.29676
+3376,570,874,lemon peel,Hummus,201.0,fruity,0.1574
+3382,570,876,lemon peel,Potato puffs,179.0,fruity,0.14967
+3388,570,877,lemon peel,Potato gratin,1330.0,fruity,0.26316
+3394,570,878,lemon peel,Milk substitute,197.0,fruity,0.30168
+3399,570,880,lemon peel,Soft-necked garlic,170.0,fruity,0.12723
+3406,570,881,lemon peel,Cabbage,1710.05,fruity,0.54119
+3414,570,906,lemon peel,Sunburst squash (pattypan squash),5872.25,fruity,0.13709
+3421,570,907,lemon peel,Green zucchini,692.25,fruity,0.11319
+3422,846,907,watercress,Green zucchini,0.9677,fruity,0.00016
+3429,570,908,lemon peel,Yellow zucchini,692.25,fruity,0.10981
+3438,570,909,lemon peel,Green bell pepper,1382.85,fruity,0.17373
+3441,846,909,watercress,Green bell pepper,2.4195,fruity,0.0003
+3448,570,910,lemon peel,Yellow bell pepper,334.85,fruity,0.15689
+3449,846,910,watercress,Yellow bell pepper,0.5578,fruity,0.00026
+3456,570,911,lemon peel,Orange bell pepper,270.85,fruity,0.12038
+3464,570,912,lemon peel,Red bell pepper,34359.85,fruity,0.16055
+3471,570,913,lemon peel,Italian sweet red pepper,1093.0,fruity,0.18366
+3473,846,913,watercress,Italian sweet red pepper,2.332,fruity,0.00039
+3480,570,914,lemon peel,Yellow wax bean,2238.0,fruity,0.14324
+3483,846,914,watercress,Yellow wax bean,5.7081,fruity,0.00037
+3490,570,915,lemon peel,Green bean,769.0,fruity,0.12219
+3508,570,918,lemon peel,Japanese pumpkin,5584.0,fruity,0.13964
+3515,570,919,lemon peel,White cabbage,1911.05,fruity,0.40442
+3522,570,920,lemon peel,Romaine lettuce,90.0,fruity,0.05594
+3525,846,920,watercress,Romaine lettuce,2.0484999999999998,fruity,0.00127
+3531,570,921,lemon peel,"Cow milk, pasteurized, vitamin A + D added, 0% fat",332.0,fruity,0.27993
+3537,570,922,lemon peel,"Cow milk, pasteurized, vitamin A + D added, 1% fat",332.0,fruity,0.28017
+3543,570,923,lemon peel,"Cow milk, pasteurized, vitamin A + D added, 2% fat",326.0,fruity,0.28055
+3549,570,924,lemon peel,"Cow milk, pasteurized, vitamin D added, 3.25% fat",311.0,fruity,0.28043
+3557,570,939,lemon peel,Black tea,3.0,fruity,0.01614
+3566,570,940,lemon peel,Green tea,3.0,fruity,0.01614
+3573,570,985,lemon peel,Sour cream,271.0,fruity,0.30246
+3579,570,1019,lemon peel,White bread,15770.0,fruity,0.37956
+3585,570,1023,lemon peel,Taco shell,1400.0,fruity,0.31015
+3603,570,155,lemon peel,Blackcurrant,9.8,fruity,0.25873
+3613,570,298,lemon peel,Bamboo shoots,622.0,fruity,0.32737
+3630,570,626,lemon peel,Grape wine,300.0,fruity,0.00069
+3638,846,626,watercress,Grape wine,0.773574828,fruity,0.0
+3644,846,19,watercress,Tarragon,1.8,fruity,0.04557
+3693,846,277,watercress,Spirit,0.020000001,fruity,0.0
+3699,846,640,watercress,Whisky,0.031181818,fruity,0.0
+3704,846,645,watercress,Vinegar,0.094951996,fruity,0.00047
+3709,846,646,watercress,Rum,0.011,fruity,0.0
+3714,846,649,watercress,Sherry,0.075994444,fruity,0.0
+3728,846,3,watercress,Silver linden,0.5,fruity,1.0
+3729,846,61,watercress,Coriander,125.000000024,fruity,0.56687
+3731,846,165,watercress,Common sage,8.119999885999999,fruity,1.0

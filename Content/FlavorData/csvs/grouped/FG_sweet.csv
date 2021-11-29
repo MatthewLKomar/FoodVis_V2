@@ -1,0 +1,29 @@
+,source_id,food_id,flavor_name,food_name,orig_content,flavor_group,normalized
+54,882,88,brownsugar,Barley,0.1,sweet,0.0
+66,838,268,very sweet,Beer,0.024375166,sweet,0.0
+70,882,268,brownsugar,Beer,6.8686812790000005,sweet,0.00016
+167,882,16,brownsugar,Peanut,1.8,sweet,1e-05
+197,838,22,very sweet,Oat,0.212499993,sweet,0.0
+470,882,82,brownsugar,Fennel,125.870002747,sweet,0.00685
+496,838,86,very sweet,Sunflower,0.09,sweet,0.0
+582,838,113,very sweet,Peppermint,0.00055,sweet,0.0
+603,838,121,very sweet,Olive,0.119625035,sweet,0.0002
+834,838,169,very sweet,Rye,0.261000007,sweet,1e-05
+933,882,187,brownsugar,Common wheat,0.35,sweet,2e-05
+948,838,191,very sweet,Highbush blueberry,0.003,sweet,1e-05
+958,882,192,brownsugar,American cranberry,2.320000172,sweet,0.00905
+992,838,205,very sweet,Corn,1.75,sweet,1e-05
+995,882,205,brownsugar,Corn,0.204679996,sweet,0.0
+1117,882,256,brownsugar,Grapefruit,0.266000003,sweet,0.00014
+2699,838,707,very sweet,Cocoa powder,0.100333331,sweet,0.0
+3637,838,626,very sweet,Grape wine,0.02475,sweet,0.0
+3640,882,626,brownsugar,Grape wine,0.114133333,sweet,0.0
+3646,882,19,brownsugar,Tarragon,0.3,sweet,0.00759
+3692,838,277,very sweet,Spirit,0.059611114,sweet,0.0
+3698,838,640,very sweet,Whisky,0.050227273,sweet,0.0
+3703,838,645,very sweet,Vinegar,0.096839573,sweet,0.00048
+3708,838,646,very sweet,Rum,0.082999996,sweet,0.0
+3713,838,649,very sweet,Sherry,0.228235291,sweet,0.0
+3727,838,193,very sweet,Bilberry,0.0015,sweet,1.0
+3733,882,51,brownsugar,Ceylon cinnamon,0.699999988,sweet,0.37534
+3736,882,118,brownsugar,Nutmeg,0.079999998,sweet,0.83333

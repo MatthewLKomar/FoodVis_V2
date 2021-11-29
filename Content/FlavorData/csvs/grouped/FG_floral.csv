@@ -1,0 +1,1226 @@
+,source_id,food_id,flavor_name,food_name,orig_content,flavor_group,normalized
+2,465,197,everlasting,Broad bean,3682.0,floral,0.09827
+4,484,197,foliage,Broad bean,3306.0,floral,0.08823
+8,633,197,neroli,Broad bean,0.382500001,floral,1e-05
+9,358,943,cananga,Red wine,650.0,floral,0.7429
+15,465,949,everlasting,White wine,40.4,floral,0.01035
+16,484,949,foliage,White wine,75.7,floral,0.0194
+25,465,56,everlasting,"Mandarin orange (Clementine, Tangerine)",310.8,floral,0.12475
+27,484,56,foliage,"Mandarin orange (Clementine, Tangerine)",568.9,floral,0.22835
+36,465,57,everlasting,Sweet orange,583.0,floral,0.06502
+38,484,57,foliage,Sweet orange,986.35,floral,0.11001
+41,633,57,neroli,Sweet orange,0.24000000000000002,floral,3e-05
+48,465,88,everlasting,Barley,6677.037191,floral,0.18707
+50,484,88,foliage,Barley,3980.262382,floral,0.11151
+57,465,268,everlasting,Beer,161.17,floral,0.00385
+59,484,268,foliage,Beer,193.193,floral,0.00462
+62,633,268,neroli,Beer,0.81,floral,2e-05
+72,465,2,everlasting,Savoy cabbage,172.0,floral,0.12971
+74,484,2,foliage,Savoy cabbage,90.0,floral,0.06787
+77,633,2,neroli,Savoy cabbage,1.05333334,floral,0.00079
+79,465,4,everlasting,Kiwi,197.0,floral,0.19369
+81,484,4,foliage,Kiwi,206.0,floral,0.20254
+84,633,4,neroli,Kiwi,1.03,floral,0.00101
+87,465,5,everlasting,Allium,1789.0,floral,0.1445
+89,484,5,foliage,Allium,2158.0,floral,0.17431
+93,633,5,neroli,Allium,11.19,floral,0.0009
+95,465,6,everlasting,Garden onion,274.27,floral,0.08094
+97,484,6,foliage,Garden onion,395.31,floral,0.11666
+105,465,7,everlasting,Leek,150.0,floral,0.19685
+107,484,7,foliage,Leek,112.0,floral,0.14698
+111,465,8,everlasting,Garlic,3118.0,floral,0.254
+113,484,8,foliage,Garlic,2225.0,floral,0.18125
+117,633,8,neroli,Garlic,0.26,floral,2e-05
+120,465,9,everlasting,Chives,2158.0,floral,0.17149
+122,484,9,foliage,Chives,2372.25,floral,0.18852
+126,633,9,neroli,Chives,38.060000005999996,floral,0.00302
+128,465,11,everlasting,Cashew nut,12631.0,floral,0.22793
+130,484,11,foliage,Cashew nut,10266.95,floral,0.18527
+133,633,11,neroli,Cashew nut,0.18,floral,0.0
+135,465,12,everlasting,Pineapple,172.2,floral,0.12616
+137,484,12,foliage,Pineapple,191.2,floral,0.14008
+143,465,13,everlasting,Dill,2753.87,floral,0.41106
+145,484,13,foliage,Dill,188.59,floral,0.02815
+150,633,13,neroli,Dill,39.996666667,floral,0.00597
+153,465,15,everlasting,Wild celery,446.0,floral,0.22484
+155,484,15,foliage,Wild celery,344.0,floral,0.17342
+158,633,15,neroli,Wild celery,0.22,floral,0.00011
+160,465,16,everlasting,Peanut,33109.35,floral,0.16403
+162,484,16,foliage,Peanut,46782.65,floral,0.23177
+169,465,17,everlasting,Burdock,224.0,floral,0.14717
+171,484,17,foliage,Burdock,208.0,floral,0.13666
+175,465,18,everlasting,Horseradish,478.0,floral,0.19176
+177,484,18,foliage,Horseradish,303.0,floral,0.12156
+180,633,18,neroli,Horseradish,3.165000098,floral,0.00127
+183,465,21,everlasting,Asparagus,2471.3,floral,0.17404
+185,484,21,foliage,Asparagus,1985.2,floral,0.13981
+189,633,21,neroli,Asparagus,1.39,floral,0.0001
+191,465,22,everlasting,Oat,10639.6193261,floral,0.20708
+193,484,22,foliage,Oat,7791.416273,floral,0.15164
+201,465,23,everlasting,Star fruit,306.0,floral,0.17038
+203,484,23,foliage,Star fruit,306.0,floral,0.17038
+207,465,24,everlasting,Brazil nut,3622.75,floral,0.23967
+209,484,24,foliage,Brazil nut,2826.35,floral,0.18698
+213,465,25,everlasting,Common beet,536.0,floral,0.18262
+215,484,25,foliage,Common beet,445.0,floral,0.15162
+219,465,27,everlasting,Chinese mustard,554.0,floral,0.27569
+222,633,27,neroli,Chinese mustard,38.3,floral,0.01906
+224,465,28,everlasting,Swede,150.0,floral,0.27939
+226,484,28,foliage,Swede,87.0,floral,0.16205
+228,633,28,neroli,Swede,0.887499995,floral,0.00165
+230,465,30,everlasting,Common cabbage,1582.0,floral,0.17535
+232,484,30,foliage,Common cabbage,1024.0,floral,0.1135
+236,633,30,neroli,Common cabbage,74.14214289799999,floral,0.00822
+238,465,31,everlasting,Cauliflower,2106.0,floral,0.21157
+240,484,31,foliage,Cauliflower,1305.0,floral,0.1311
+243,633,31,neroli,Cauliflower,1.788333333,floral,0.00018
+246,465,32,everlasting,Brussel sprouts,3306.85,floral,0.227
+248,484,32,foliage,Brussel sprouts,1100.0,floral,0.07551
+251,633,32,neroli,Brussel sprouts,2.724999983,floral,0.00019
+254,465,34,everlasting,Broccoli,3029.18,floral,0.28106
+256,484,34,foliage,Broccoli,1204.96,floral,0.1118
+260,633,34,neroli,Broccoli,30.269933293,floral,0.00281
+263,465,35,everlasting,Chinese cabbage,112.0,floral,0.20997
+265,484,35,foliage,Chinese cabbage,72.0,floral,0.13498
+269,633,35,neroli,Chinese cabbage,31.26,floral,0.0586
+271,465,36,everlasting,Turnip,1773.46,floral,0.19297
+273,484,36,foliage,Turnip,1551.22,floral,0.16879
+277,633,36,neroli,Turnip,15.046966667,floral,0.00164
+281,465,37,everlasting,Pigeon pea,2501.5,floral,0.16509
+283,484,37,foliage,Pigeon pea,2093.5,floral,0.13816
+289,465,38,everlasting,Tea,3.0,floral,0.01616
+291,484,38,foliage,Tea,5.0,floral,0.02694
+294,633,38,neroli,Tea,10.288454533,floral,0.05544
+296,465,40,everlasting,Pepper,5598.5,floral,0.1772
+298,484,40,foliage,Pepper,5102.9,floral,0.16152
+301,633,40,neroli,Pepper,0.09,floral,0.0
+303,465,41,everlasting,Papaya,81.75,floral,0.12635
+305,484,41,foliage,Papaya,147.55,floral,0.22805
+308,633,41,neroli,Papaya,0.01,floral,2e-05
+310,465,42,everlasting,Safflower,3283.0,floral,0.22297
+312,484,42,foliage,Safflower,3234.0,floral,0.21964
+316,465,43,everlasting,Caraway,1037.0,floral,0.17638
+318,484,43,foliage,Caraway,1322.0,floral,0.22485
+321,633,43,neroli,Caraway,16.399999619,floral,0.00279
+323,465,44,everlasting,Pecan nut,4629.0,floral,0.20218
+325,484,44,foliage,Pecan nut,5039.0,floral,0.22008
+329,465,45,everlasting,Chestnut,220.0,floral,0.19504
+331,484,45,foliage,Chestnut,200.0,floral,0.1773
+335,465,47,everlasting,Chickpea,5089.0,floral,0.17061
+337,484,47,foliage,Chickpea,4832.25,floral,0.162
+341,465,48,everlasting,Endive,853.75,floral,0.18725
+343,484,48,foliage,Endive,786.0,floral,0.17239
+346,633,48,neroli,Endive,10.1,floral,0.00222
+348,465,49,everlasting,Chicory,876.5,floral,0.47888
+350,484,49,foliage,Chicory,48.0,floral,0.02623
+353,633,49,neroli,Chicory,2.45,floral,0.00134
+356,465,50,everlasting,Chinese cinnamon,224.0,floral,0.16197
+358,484,50,foliage,Chinese cinnamon,195.0,floral,0.141
+362,465,52,everlasting,Watermelon,2820.5,floral,0.18123
+364,484,52,foliage,Watermelon,1816.8,floral,0.11674
+367,633,52,neroli,Watermelon,0.45,floral,3e-05
+369,465,54,everlasting,Lemon,36.0,floral,0.12435
+371,484,54,foliage,Lemon,96.0,floral,0.33159
+374,633,54,neroli,Lemon,0.03,floral,0.0001
+378,465,58,everlasting,Coffee,1083.0,floral,0.16004
+380,484,58,foliage,Coffee,1732.0,floral,0.25594
+387,465,59,everlasting,Arabica coffee,1083.0,floral,0.15999
+389,484,59,foliage,Arabica coffee,1732.0,floral,0.25587
+396,465,60,everlasting,Robusta coffee,1083.0,floral,0.16004
+398,484,60,foliage,Robusta coffee,1732.0,floral,0.25594
+404,465,64,everlasting,Muskmelon,167.0,floral,0.16026
+406,484,64,foliage,Muskmelon,128.0,floral,0.12283
+409,633,64,neroli,Muskmelon,0.07,floral,7e-05
+411,465,65,everlasting,Cucumber,429.09999999999997,floral,0.17471
+413,484,65,foliage,Cucumber,497.2,floral,0.20243
+418,633,65,neroli,Cucumber,0.251699997,floral,0.0001
+422,465,66,everlasting,Cucurbita,10361.75,floral,0.19917
+424,484,66,foliage,Cucurbita,10004.1,floral,0.19229
+428,465,72,everlasting,Wild carrot,202.0,floral,0.08707
+430,484,72,foliage,Wild carrot,137.75,floral,0.05938
+433,633,72,neroli,Wild carrot,0.2,floral,9e-05
+434,826,72,unripe plum,Wild carrot,900.0,floral,0.38794
+437,465,73,everlasting,Japanese persimmon,102.0,floral,0.19429
+439,484,73,foliage,Japanese persimmon,85.0,floral,0.1619
+443,465,76,everlasting,Loquat,63.0,floral,0.17452
+445,484,76,foliage,Loquat,60.0,floral,0.1662
+449,465,79,everlasting,Common buckwheat,5061.0,floral,0.19437
+451,484,79,foliage,Common buckwheat,6332.0,floral,0.24318
+455,465,81,everlasting,Fig,844.0,floral,0.13702
+457,484,81,foliage,Fig,769.35,floral,0.1249
+461,465,82,everlasting,Fennel,3694.35,floral,0.20109
+463,484,82,foliage,Fennel,4467.7,floral,0.24318
+467,633,82,neroli,Fennel,13.0,floral,0.00071
+469,872,82,greenleaf,Fennel,54.578571438999994,floral,0.00297
+472,465,83,everlasting,Strawberry,409.0,floral,0.18765
+474,484,83,foliage,Strawberry,400.0,floral,0.18352
+477,633,83,neroli,Strawberry,2.81344828,floral,0.00129
+482,465,85,everlasting,Soy bean,74240.0,floral,0.16921
+484,484,85,foliage,Soy bean,65793.75,floral,0.14996
+487,633,85,neroli,Soy bean,1.23,floral,0.0
+491,465,86,everlasting,Sunflower,15825.0,floral,0.21832
+493,484,86,foliage,Sunflower,15590.0,floral,0.21508
+498,465,91,everlasting,Swamp cabbage,1315.0,floral,0.25005
+500,484,91,foliage,Swamp cabbage,964.0,floral,0.1833
+503,633,91,neroli,Swamp cabbage,0.26,floral,5e-05
+505,465,92,everlasting,Sweet potato,1810.3,floral,0.21622
+507,484,92,foliage,Sweet potato,1245.25,floral,0.14873
+511,633,92,neroli,Sweet potato,2.8899999999999997,floral,0.00035
+513,465,93,everlasting,Black walnut,2241.0,floral,0.23498
+515,484,93,foliage,Black walnut,1999.0,floral,0.2096
+519,465,94,everlasting,Common walnut,1489.75,floral,0.20237
+521,484,94,foliage,Common walnut,1585.25,floral,0.21534
+526,465,95,everlasting,Lettuce,1349.35,floral,0.21017
+528,484,95,foliage,Lettuce,1083.5,floral,0.16876
+531,633,95,neroli,Lettuce,0.274871794,floral,4e-05
+533,465,98,everlasting,Lentils,10340.25,floral,0.18929
+535,484,98,foliage,Lentils,7274.25,floral,0.13316
+540,465,99,everlasting,Garden cress,260.0,floral,0.21311
+542,484,99,foliage,Garden cress,200.0,floral,0.16393
+546,633,99,neroli,Garden cress,26.0,floral,0.02131
+548,465,101,everlasting,Flaxseed,4072.0,floral,0.21246
+550,484,101,foliage,Flaxseed,4648.0,floral,0.24251
+554,465,105,everlasting,Apple,449.0,floral,0.1524
+556,484,105,foliage,Apple,365.85,floral,0.12418
+559,633,105,neroli,Apple,0.15878571400000002,floral,5e-05
+563,465,106,everlasting,Mango,242.0,floral,0.16187
+565,484,106,foliage,Mango,181.5,floral,0.1214
+568,633,106,neroli,Mango,0.05,floral,3e-05
+570,465,112,everlasting,Spearmint,1159.0,floral,0.18905
+572,484,112,foliage,Spearmint,1115.0,floral,0.18187
+577,465,113,everlasting,Peppermint,187.0,floral,0.18889
+579,484,113,foliage,Peppermint,180.0,floral,0.18182
+585,465,119,everlasting,Sweet basil,2294.0,floral,0.17703
+587,484,119,foliage,Sweet basil,2062.0,floral,0.15913
+592,465,120,everlasting,Evening primrose,692.25,floral,0.19127
+594,484,120,foliage,Evening primrose,1050.0,floral,0.29012
+598,465,121,everlasting,Olive,82.0,floral,0.13862
+600,484,121,foliage,Olive,106.0,floral,0.17919
+608,465,124,everlasting,Common oregano,585.0,floral,0.12993
+610,484,124,foliage,Common oregano,517.0,floral,0.11483
+618,465,125,everlasting,Rice,16696.0,floral,0.22467
+620,484,125,foliage,Rice,12470.0,floral,0.1678
+625,465,126,everlasting,Millet,4226.0,floral,0.25987
+627,484,126,foliage,Millet,1210.0,floral,0.07441
+631,465,127,everlasting,Poppy,2600.0,floral,0.21879
+633,484,127,foliage,Poppy,2200.0,floral,0.18513
+637,633,127,neroli,Poppy,2.3,floral,0.00019
+639,465,129,everlasting,Parsnip,357.3196,floral,0.16667
+641,484,129,foliage,Parsnip,270.26210141,floral,0.12607
+648,465,130,everlasting,Avocado,745.0,floral,0.18751
+650,484,130,foliage,Avocado,668.3,floral,0.16821
+654,465,131,everlasting,Parsley,2833.0,floral,0.14494
+656,484,131,foliage,Parsley,2401.0,floral,0.12284
+660,633,131,neroli,Parsley,1.93000001,floral,0.0001
+661,826,131,unripe plum,Parsley,3.238,floral,0.00017
+664,465,133,everlasting,Lima bean,9911.0,floral,0.21746
+666,484,133,foliage,Lima bean,6688.5,floral,0.14676
+670,465,134,everlasting,Common bean,49151.75,floral,0.2028
+672,484,134,foliage,Common bean,34536.9,floral,0.1425
+675,633,134,neroli,Common bean,41.474617593,floral,0.00017
+677,465,135,everlasting,Date,400.75,floral,0.14623
+679,484,135,foliage,Date,523.5,floral,0.19101
+686,465,138,everlasting,Pine nut,2087.0,floral,0.19246
+688,484,138,foliage,Pine nut,2091.0,floral,0.19283
+693,465,139,everlasting,Pepper (Spice),547.0,floral,0.06015
+695,484,139,foliage,Pepper (Spice),441.0,floral,0.04849
+699,465,140,everlasting,Pistachio,10193.4,floral,0.233
+701,484,140,foliage,Pistachio,7987.05,floral,0.18257
+706,465,141,everlasting,Common pea,13354.25,floral,0.21611
+708,484,141,foliage,Common pea,8764.3,floral,0.14183
+711,633,141,neroli,Common pea,50.07,floral,0.00081
+713,465,142,everlasting,Purslane,900.0,floral,0.19831
+715,484,142,foliage,Purslane,705.0,floral,0.15534
+719,633,142,neroli,Purslane,0.66,floral,0.00015
+721,465,143,everlasting,"Prunus (Cherry, Plum)",162.0,floral,0.18706
+723,484,143,foliage,"Prunus (Cherry, Plum)",140.0,floral,0.16166
+726,633,143,neroli,"Prunus (Cherry, Plum)",0.02,floral,2e-05
+728,465,144,everlasting,Apricot,1169.75,floral,0.11508
+730,484,144,foliage,Apricot,932.5,floral,0.09174
+733,633,144,neroli,Apricot,0.69,floral,7e-05
+735,465,145,everlasting,Sweet cherry,24.0,floral,0.15162
+737,484,145,foliage,Sweet cherry,23.0,floral,0.1453
+741,633,145,neroli,Sweet cherry,0.24,floral,0.00152
+743,465,147,everlasting,European plum,367.7,floral,0.17369
+745,484,147,foliage,European plum,265.55,floral,0.12544
+748,633,147,neroli,European plum,0.173333333,floral,8e-05
+751,465,148,everlasting,Almond,10730.6,floral,0.16573
+753,484,148,foliage,Almond,16761.45,floral,0.25887
+757,633,148,neroli,Almond,0.39408750000000003,floral,1e-05
+762,465,149,everlasting,Peach,1743.9,floral,0.22826
+764,484,149,foliage,Peach,967.2,floral,0.1266
+767,633,149,neroli,Peach,0.22,floral,3e-05
+769,465,150,everlasting,Guava,272.8,floral,0.16831
+771,484,150,foliage,Guava,402.1,floral,0.24809
+775,465,152,everlasting,Pear,308.25,floral,0.20345
+777,484,152,foliage,Pear,249.45,floral,0.16464
+782,465,153,everlasting,Radish,450.0,floral,0.22325
+784,484,153,foliage,Radish,307.25,floral,0.15243
+787,633,153,neroli,Radish,30.43,floral,0.0151
+789,465,154,everlasting,Garden rhubarb,168.0,floral,0.26398
+791,484,154,foliage,Garden rhubarb,108.0,floral,0.1697
+796,465,158,everlasting,Watercress,1775.5,floral,0.20341
+798,484,158,foliage,Watercress,1452.0,floral,0.16635
+801,633,158,neroli,Watercress,24.3,floral,0.00278
+803,465,159,everlasting,Rosemary,165.0,floral,0.18206
+805,484,159,foliage,Rosemary,159.0,floral,0.17544
+809,826,159,unripe plum,Rosemary,0.3,floral,0.00033
+812,465,162,everlasting,Red raspberry,40.11768205,floral,0.06533
+814,484,162,foliage,Red raspberry,56.89617846,floral,0.09265
+816,633,162,neroli,Red raspberry,0.07342923100000001,floral,0.00012
+821,465,164,everlasting,Sorrel,260.0,floral,0.20218
+823,484,164,foliage,Sorrel,240.0,floral,0.18663
+828,465,169,everlasting,Rye,6588.5,floral,0.16358
+830,484,169,foliage,Rye,6065.25,floral,0.15059
+837,465,170,everlasting,Sesame,22336.85,floral,0.18979
+839,484,170,foliage,Sesame,27199.4,floral,0.23111
+844,465,171,everlasting,Garden tomato,2780.0,floral,0.17502
+846,484,171,foliage,Garden tomato,2519.0,floral,0.15859
+850,633,171,neroli,Garden tomato,0.29,floral,2e-05
+854,465,173,everlasting,Garden tomato (var.),190.1,floral,0.15529
+856,484,173,foliage,Garden tomato (var.),183.0,floral,0.14949
+859,633,173,neroli,Garden tomato (var.),0.05397826,floral,4e-05
+864,465,174,everlasting,Eggplant,749.1,floral,0.21113
+866,484,174,foliage,Eggplant,516.0600000000001,floral,0.14545
+870,633,174,neroli,Eggplant,0.01,floral,0.0
+875,465,175,everlasting,Potato,15192.65,floral,0.23617
+877,484,175,foliage,Potato,8417.39,floral,0.13085
+881,633,175,neroli,Potato,0.8500000010000001,floral,1e-05
+883,465,177,everlasting,Sorghum,922.0,floral,0.16209
+885,484,177,foliage,Sorghum,639.0,floral,0.11234
+891,465,178,everlasting,Spinach,3168.8,floral,0.18731
+893,484,178,foliage,Spinach,2836.8,floral,0.16769
+897,633,178,neroli,Spinach,14.245142857000001,floral,0.00084
+899,465,179,everlasting,Cloves,340.0,floral,0.18044
+901,484,179,foliage,Cloves,280.0,floral,0.14859
+904,633,179,neroli,Cloves,23.799999237,floral,0.01263
+909,465,182,everlasting,Cocoa bean,570.0,floral,0.09803
+911,484,182,foliage,Cocoa bean,90.0,floral,0.01548
+915,465,183,everlasting,Common thyme,1331.1,floral,0.62313
+919,465,186,everlasting,Fenugreek,2178.5,floral,0.15205
+921,484,186,foliage,Fenugreek,2555.8,floral,0.17839
+926,465,187,everlasting,Common wheat,2283.0,floral,0.13332
+928,484,187,foliage,Common wheat,2127.25,floral,0.12422
+935,465,188,everlasting,"Vaccinium (Blueberry, Cranberry, Huckleberry)",219.0,floral,0.21157
+937,484,188,foliage,"Vaccinium (Blueberry, Cranberry, Huckleberry)",221.0,floral,0.2135
+940,633,188,neroli,"Vaccinium (Blueberry, Cranberry, Huckleberry)",5.14,floral,0.00497
+942,465,191,everlasting,Highbush blueberry,105.0,floral,0.21401
+944,484,191,foliage,Highbush blueberry,104.95,floral,0.21391
+947,633,191,neroli,Highbush blueberry,6.97910918,floral,0.01422
+950,465,192,everlasting,American cranberry,45.0,floral,0.17547
+952,484,192,foliage,American cranberry,48.0,floral,0.18717
+955,633,192,neroli,American cranberry,0.34333333099999996,floral,0.00134
+960,465,198,everlasting,Adzuki bean,3264.4,floral,0.17332
+962,484,198,foliage,Adzuki bean,2412.7,floral,0.1281
+966,465,199,everlasting,Gram bean,2262.0,floral,0.19747
+968,484,199,foliage,Gram bean,1683.0,floral,0.14692
+972,465,200,everlasting,Mung bean,7266.25,floral,0.20338
+974,484,200,foliage,Mung bean,5225.85,floral,0.14627
+977,633,200,neroli,Mung bean,0.33,floral,1e-05
+979,465,204,everlasting,Common grape,160.3,floral,0.13922
+981,484,204,foliage,Common grape,157.45,floral,0.13675
+984,633,204,neroli,Common grape,2.7199999999999998,floral,0.00236
+987,465,205,everlasting,Corn,20298.3,floral,0.15662
+989,484,205,foliage,Corn,15060.65,floral,0.11621
+997,465,206,everlasting,Ginger,876.6,floral,0.23607
+999,484,206,foliage,Ginger,773.8,floral,0.20838
+1002,633,206,neroli,Ginger,33.6,floral,0.00905
+1004,826,206,unripe plum,Ginger,1.775,floral,0.00048
+1006,465,208,everlasting,Banana,389.0,floral,0.23085
+1008,484,208,foliage,Banana,270.0,floral,0.16023
+1011,633,208,neroli,Banana,0.11,floral,7e-05
+1013,465,214,everlasting,Celeriac,174.0,floral,0.27751
+1015,484,214,foliage,Celeriac,90.0,floral,0.14354
+1019,465,224,everlasting,Longan,275.0,floral,0.15678
+1021,484,224,foliage,Longan,200.0,floral,0.11403
+1025,465,229,everlasting,Nectarine,39.0,floral,0.18928
+1027,484,229,foliage,Nectarine,33.0,floral,0.16016
+1030,633,229,neroli,Nectarine,0.04,floral,0.00019
+1032,465,237,everlasting,Swiss chard,1016.2198441,floral,0.31768
+1034,484,237,foliage,Swiss chard,183.7621709,floral,0.05744
+1037,633,237,neroli,Swiss chard,33.300000048,floral,0.01041
+1042,465,241,everlasting,Welsh onion,84.0,floral,0.14869
+1044,484,241,foliage,Welsh onion,94.0,floral,0.16639
+1047,633,241,neroli,Welsh onion,24.95,floral,0.04416
+1049,465,242,everlasting,Hard wheat,594.0,floral,0.16337
+1051,484,242,foliage,Hard wheat,495.0,floral,0.13614
+1056,465,243,everlasting,Shallot,653.0,floral,0.15544
+1058,484,243,foliage,Shallot,734.0,floral,0.17472
+1063,465,245,everlasting,Carrot,1626.94,floral,0.16855
+1065,484,245,foliage,Carrot,831.4300000000001,floral,0.08614
+1069,633,245,neroli,Carrot,4.719400004000001,floral,0.00049
+1070,826,245,unripe plum,Carrot,900.0,floral,0.09324
+1075,465,246,everlasting,Triticale,1224.0,floral,0.16979
+1077,484,246,foliage,Triticale,1124.0,floral,0.15592
+1081,465,247,everlasting,Black cabbage,749.0,floral,0.19753
+1083,484,247,foliage,Black cabbage,587.0,floral,0.15481
+1086,633,247,neroli,Black cabbage,8.74,floral,0.00231
+1088,465,249,everlasting,Celery leaves,174.0,floral,0.27751
+1090,484,249,foliage,Celery leaves,90.0,floral,0.14354
+1094,465,252,everlasting,Pak choy,338.0,floral,0.20208
+1096,484,252,foliage,Pak choy,219.0,floral,0.13093
+1099,633,252,neroli,Pak choy,9.600000381,floral,0.00574
+1101,465,253,everlasting,Napa cabbage,185.0,floral,0.1919
+1103,484,253,foliage,Napa cabbage,121.0,floral,0.12551
+1106,633,253,neroli,Napa cabbage,0.04,floral,4e-05
+1108,465,256,everlasting,Grapefruit,191.0,floral,0.09858
+1110,484,256,foliage,Grapefruit,168.0,floral,0.0867
+1113,633,256,neroli,Grapefruit,0.676666671,floral,0.00035
+1119,465,261,everlasting,Daikon radish,525.0,floral,0.2249
+1121,484,261,foliage,Daikon radish,357.0,floral,0.15293
+1124,633,261,neroli,Daikon radish,0.34,floral,0.00015
+1126,465,264,everlasting,Red beetroot,492.1,floral,0.20822
+1128,484,264,foliage,Red beetroot,325.21,floral,0.1376
+1134,465,269,everlasting,Other bread,7322.0,floral,0.16125
+1136,484,269,foliage,Other bread,5868.0,floral,0.12923
+1141,465,270,everlasting,Breakfast cereal,22090.0,floral,0.17163
+1143,484,270,foliage,Breakfast cereal,19714.0,floral,0.15317
+1147,465,272,everlasting,Other soy product,32087.0,floral,0.1687
+1149,484,272,foliage,Other soy product,27887.0,floral,0.14662
+1153,465,274,everlasting,Pasta,23041.0,floral,0.16921
+1155,484,274,foliage,Pasta,17729.0,floral,0.1302
+1160,465,275,everlasting,Biscuit,24110.0,floral,0.16686
+1162,484,275,foliage,Biscuit,19573.0,floral,0.13546
+1166,465,280,everlasting,Abalone,1607.0,floral,0.13941
+1168,484,280,foliage,Abalone,2283.0,floral,0.19806
+1172,465,283,everlasting,Acorn,1221.0,floral,0.19213
+1174,484,283,foliage,Acorn,1009.0,floral,0.15877
+1178,465,284,everlasting,Winter squash,530.0,floral,0.18861
+1180,484,284,foliage,Winter squash,455.0,floral,0.16192
+1184,465,286,everlasting,Red king crab,1771.0,floral,0.14829
+1186,484,286,foliage,Red king crab,2270.0,floral,0.19007
+1190,465,289,everlasting,Amaranth,1944.55,floral,0.16647
+1192,484,289,foliage,Amaranth,2854.0,floral,0.24433
+1196,465,291,everlasting,Arrowroot,14.0,floral,0.19178
+1198,484,291,foliage,Arrowroot,14.0,floral,0.19178
+1202,465,292,everlasting,Asian pear,18.0,floral,0.2093
+1204,484,292,foliage,Asian pear,14.0,floral,0.16279
+1208,465,293,everlasting,Atlantic herring,5377.0,floral,0.16051
+1210,484,293,foliage,Atlantic herring,5010.0,floral,0.14955
+1214,465,294,everlasting,Atlantic mackerel,2186.0,floral,0.16046
+1216,484,294,foliage,Atlantic mackerel,2038.0,floral,0.1496
+1220,465,295,everlasting,Painted comber,1638.0,floral,0.15283
+1222,484,295,foliage,Painted comber,1493.0,floral,0.1393
+1226,465,296,everlasting,Atlantic pollock,2286.0,floral,0.16054
+1228,484,296,foliage,Atlantic pollock,2129.0,floral,0.14952
+1232,465,297,everlasting,Atlantic wolffish,3858.0,floral,0.17618
+1234,484,297,foliage,Atlantic wolffish,3417.0,floral,0.15604
+1238,465,299,everlasting,Striped bass,2085.0,floral,0.16055
+1240,484,299,foliage,Striped bass,1942.0,floral,0.14953
+1244,465,301,everlasting,Beech nut,346.0,floral,0.17798
+1246,484,301,foliage,Beech nut,319.0,floral,0.16409
+1250,465,302,everlasting,Beluga whale,2810.0,floral,0.12304
+1252,484,302,foliage,Beluga whale,4079.0,floral,0.17861
+1256,465,306,everlasting,Blue crab,3441.0,floral,0.14889
+1258,484,306,foliage,Blue crab,4411.0,floral,0.19086
+1262,465,307,everlasting,Blue mussel,1560.0,floral,0.13903
+1264,484,307,foliage,Blue mussel,2233.0,floral,0.199
+1268,465,308,everlasting,Northern bluefin tuna,2743.0,floral,0.16053
+1270,484,308,foliage,Northern bluefin tuna,2556.0,floral,0.14959
+1274,465,309,everlasting,Bluefish,2356.0,floral,0.16052
+1276,484,309,foliage,Bluefish,2195.0,floral,0.14955
+1280,465,312,everlasting,Breadfruit,2395.75,floral,0.2126
+1282,484,312,foliage,Breadfruit,1952.25,floral,0.17325
+1286,465,313,everlasting,Breadnut tree seed,1412.0,floral,0.26023
+1288,484,313,foliage,Breadnut tree seed,916.0,floral,0.16882
+1292,465,314,everlasting,Rapini,337.0,floral,0.19018
+1294,484,314,foliage,Rapini,271.0,floral,0.15293
+1298,465,317,everlasting,Burbot,2270.0,floral,0.16049
+1300,484,317,foliage,Burbot,2115.0,floral,0.14953
+1304,465,319,everlasting,American butterfish,2031.0,floral,0.16048
+1306,484,319,foliage,American butterfish,1893.0,floral,0.14957
+1310,465,320,everlasting,Butternut,3108.6,floral,0.20813
+1312,484,320,foliage,Butternut,3042.05,floral,0.20367
+1316,465,321,everlasting,Butternut squash,303.0,floral,0.18949
+1318,484,321,foliage,Butternut squash,258.0,floral,0.16135
+1322,465,326,everlasting,Carob,2514.0,floral,0.17192
+1324,484,326,foliage,Carob,2758.0,floral,0.18861
+1327,633,326,neroli,Carob,12.68,floral,0.00087
+1329,465,327,everlasting,Common carp,2097.0,floral,0.16054
+1331,484,327,foliage,Common carp,1953.0,floral,0.14952
+1335,465,328,everlasting,Cassava,270.0,floral,0.18364
+1337,484,328,foliage,Cassava,217.5,floral,0.14793
+1341,465,329,everlasting,Channel catfish,4371.0,floral,0.15805
+1343,484,329,foliage,Channel catfish,4224.0,floral,0.15274
+1347,465,330,everlasting,Chayote,810.5,floral,0.23564
+1349,484,330,foliage,Chayote,529.0,floral,0.1538
+1353,465,331,everlasting,Cherimoya,63.0,floral,0.15441
+1355,484,331,foliage,Cherimoya,52.0,floral,0.12745
+1359,465,332,everlasting,Chervil,700.0,floral,0.21148
+1361,484,332,foliage,Chervil,558.0,floral,0.16858
+1365,465,333,everlasting,Chia,950.0,floral,0.18067
+1367,484,333,foliage,Chia,943.0,floral,0.17934
+1370,633,333,neroli,Chia,12.3,floral,0.00234
+1372,465,334,everlasting,Chicken,14100.0,floral,0.21377
+1373,484,334,foliage,Chicken,15330.0,floral,0.23241
+1377,465,336,everlasting,Chinese chestnut,964.0,floral,0.19686
+1379,484,336,foliage,Chinese chestnut,805.0,floral,0.16439
+1383,465,339,everlasting,Cisco,1821.0,floral,0.16051
+1385,484,339,foliage,Cisco,1696.0,floral,0.14949
+1389,465,341,everlasting,Coconut,3833.0,floral,0.22328
+1391,484,341,foliage,Coconut,3122.0,floral,0.18186
+1395,465,342,everlasting,Pacific cod,1628.0,floral,0.15288
+1397,484,342,foliage,Pacific cod,1581.0,floral,0.14846
+1401,465,343,everlasting,Atlantic cod,6502.0,floral,0.1605
+1403,484,343,foliage,Atlantic cod,6059.0,floral,0.14956
+1407,465,344,everlasting,Common octopus,1954.0,floral,0.13901
+1409,484,344,foliage,Common octopus,2799.0,floral,0.19912
+1413,465,345,everlasting,Corn salad,836.0,floral,0.20585
+1415,484,345,foliage,Corn salad,667.0,floral,0.16424
+1419,465,346,everlasting,Cottonseed,8851.0,floral,0.18617
+1421,484,346,foliage,Cottonseed,8363.0,floral,0.1759
+1425,465,347,everlasting,Catjang pea,1911.0,floral,0.17049
+1427,484,347,foliage,Catjang pea,1655.0,floral,0.14765
+1431,465,348,everlasting,Malus (Crab apple),57.0,floral,0.21673
+1433,484,348,foliage,Malus (Crab apple),48.0,floral,0.18251
+1437,465,350,everlasting,Atlantic croaker,1863.0,floral,0.16169
+1439,484,350,foliage,Atlantic croaker,1704.0,floral,0.14789
+1443,465,351,everlasting,Cusk,2233.0,floral,0.16052
+1445,484,351,foliage,Cusk,2081.0,floral,0.14959
+1449,465,352,everlasting,Cuttlefish,2128.0,floral,0.13901
+1451,484,352,foliage,Cuttlefish,3048.0,floral,0.19911
+1455,465,355,everlasting,Dock,375.0,floral,0.19062
+1457,484,355,foliage,Dock,322.0,floral,0.16368
+1460,633,355,neroli,Dock,10.3,floral,0.00524
+1462,465,356,everlasting,Dolphin fish,2175.0,floral,0.16052
+1464,484,356,foliage,Dolphin fish,2026.0,floral,0.14952
+1468,465,357,everlasting,Freshwater drum,2063.0,floral,0.16058
+1470,484,357,foliage,Freshwater drum,1921.0,floral,0.14953
+1474,465,359,everlasting,Dungeness crab,1865.0,floral,0.14812
+1476,484,359,foliage,Dungeness crab,2393.0,floral,0.19006
+1480,465,361,everlasting,Eastern oyster,2033.0,floral,0.15151
+1482,484,361,foliage,Eastern oyster,2461.0,floral,0.18341
+1486,465,362,everlasting,Freshwater eel,2168.0,floral,0.16051
+1488,484,362,foliage,Freshwater eel,2020.0,floral,0.14955
+1492,465,363,everlasting,Elderberry,199.0,floral,0.17334
+1494,484,363,foliage,Elderberry,216.0,floral,0.18815
+1498,633,363,neroli,Elderberry,0.58,floral,0.00051
+1500,465,367,everlasting,European anchovy,2536.0,floral,0.16048
+1502,484,367,foliage,European anchovy,2364.0,floral,0.14959
+1506,465,368,everlasting,European chestnut,1325.95,floral,0.17737
+1508,484,368,foliage,European chestnut,1233.15,floral,0.16495
+1512,465,369,everlasting,Turbot,3567.0,floral,0.17168
+1514,484,369,foliage,Turbot,3338.0,floral,0.16066
+1518,465,371,everlasting,Florida pompano,2172.0,floral,0.1605
+1520,484,371,foliage,Florida pompano,2024.0,floral,0.14956
+1524,465,372,everlasting,Ginkgo nuts,1567.05,floral,0.20595
+1526,484,372,foliage,Ginkgo nuts,1283.7,floral,0.16871
+1530,465,374,everlasting,Grape,317.0,floral,0.1405
+1532,484,374,foliage,Grape,313.0,floral,0.13873
+1535,633,374,neroli,Grape,0.16,floral,7e-05
+1537,465,375,everlasting,Greenland halibut/turbot,3269.0,floral,0.18137
+1539,484,375,foliage,Greenland halibut/turbot,2914.0,floral,0.16167
+1543,465,377,everlasting,Grouper,2278.0,floral,0.1605
+1545,484,377,foliage,Grouper,2123.0,floral,0.14958
+1549,465,379,everlasting,Haddock,8467.0,floral,0.17774
+1551,484,379,foliage,Haddock,7391.0,floral,0.15515
+1555,465,380,everlasting,Hippoglossus (Common halibut),4519.0,floral,0.16082
+1557,484,380,foliage,Hippoglossus (Common halibut),4149.0,floral,0.14766
+1561,465,381,everlasting,Hazelnut,3909.0,floral,0.21375
+1563,484,381,foliage,Hazelnut,3794.0,floral,0.20746
+1567,465,382,everlasting,Hickory nut,730.0,floral,0.20155
+1569,484,382,foliage,Hickory nut,708.0,floral,0.19547
+1573,465,384,everlasting,Horseradish tree,3032.0,floral,0.19894
+1575,484,384,foliage,Horseradish tree,2566.75,floral,0.16841
+1579,633,384,neroli,Horseradish tree,5.95,floral,0.00039
+1581,465,386,everlasting,Hyacinth bean,3429.0,floral,0.18177
+1583,484,386,foliage,Hyacinth bean,3467.25,floral,0.18379
+1587,465,388,everlasting,Pacific jack mackerel,1195.0,floral,0.16053
+1589,484,388,foliage,Pacific jack mackerel,1113.0,floral,0.14952
+1593,465,389,everlasting,Jackfruit,86.0,floral,0.19239
+1595,484,389,foliage,Jackfruit,86.0,floral,0.19239
+1599,465,390,everlasting,Japanese chestnut,671.0,floral,0.16683
+1601,484,390,foliage,Japanese chestnut,573.0,floral,0.14247
+1605,465,392,everlasting,Jerusalem artichoke,409.8,floral,0.2312
+1607,484,392,foliage,Jerusalem artichoke,247.8,floral,0.1398
+1611,465,394,everlasting,Jute,1773.25,floral,0.18895
+1613,484,394,foliage,Jute,1530.0,floral,0.16303
+1616,633,394,neroli,Jute,4.61,floral,0.00049
+1618,465,395,everlasting,Kale,1756.0,floral,0.18577
+1620,484,395,foliage,Kale,1491.0,floral,0.15774
+1623,633,395,neroli,Kale,18.4,floral,0.00195
+1625,465,396,everlasting,Kelp,72.0,floral,0.15158
+1627,484,396,foliage,Kelp,100.0,floral,0.21053
+1631,465,397,everlasting,King mackerel,2385.0,floral,0.16054
+1633,484,397,foliage,King mackerel,2222.0,floral,0.14957
+1637,465,399,everlasting,Lambsquarters,1402.8,floral,0.14584
+1639,484,399,foliage,Lambsquarters,1546.55,floral,0.16078
+1643,465,401,everlasting,Wild leek,690.0,floral,0.14698
+1645,484,401,foliage,Wild leek,841.0,floral,0.17914
+1648,633,401,neroli,Wild leek,2.67,floral,0.00057
+1650,465,402,everlasting,Common ling,2232.0,floral,0.16049
+1652,484,402,foliage,Common ling,2080.0,floral,0.14956
+1656,465,403,everlasting,Lingcod,2076.0,floral,0.16051
+1658,484,403,foliage,Lingcod,1935.0,floral,0.14961
+1662,465,404,everlasting,American lobster,1593.0,floral,0.14013
+1664,484,404,foliage,American lobster,2369.0,floral,0.20839
+1668,465,406,everlasting,Lotus,1257.0,floral,0.18518
+1670,484,406,foliage,Lotus,1047.0,floral,0.15424
+1674,465,407,everlasting,Sacred lotus,818.05,floral,0.10812
+1676,484,407,foliage,Sacred lotus,1242.55,floral,0.16423
+1679,633,407,neroli,Sacred lotus,0.76,floral,0.0001
+1682,465,408,everlasting,White lupine,4408.0,floral,0.11527
+1684,484,408,foliage,White lupine,4493.75,floral,0.11752
+1689,465,409,everlasting,Malabar spinach,568.5,floral,0.15815
+1691,484,409,foliage,Malabar spinach,586.0,floral,0.16302
+1695,465,413,everlasting,Milkfish,2414.0,floral,0.16052
+1697,484,413,foliage,Milkfish,2249.0,floral,0.14954
+1701,465,414,everlasting,Monkfish,1702.0,floral,0.16048
+1703,484,414,foliage,Monkfish,1586.0,floral,0.14954
+1707,465,417,everlasting,Mountain yam,366.5,floral,0.1864
+1709,484,417,foliage,Mountain yam,313.0,floral,0.15919
+1713,465,418,everlasting,Striped mullet,2275.0,floral,0.16054
+1715,484,418,foliage,Striped mullet,2120.0,floral,0.1496
+1719,465,420,everlasting,White mustard,3075.4,floral,0.15831
+1721,484,420,foliage,White mustard,3180.9,floral,0.16374
+1725,465,423,everlasting,Nopal,121.0,floral,0.20613
+1727,484,423,foliage,Nopal,94.0,floral,0.16014
+1731,465,424,everlasting,Ocean pout,1956.0,floral,0.16051
+1733,484,424,foliage,Ocean pout,1823.0,floral,0.1496
+1737,465,427,everlasting,Okra,669.0,floral,0.22182
+1739,484,427,foliage,Okra,326.0,floral,0.10809
+1743,465,432,everlasting,Pacific herring,1928.0,floral,0.16057
+1745,484,432,foliage,Pacific herring,1796.0,floral,0.14958
+1749,465,433,everlasting,Pacific oyster,1239.0,floral,0.13907
+1751,484,433,foliage,Pacific oyster,1773.0,floral,0.19901
+1755,465,434,everlasting,Pacific rockfish,2019.0,floral,0.15158
+1757,484,434,foliage,Pacific rockfish,1894.0,floral,0.14219
+1761,465,436,everlasting,Pepper (C. frutescens),384.7,floral,0.1834
+1763,484,436,foliage,Pepper (C. frutescens),338.9,floral,0.16157
+1767,465,437,everlasting,Common persimmon,42.0,floral,0.19535
+1769,484,437,foliage,Common persimmon,35.0,floral,0.16279
+1773,465,439,everlasting,Northern pike,2264.0,floral,0.16053
+1775,484,439,foliage,Northern pike,2109.0,floral,0.14954
+1779,465,440,everlasting,Pili nut,701.0,floral,0.22752
+1781,484,440,foliage,Pili nut,650.0,floral,0.21097
+1785,465,441,everlasting,Colorado pinyon,1209.75,floral,0.18214
+1787,484,441,foliage,Colorado pinyon,1196.5,floral,0.18015
+1791,465,444,everlasting,French plantain,166.0,floral,0.17166
+1793,484,444,foliage,French plantain,164.0,floral,0.1696
+1797,465,447,everlasting,Opium poppy,2428.8,floral,0.1737
+1799,484,447,foliage,Opium poppy,2115.85,floral,0.15132
+1803,465,448,everlasting,Prairie turnip,173.0,floral,0.17521
+1805,484,448,foliage,Prairie turnip,109.7,floral,0.1111
+1809,465,450,everlasting,Quinoa,779.0,floral,0.16135
+1811,484,450,foliage,Quinoa,910.0,floral,0.18848
+1815,465,453,everlasting,Rainbow smelt,2072.0,floral,0.16048
+1817,484,453,foliage,Rainbow smelt,1931.0,floral,0.14956
+1821,465,454,everlasting,Rainbow trout,4594.0,floral,0.16051
+1823,484,454,foliage,Rainbow trout,4281.0,floral,0.14957
+1827,465,458,everlasting,Orange roughy,1872.0,floral,0.15856
+1829,484,458,foliage,Orange roughy,1522.0,floral,0.12892
+1833,465,459,everlasting,Sablefish,2487.0,floral,0.16054
+1835,484,459,foliage,Sablefish,2317.0,floral,0.14957
+1839,465,460,everlasting,Pink salmon,7053.0,floral,0.15688
+1841,484,460,foliage,Pink salmon,7876.0,floral,0.17519
+1845,465,461,everlasting,Chum salmon,5605.0,floral,0.15947
+1847,484,461,foliage,Chum salmon,5164.0,floral,0.14692
+1851,465,462,everlasting,Coho salmon,7110.0,floral,0.15987
+1853,484,462,foliage,Coho salmon,6634.0,floral,0.14917
+1857,465,463,everlasting,Sockeye salmon,11829.0,floral,0.16003
+1859,484,463,foliage,Sockeye salmon,11786.0,floral,0.15945
+1863,465,464,everlasting,Chinook salmon,5359.0,floral,0.15768
+1865,484,464,foliage,Chinook salmon,5183.0,floral,0.1525
+1869,465,465,everlasting,Atlantic salmon,4578.0,floral,0.16169
+1871,484,465,foliage,Atlantic salmon,4194.0,floral,0.14813
+1875,465,468,everlasting,Sapodilla,16.0,floral,0.11765
+1877,484,468,foliage,Sapodilla,17.0,floral,0.125
+1881,465,469,everlasting,Mamey sapote,73.0,floral,0.17136
+1883,484,469,foliage,Mamey sapote,73.0,floral,0.17136
+1887,465,470,everlasting,Spanish mackerel,2209.0,floral,0.16053
+1889,484,470,foliage,Spanish mackerel,2058.0,floral,0.14955
+1893,465,471,everlasting,Pacific sardine,926.0,floral,0.17041
+1895,484,471,foliage,Pacific sardine,827.0,floral,0.15219
+1899,465,472,everlasting,Scallop,2344.0,floral,0.13203
+1901,484,472,foliage,Scallop,4422.0,floral,0.24907
+1905,465,473,everlasting,Scup,2219.0,floral,0.16049
+1907,484,473,foliage,Scup,2068.0,floral,0.14957
+1911,465,475,everlasting,Steller sea lion,200.0,floral,0.25
+1916,465,476,everlasting,Bearded seal,7969.0,floral,0.12946
+1918,484,476,foliage,Bearded seal,10740.0,floral,0.17448
+1922,465,478,everlasting,Sea trout,1969.0,floral,0.16055
+1924,484,478,foliage,Sea trout,1834.0,floral,0.14954
+1928,465,480,everlasting,American shad,1990.0,floral,0.16047
+1930,484,480,foliage,American shad,1855.0,floral,0.14958
+1934,465,481,everlasting,Shark,2046.0,floral,0.16138
+1936,484,481,foliage,Shark,1879.0,floral,0.14821
+1940,465,482,everlasting,Sheefish,1000.0,floral,0.13245
+1942,484,482,foliage,Sheefish,1500.0,floral,0.19868
+1946,465,483,everlasting,"Sheep (Mutton, Lamb)",8090.0,floral,0.20851
+1947,484,483,foliage,"Sheep (Mutton, Lamb)",8260.0,floral,0.21289
+1951,465,484,everlasting,Sheepshead,2381.0,floral,0.16048
+1953,484,484,foliage,Sheepshead,2219.0,floral,0.14956
+1957,465,485,everlasting,Hedge mustard,705.0,floral,0.17687
+1959,484,485,foliage,Hedge mustard,698.0,floral,0.17511
+1963,465,486,everlasting,Skipjack tuna,2586.0,floral,0.16049
+1965,484,486,foliage,Skipjack tuna,2410.0,floral,0.14957
+1969,465,487,everlasting,Snapper,2411.0,floral,0.16052
+1971,484,487,foliage,Snapper,2246.0,floral,0.14953
+1975,465,489,everlasting,Spelt,681.0,floral,0.16107
+1977,484,489,foliage,Spelt,602.0,floral,0.14238
+1981,465,490,everlasting,Spirulina,3874.0,floral,0.18372
+1983,484,490,foliage,Spirulina,3418.0,floral,0.1621
+1987,465,493,everlasting,Strawberry guava,81.75,floral,0.16821
+1989,484,493,foliage,Strawberry guava,118.5,floral,0.24383
+1993,465,494,everlasting,Greater sturgeon,3505.0,floral,0.1605
+1995,484,494,foliage,Greater sturgeon,3266.0,floral,0.14956
+1999,465,495,everlasting,White sucker,1970.0,floral,0.1605
+2001,484,495,foliage,White sucker,1835.0,floral,0.1495
+2005,465,497,everlasting,Pumpkinseed sunfish,2280.0,floral,0.16047
+2007,484,497,foliage,Pumpkinseed sunfish,2125.0,floral,0.14956
+2011,465,498,everlasting,Swordfish,2236.0,floral,0.16049
+2013,484,498,foliage,Swordfish,2083.0,floral,0.14951
+2017,465,499,everlasting,Taro,1875.0,floral,0.32702
+2019,484,499,foliage,Taro,289.0,floral,0.0504
+2023,633,499,neroli,Taro,0.24000000000000002,floral,4e-05
+2025,465,500,everlasting,Teff,886.0,floral,0.20136
+2027,484,500,foliage,Teff,616.0,floral,0.14
+2031,465,501,everlasting,Tilefish,2164.0,floral,0.16057
+2033,484,501,foliage,Tilefish,2015.0,floral,0.14951
+2037,465,504,everlasting,"Salmonidae (Salmon, Trout)",12042.0,floral,0.19438
+2039,484,504,foliage,"Salmonidae (Salmon, Trout)",10055.0,floral,0.1623
+2043,465,505,everlasting,Turkey,3207.0,floral,0.2038
+2045,484,505,foliage,Turkey,3147.0,floral,0.19999
+2049,465,506,everlasting,"Cattle (Beef, Veal)",1118441.0,floral,0.14544
+2051,484,506,foliage,"Cattle (Beef, Veal)",1209114.0,floral,0.15723
+2055,465,507,everlasting,Walleye,2250.0,floral,0.1605
+2057,484,507,foliage,Walleye,2097.0,floral,0.14958
+2061,465,508,everlasting,Alaska pollock,1829.0,floral,0.16006
+2063,484,508,foliage,Alaska pollock,1672.0,floral,0.14632
+2067,465,511,everlasting,Whelk,3112.0,floral,0.1384
+2069,484,511,foliage,Whelk,4486.0,floral,0.1995
+2073,465,514,everlasting,Whitefish,7340.0,floral,0.15097
+2075,484,514,foliage,Whitefish,8084.0,floral,0.16627
+2079,465,515,everlasting,Whiting,2153.0,floral,0.1605
+2081,484,515,foliage,Whiting,2006.0,floral,0.14955
+2085,465,516,everlasting,Wild rice,1090.0,floral,0.20798
+2087,484,516,foliage,Wild rice,854.0,floral,0.16295
+2091,465,518,everlasting,Winged bean,5627.8,floral,0.18211
+2093,484,518,foliage,Winged bean,3919.8999999999996,floral,0.12684
+2097,465,519,everlasting,Yam,304.0,floral,0.19241
+2099,484,519,foliage,Yam,265.0,floral,0.16772
+2103,465,520,everlasting,Jicama,280.5,floral,0.18123
+2105,484,520,foliage,Jicama,206.25,floral,0.13326
+2109,465,522,everlasting,Yellowfin tuna,2642.0,floral,0.16045
+2111,484,522,foliage,Yellowfin tuna,2462.0,floral,0.14952
+2115,465,523,everlasting,Yellowtail amberjack,2720.0,floral,0.16047
+2117,484,523,foliage,Yellowtail amberjack,2535.0,floral,0.14956
+2121,465,525,everlasting,Albacore tuna,5168.0,floral,0.16053
+2123,484,525,foliage,Albacore tuna,4816.0,floral,0.14959
+2127,465,526,everlasting,Gadus (Common cod),14380.0,floral,0.20064
+2129,484,526,foliage,Gadus (Common cod),11580.0,floral,0.16157
+2133,465,527,everlasting,Atlantic halibut,4800.0,floral,0.20725
+2135,484,527,foliage,Atlantic halibut,3560.0,floral,0.15371
+2139,465,530,everlasting,Smelt,2660.0,floral,0.15574
+2141,484,530,foliage,Smelt,3280.0,floral,0.19204
+2145,465,531,everlasting,"Clupeinae (Herring, Sardine, Sprat)",23780.0,floral,0.20245
+2147,484,531,foliage,"Clupeinae (Herring, Sardine, Sprat)",21440.0,floral,0.18253
+2151,465,532,everlasting,Spiny lobster,2207.0,floral,0.14816
+2153,484,532,foliage,Spiny lobster,2831.0,floral,0.19005
+2157,465,533,everlasting,Snow crab,1982.0,floral,0.14812
+2159,484,533,foliage,Snow crab,2543.0,floral,0.19005
+2163,465,534,everlasting,Black-eyed pea,4257.0,floral,0.22658
+2165,484,534,foliage,Black-eyed pea,1918.0,floral,0.10209
+2169,465,535,everlasting,Deer,11033.0,floral,0.14958
+2171,484,535,foliage,Deer,12337.0,floral,0.16726
+2175,465,536,everlasting,Macadamia nut,1045.5,floral,0.16143
+2177,484,536,foliage,Macadamia nut,1277.25,floral,0.19721
+2181,465,537,everlasting,Percoidei (Bass and others),6664.0,floral,0.16051
+2183,484,537,foliage,Percoidei (Bass and others),6209.0,floral,0.14955
+2187,465,538,everlasting,Perciformes,2360.0,floral,0.16053
+2189,484,538,foliage,Perciformes,2198.0,floral,0.14951
+2193,465,540,everlasting,Rabbit,5386.0,floral,0.16874
+2195,484,540,foliage,Rabbit,5176.0,floral,0.16216
+2199,465,541,everlasting,Domestic goat,2555.0,floral,0.33756
+2202,465,544,everlasting,"Bivalvia (Clam, Mussel, Oyster)",5075.0,floral,0.15386
+2204,484,544,foliage,"Bivalvia (Clam, Mussel, Oyster)",5573.0,floral,0.16896
+2208,465,545,everlasting,Squid,1466.0,floral,0.1393
+2210,484,545,foliage,Squid,2082.0,floral,0.19783
+2214,465,546,everlasting,Shrimp,13152.0,floral,0.16799
+2216,484,546,foliage,Shrimp,14033.0,floral,0.17924
+2220,465,547,everlasting,Crayfish,3053.0,floral,0.14807
+2222,484,547,foliage,Crayfish,3917.0,floral,0.18997
+2226,465,548,everlasting,Flatfish,3431.0,floral,0.17036
+2228,484,548,foliage,Flatfish,3426.0,floral,0.17011
+2232,465,549,everlasting,Domestic pig,519525.0,floral,0.1602
+2234,484,549,foliage,Domestic pig,563607.0,floral,0.17379
+2238,465,552,everlasting,Oriental wheat,988.0,floral,0.16469
+2240,484,552,foliage,Oriental wheat,833.0,floral,0.13886
+2244,465,553,everlasting,Yardlong bean,4366.05,floral,0.22875
+2246,484,553,foliage,Yardlong bean,1004.0,floral,0.0526
+2249,633,553,neroli,Yardlong bean,0.5,floral,3e-05
+2251,465,555,everlasting,Quail,3438.0,floral,0.15055
+2253,484,555,foliage,Quail,4481.0,floral,0.19622
+2257,465,557,everlasting,Persian lime,11.0,floral,0.09841
+2259,484,557,foliage,Persian lime,11.0,floral,0.09841
+2264,465,558,everlasting,Feijoa,26.0,floral,0.125
+2266,484,558,foliage,Feijoa,39.0,floral,0.1875
+2270,465,561,everlasting,Common mushroom,2367.0,floral,0.24405
+2272,484,561,foliage,Common mushroom,1329.0,floral,0.13702
+2276,465,562,everlasting,Shiitake,908.0,floral,0.19016
+2278,484,562,foliage,Shiitake,816.0,floral,0.17089
+2282,465,563,everlasting,Purple laver,402.0,floral,0.18759
+2284,484,563,foliage,Purple laver,363.0,floral,0.16939
+2288,465,564,everlasting,Wakame,209.0,floral,0.29437
+2290,484,564,foliage,Wakame,112.0,floral,0.15775
+2294,465,565,everlasting,Enokitake,230.0,floral,0.26744
+2296,484,565,foliage,Enokitake,110.0,floral,0.12791
+2300,465,567,everlasting,Oyster mushroom,567.0,floral,0.19937
+2302,484,567,foliage,Oyster mushroom,636.0,floral,0.22363
+2306,465,569,everlasting,Maitake,100.0,floral,0.18727
+2308,484,569,foliage,Maitake,90.0,floral,0.16854
+2312,465,571,everlasting,Spot croaker,2177.0,floral,0.16056
+2314,484,571,foliage,Spot croaker,2028.0,floral,0.14957
+2318,465,575,everlasting,Wheat,25048.9409135,floral,0.16238
+2320,484,575,foliage,Wheat,23275.2609327,floral,0.15088
+2325,465,577,everlasting,Agave,22.0,floral,0.1913
+2327,484,577,foliage,Agave,19.0,floral,0.16522
+2331,465,580,everlasting,Anchovy,1580.0,floral,0.20102
+2333,484,580,foliage,Anchovy,1580.0,floral,0.20102
+2337,465,587,everlasting,Crab,6340.0,floral,0.16059
+2339,484,587,foliage,Crab,8600.0,floral,0.21783
+2343,465,590,everlasting,Anatidae,10670.0,floral,0.18858
+2345,484,590,foliage,Anatidae,11480.0,floral,0.2029
+2349,465,591,everlasting,Anguilliformes,4100.0,floral,0.18386
+2351,484,591,foliage,Anguilliformes,4400.0,floral,0.19731
+2355,465,593,everlasting,Garfish,2400.0,floral,0.192
+2357,484,593,foliage,Garfish,2400.0,floral,0.192
+2361,465,597,everlasting,Lemon sole,3080.0,floral,0.20547
+2363,484,597,foliage,Lemon sole,2450.0,floral,0.16344
+2367,465,598,everlasting,Clawed lobster,5480.0,floral,0.15967
+2369,484,598,foliage,Clawed lobster,7400.0,floral,0.21562
+2373,465,600,everlasting,"Scombridae (Bonito, Mackerel, Tuna)",8600.0,floral,0.21172
+2375,484,600,foliage,"Scombridae (Bonito, Mackerel, Tuna)",7200.0,floral,0.17725
+2379,465,601,everlasting,Marine mussel,6680.0,floral,0.21597
+2381,484,601,foliage,Marine mussel,5360.0,floral,0.17329
+2385,465,603,everlasting,Norway lobster,1880.0,floral,0.16041
+2387,484,603,foliage,Norway lobster,2600.0,floral,0.22184
+2391,465,606,everlasting,True oyster,370.0,floral,0.14015
+2393,484,606,foliage,True oyster,510.0,floral,0.19318
+2397,465,608,everlasting,Persimmon,72.0,floral,0.21622
+2399,484,608,foliage,Persimmon,60.0,floral,0.18018
+2403,465,610,everlasting,"Pleuronectidae (Dab, Halibut, Plaice)",1980.0,floral,0.16952
+2405,484,610,foliage,"Pleuronectidae (Dab, Halibut, Plaice)",2800.0,floral,0.23973
+2409,465,618,everlasting,True sole,1100.0,floral,0.16897
+2411,484,618,foliage,True sole,870.0,floral,0.13364
+2415,465,619,everlasting,Catfish,3850.0,floral,0.22114
+2417,484,619,foliage,Catfish,2620.0,floral,0.15049
+2421,465,621,everlasting,Thunnus,17854.0,floral,0.19135
+2423,484,621,foliage,Thunnus,14251.0,floral,0.15273
+2427,465,622,everlasting,Walnut,970.0,floral,0.2343
+2429,484,622,foliage,Walnut,810.0,floral,0.19565
+2433,465,624,everlasting,"Columbidae (Dove, Pigeon)",2300.0,floral,0.24731
+2434,484,624,foliage,"Columbidae (Dove, Pigeon)",1920.0,floral,0.20645
+2438,465,630,everlasting,Liquor,568.0,floral,0.00221
+2440,484,630,foliage,Liquor,175.0,floral,0.00068
+2446,465,631,everlasting,Cheese,262411.0,floral,0.20076
+2448,484,631,foliage,Cheese,76837.0,floral,0.05878
+2452,465,632,everlasting,Milk (Cow),518347.0,floral,0.27055
+2454,484,632,foliage,Milk (Cow),152704.0,floral,0.0797
+2459,465,633,everlasting,Eggs,81238.0,floral,0.2249
+2461,484,633,foliage,Eggs,42116.0,floral,0.1166
+2466,465,634,everlasting,Yogurt,9277.0,floral,0.20892
+2468,484,634,foliage,Yogurt,2749.0,floral,0.06191
+2472,465,638,everlasting,Bean,2023.0,floral,0.18841
+2474,484,638,foliage,Bean,1586.0,floral,0.14771
+2479,465,641,everlasting,Ice cream,4494.0,floral,0.20081
+2481,484,641,foliage,Ice cream,1828.0,floral,0.08168
+2485,465,643,everlasting,Honey,9.0,floral,0.07025
+2487,484,643,foliage,Honey,7.0,floral,0.05464
+2491,633,643,neroli,Honey,0.06,floral,0.00047
+2494,465,654,everlasting,Cake,11985.0,floral,0.17012
+2496,484,654,foliage,Cake,8003.0,floral,0.1136
+2500,465,655,everlasting,Pizza,19686.0,floral,0.1688
+2502,484,655,foliage,Pizza,11154.0,floral,0.09564
+2506,465,656,everlasting,Ymer,1740.0,floral,0.21455
+2508,484,656,foliage,Ymer,540.0,floral,0.06658
+2512,465,657,everlasting,Other snack food,15891.0,floral,0.17203
+2514,484,657,foliage,Other snack food,15079.0,floral,0.16324
+2518,465,659,everlasting,Crisp bread,6864.0,floral,0.19892
+2520,484,659,foliage,Crisp bread,5350.0,floral,0.15505
+2525,465,660,everlasting,Pastry,27639.0,floral,0.17418
+2527,484,660,foliage,Pastry,20473.0,floral,0.12902
+2531,465,663,everlasting,Marzipan,1240.0,floral,0.20805
+2533,484,663,foliage,Marzipan,1480.0,floral,0.24832
+2537,465,664,everlasting,Salad dressing,1936.0,floral,0.20927
+2539,484,664,foliage,Salad dressing,738.0,floral,0.07978
+2543,465,665,everlasting,Sauce,1644.0,floral,0.17975
+2545,484,665,foliage,Sauce,776.0,floral,0.08485
+2548,633,665,neroli,Sauce,0.01,floral,0.0
+2550,465,667,everlasting,Butter,307.0,floral,0.20659
+2552,484,667,foliage,Butter,94.0,floral,0.06326
+2556,465,669,everlasting,Cream,4617.0,floral,0.21599
+2558,484,669,foliage,Cream,1484.0,floral,0.06942
+2562,465,671,everlasting,Sausage,73077.0,floral,0.14755
+2564,484,671,foliage,Sausage,99880.0,floral,0.20167
+2568,465,673,everlasting,Mustard,520.0,floral,0.15951
+2570,484,673,foliage,Mustard,620.0,floral,0.19018
+2574,465,674,everlasting,Pate,3837.0,floral,0.16722
+2576,484,674,foliage,Pate,4743.0,floral,0.2067
+2580,465,677,everlasting,Meat bouillon,3960.0,floral,0.11607
+2582,484,677,foliage,Meat bouillon,12000.0,floral,0.35174
+2586,465,679,everlasting,Whey,4834.0,floral,0.20118
+2588,484,679,foliage,Whey,1741.0,floral,0.07246
+2592,465,680,everlasting,Casein,8600.0,floral,0.19196
+2594,484,680,foliage,Casein,7200.0,floral,0.16071
+2598,465,681,everlasting,Fruit preserve,21.0,floral,0.12727
+2600,484,681,foliage,Fruit preserve,29.0,floral,0.17576
+2604,465,682,everlasting,Leavening agent,11702.0,floral,0.21133
+2606,484,682,foliage,Leavening agent,9577.0,floral,0.17295
+2610,465,683,everlasting,Marshmallow,50.0,floral,0.0496
+2612,484,683,foliage,Marshmallow,416.0,floral,0.4127
+2616,465,684,everlasting,Gelatin,4800.0,floral,0.04963
+2618,484,684,foliage,Gelatin,44400.0,floral,0.45906
+2622,465,686,everlasting,Other fish product,3927.0,floral,0.15919
+2624,484,686,foliage,Other fish product,3205.0,floral,0.12993
+2628,465,687,everlasting,Milk (Human),63.0,floral,0.19207
+2630,484,687,foliage,Milk (Human),26.0,floral,0.07927
+2635,465,689,everlasting,Other beverage,1264.0,floral,0.14487
+2637,484,689,foliage,Other beverage,651.0,floral,0.07461
+2642,465,690,everlasting,Baby food,18177.0,floral,0.16619
+2644,484,690,foliage,Baby food,16069.0,floral,0.14692
+2648,465,692,everlasting,Soup,13195.0,floral,0.16318
+2650,484,692,foliage,Soup,13454.0,floral,0.16639
+2654,465,693,everlasting,Other vegetable product,1802.0,floral,0.19513
+2656,484,693,foliage,Other vegetable product,1362.0,floral,0.14748
+2660,465,694,everlasting,Unclassified food or beverage,1150.0,floral,0.01182
+2662,484,694,foliage,Unclassified food or beverage,1070.0,floral,0.011
+2668,465,695,everlasting,Syrup,484.0,floral,0.14435
+2670,484,695,foliage,Syrup,327.0,floral,0.09752
+2674,465,696,everlasting,Tallow,2540.0,floral,0.18195
+2676,484,696,foliage,Tallow,3330.0,floral,0.23854
+2681,465,701,everlasting,Other candy,2105.0,floral,0.13174
+2683,484,701,foliage,Other candy,1772.0,floral,0.1109
+2687,465,704,everlasting,Other animal fat,520.0,floral,0.1844
+2689,484,704,foliage,Other animal fat,520.0,floral,0.1844
+2694,465,707,everlasting,Cocoa powder,6743.0,floral,0.16359
+2696,484,707,foliage,Cocoa powder,4931.0,floral,0.11963
+2704,465,709,everlasting,Chocolate,4605.0,floral,0.17926
+2706,484,709,foliage,Chocolate,2530.0,floral,0.09849
+2711,465,710,everlasting,Hot chocolate,3017.0,floral,0.20733
+2713,484,710,foliage,Hot chocolate,890.0,floral,0.06116
+2717,465,711,everlasting,Dried milk,24238.0,floral,0.2034
+2719,484,711,foliage,Dried milk,7481.0,floral,0.06278
+2723,465,712,everlasting,Milk (Other mammals),1387.0,floral,0.20263
+2725,484,712,foliage,Milk (Other mammals),271.0,floral,0.03959
+2729,465,713,everlasting,Kefir,480.0,floral,0.22079
+2731,484,713,foliage,Kefir,154.0,floral,0.07084
+2735,465,714,everlasting,Buttermilk,3891.0,floral,0.19769
+2737,484,714,foliage,Buttermilk,1189.0,floral,0.06041
+2741,465,715,everlasting,Other fermented milk,1000.0,floral,0.22193
+2743,484,715,foliage,Other fermented milk,316.0,floral,0.07013
+2747,465,716,everlasting,Soy sauce,1711.0,floral,0.16581
+2749,484,716,foliage,Soy sauce,1502.0,floral,0.14556
+2753,465,717,everlasting,Miso,547.0,floral,0.18586
+2755,484,717,foliage,Miso,447.0,floral,0.15189
+2759,465,718,everlasting,Tofu,12207.0,floral,0.17807
+2761,484,718,foliage,Tofu,9460.0,floral,0.138
+2764,633,718,neroli,Tofu,1.19,floral,2e-05
+2766,465,722,everlasting,Roe,4246.0,floral,0.17307
+2768,484,722,foliage,Roe,2223.0,floral,0.09061
+2772,465,723,everlasting,Cichlidae (Tilapia),2250.0,floral,0.15401
+2774,484,723,foliage,Cichlidae (Tilapia),2263.0,floral,0.1549
+2779,465,724,everlasting,Icing,541.0,floral,0.15426
+2781,484,724,foliage,Icing,479.0,floral,0.13658
+2786,465,725,everlasting,Snack bar,13141.0,floral,0.17649
+2788,484,725,foliage,Snack bar,12596.0,floral,0.16917
+2792,465,728,everlasting,Burrito,4951.0,floral,0.15634
+2794,484,728,foliage,Burrito,4792.0,floral,0.15132
+2798,465,729,everlasting,Hamburger,21409.0,floral,0.14459
+2800,484,729,foliage,Hamburger,27918.0,floral,0.18854
+2804,465,730,everlasting,Baked beans,2023.0,floral,0.18841
+2806,484,730,foliage,Baked beans,1586.0,floral,0.14771
+2810,465,731,everlasting,Chili,1131.0,floral,0.15619
+2812,484,731,foliage,Chili,1468.0,floral,0.20273
+2816,465,732,everlasting,Taco,2701.0,floral,0.1584
+2818,484,732,foliage,Taco,2398.0,floral,0.14063
+2822,465,733,everlasting,Tortilla,1894.0,floral,0.15169
+2824,484,733,foliage,Tortilla,1616.0,floral,0.12942
+2828,465,734,everlasting,Nachos,2191.0,floral,0.16017
+2830,484,734,foliage,Nachos,1576.0,floral,0.11521
+2834,465,735,everlasting,Processed cheese,9908.0,floral,0.18999
+2836,484,735,foliage,Processed cheese,2837.0,floral,0.0544
+2840,465,736,everlasting,Salad,2023.0,floral,0.17517
+2842,484,736,foliage,Salad,1574.0,floral,0.13629
+2847,465,737,everlasting,Cream substitute,724.0,floral,0.18338
+2849,484,737,foliage,Cream substitute,272.0,floral,0.0689
+2853,465,739,everlasting,Topping,1063.0,floral,0.19512
+2855,484,739,foliage,Topping,489.0,floral,0.08976
+2859,465,740,everlasting,Sweet custard,1271.0,floral,0.18872
+2861,484,740,foliage,Sweet custard,493.0,floral,0.0732
+2865,465,742,everlasting,Egg roll,1301.0,floral,0.14245
+2867,484,742,foliage,Egg roll,1381.0,floral,0.15121
+2871,465,743,everlasting,Heart of palm,114.0,floral,0.20321
+2873,484,743,foliage,Heart of palm,108.0,floral,0.19251
+2877,465,744,everlasting,Popcorn,4918.0,floral,0.15963
+2879,484,744,foliage,Popcorn,3919.0,floral,0.1272
+2883,465,745,everlasting,Potato chip,4785.0,floral,0.21305
+2885,484,745,foliage,Potato chip,2585.0,floral,0.1151
+2889,465,746,everlasting,Tortilla chip,2450.0,floral,0.15566
+2891,484,746,foliage,Tortilla chip,1831.0,floral,0.11634
+2895,465,747,everlasting,Corn chip,2802.0,floral,0.16285
+2897,484,747,foliage,Corn chip,2040.0,floral,0.11856
+2901,465,749,everlasting,Stew,1251.0,floral,0.14414
+2903,484,749,foliage,Stew,1672.0,floral,0.19265
+2907,465,750,everlasting,Gelatin dessert,5550.0,floral,0.04605
+2909,484,750,foliage,Gelatin dessert,50794.0,floral,0.42147
+2914,465,751,everlasting,Junket,965.0,floral,0.17083
+2916,484,751,foliage,Junket,478.0,floral,0.08462
+2920,465,752,everlasting,Falafel,562.0,floral,0.16328
+2922,484,752,foliage,Falafel,567.0,floral,0.16473
+2927,465,754,everlasting,Other frozen dessert,180.0,floral,0.12414
+2929,484,754,foliage,Other frozen dessert,70.0,floral,0.04828
+2933,465,755,everlasting,Lasagna,598.0,floral,0.1127
+2935,484,755,foliage,Lasagna,308.0,floral,0.05805
+2939,465,757,everlasting,Pancake,4953.0,floral,0.174
+2941,484,757,foliage,Pancake,3579.0,floral,0.12573
+2946,465,759,everlasting,Pudding,3574.0,floral,0.17361
+2948,484,759,foliage,Pudding,1197.0,floral,0.05815
+2953,465,760,everlasting,Waffle,1738.0,floral,0.17616
+2955,484,760,foliage,Waffle,1135.0,floral,0.11504
+2960,465,761,everlasting,Soy milk,382.0,floral,0.16276
+2962,484,761,foliage,Soy milk,337.0,floral,0.14359
+2966,465,762,everlasting,Meatloaf,8195.0,floral,0.1434
+2968,484,762,foliage,Meatloaf,9868.0,floral,0.17267
+2972,465,765,everlasting,Couscous,706.0,floral,0.16465
+2974,484,765,foliage,Couscous,523.0,floral,0.12197
+2978,465,766,everlasting,Bulgur,693.0,floral,0.16027
+2980,484,766,foliage,Bulgur,619.0,floral,0.14315
+2984,465,767,everlasting,Coffee substitute,419.0,floral,0.17853
+2986,484,767,foliage,Coffee substitute,390.0,floral,0.16617
+2990,465,769,everlasting,Chimichanga,1879.0,floral,0.14459
+2992,484,769,foliage,Chimichanga,2308.0,floral,0.17761
+2996,465,770,everlasting,Semolina,1980.0,floral,0.17043
+2998,484,770,foliage,Semolina,1482.0,floral,0.12756
+3002,465,771,everlasting,Tapioca pearl,5.0,floral,0.18519
+3004,484,771,foliage,Tapioca pearl,4.0,floral,0.14815
+3008,465,772,everlasting,Tostada,1543.0,floral,0.16378
+3010,484,772,foliage,Tostada,1293.0,floral,0.13725
+3014,465,774,everlasting,Baked potato,1358.0,floral,0.1937
+3016,484,774,foliage,Baked potato,585.0,floral,0.08344
+3020,465,775,everlasting,Hot dog,1475.0,floral,0.14191
+3022,484,775,foliage,Hot dog,1933.0,floral,0.18597
+3026,465,776,everlasting,Spread,3321.0,floral,0.15425
+3028,484,776,foliage,Spread,3429.0,floral,0.15927
+3032,465,777,everlasting,Enchilada,1111.0,floral,0.16259
+3034,484,777,foliage,Enchilada,867.0,floral,0.12688
+3038,465,778,everlasting,Egg substitute,792.0,floral,0.22577
+3040,484,778,foliage,Egg substitute,365.0,floral,0.10405
+3045,465,779,everlasting,Nutritional drink,195.0,floral,0.15563
+3047,484,779,foliage,Nutritional drink,100.0,floral,0.07981
+3051,465,780,everlasting,Other sandwich,9895.0,floral,0.15926
+3053,484,780,foliage,Other sandwich,9454.0,floral,0.15216
+3057,465,781,everlasting,Ketchup,266.0,floral,0.18627
+3059,484,781,foliage,Ketchup,206.0,floral,0.14426
+3062,633,781,neroli,Ketchup,0.01,floral,1e-05
+3064,465,782,everlasting,Breakfast sandwich,13165.0,floral,0.17405
+3066,484,782,foliage,Breakfast sandwich,9719.0,floral,0.12849
+3070,465,784,everlasting,Macaroni and cheese,3879.0,floral,0.19878
+3072,484,784,foliage,Macaroni and cheese,1962.0,floral,0.10054
+3076,465,785,everlasting,Butterfat,19.0,floral,0.19388
+3078,484,785,foliage,Butterfat,6.0,floral,0.06122
+3082,465,787,everlasting,Hushpuppy,388.0,floral,0.16645
+3084,484,787,foliage,Hushpuppy,268.0,floral,0.11497
+3088,465,789,everlasting,Relish,91.0,floral,0.1679
+3090,484,789,foliage,Relish,97.0,floral,0.17897
+3094,465,790,everlasting,Other fruit product,220.0,floral,0.16035
+3096,484,790,foliage,Other fruit product,200.0,floral,0.14577
+3100,465,793,everlasting,Vegetarian food,4627.0,floral,0.17652
+3102,484,793,foliage,Vegetarian food,3642.0,floral,0.13894
+3106,465,795,everlasting,Cold cut,8182.0,floral,0.15229
+3108,484,795,foliage,Cold cut,11663.0,floral,0.21707
+3112,465,796,everlasting,Mixed nuts,7836.0,floral,0.1797
+3114,484,796,foliage,Mixed nuts,8636.0,floral,0.19805
+3118,465,803,everlasting,Phyllo dough,286.0,floral,0.14518
+3120,484,803,foliage,Phyllo dough,256.0,floral,0.12995
+3125,465,805,everlasting,Pie crust,3688.0,floral,0.15679
+3127,484,805,foliage,Pie crust,3002.0,floral,0.12763
+3131,465,806,everlasting,Pie filling,12.0,floral,0.17143
+3133,484,806,foliage,Pie filling,10.0,floral,0.14286
+3138,465,807,everlasting,Pie,4472.0,floral,0.17381
+3140,484,807,foliage,Pie,2932.0,floral,0.11396
+3145,465,810,everlasting,Ice cream cone,672.0,floral,0.15269
+3147,484,810,foliage,Ice cream cone,549.0,floral,0.12474
+3151,465,812,everlasting,Cracker,15771.0,floral,0.15963
+3153,484,812,foliage,Cracker,13408.0,floral,0.13571
+3157,465,815,everlasting,Natto,1018.0,floral,0.1829
+3159,484,815,foliage,Natto,646.0,floral,0.11606
+3163,465,816,everlasting,Ravioli,393.0,floral,0.17467
+3165,484,816,foliage,Ravioli,299.0,floral,0.13289
+3169,465,818,everlasting,Other pasta dish,436.0,floral,0.15883
+3171,484,818,foliage,Other pasta dish,421.0,floral,0.15337
+3175,465,819,everlasting,Succotash,2026.0,floral,0.21153
+3177,484,819,foliage,Succotash,1329.0,floral,0.13876
+3181,465,820,everlasting,Tamale,807.0,floral,0.15371
+3183,484,820,foliage,Tamale,805.0,floral,0.15333
+3187,465,824,everlasting,Evaporated milk,1873.0,floral,0.19287
+3189,484,824,foliage,Evaporated milk,592.0,floral,0.06096
+3193,465,829,everlasting,Pita bread,1229.0,floral,0.15783
+3195,484,829,foliage,Pita bread,1032.0,floral,0.13253
+3199,465,831,everlasting,Bagel,4154.0,floral,0.15763
+3201,484,831,foliage,Bagel,3398.0,floral,0.12894
+3205,465,832,everlasting,Other bread product,4585.0,floral,0.16464
+3207,484,832,foliage,Other bread product,3723.0,floral,0.13369
+3211,465,835,everlasting,French toast,1540.0,floral,0.18214
+3213,484,835,foliage,French toast,994.0,floral,0.11756
+3217,465,836,everlasting,Wheat bread,16857.0,floral,0.17226
+3219,484,836,foliage,Wheat bread,13747.0,floral,0.14048
+3223,465,837,everlasting,Rye bread,5622.0,floral,0.17675
+3225,484,837,foliage,Rye bread,4618.0,floral,0.14519
+3231,465,838,everlasting,Oat bread,3368.0,floral,0.1597
+3233,484,838,foliage,Oat bread,2883.0,floral,0.13671
+3237,465,839,everlasting,Potato bread,305.0,floral,0.17379
+3239,484,839,foliage,Potato bread,204.0,floral,0.11624
+3243,465,840,everlasting,Cornbread,1368.0,floral,0.16295
+3245,484,840,foliage,Cornbread,984.0,floral,0.11721
+3249,465,841,everlasting,Corn grits,2382.0,floral,0.15559
+3251,484,841,foliage,Corn grits,1839.0,floral,0.12013
+3255,465,842,everlasting,Multigrain bread,829.0,floral,0.16953
+3257,484,842,foliage,Multigrain bread,781.0,floral,0.15971
+3261,465,843,everlasting,Rice bread,839.0,floral,0.15987
+3263,484,843,foliage,Rice bread,718.0,floral,0.13681
+3267,465,845,everlasting,Raisin bread,1016.0,floral,0.15696
+3269,484,845,foliage,Raisin bread,831.0,floral,0.12838
+3273,465,846,everlasting,Wonton wrapper,417.0,floral,0.15612
+3275,484,846,foliage,Wonton wrapper,336.0,floral,0.1258
+3279,465,848,everlasting,Trail mix,3016.0,floral,0.1844
+3281,484,848,foliage,Trail mix,3351.0,floral,0.20488
+3285,465,850,everlasting,Fruit-flavor drink,208.0,floral,0.18944
+3287,484,850,foliage,Fruit-flavor drink,69.0,floral,0.06284
+3292,465,854,everlasting,Frozen yogurt,508.0,floral,0.17451
+3294,484,854,foliage,Frozen yogurt,188.0,floral,0.06458
+3299,465,855,everlasting,Milkshake,1109.0,floral,0.18514
+3301,484,855,foliage,Milkshake,365.0,floral,0.06093
+3305,465,858,everlasting,Pupusa,1530.0,floral,0.1685
+3307,484,858,foliage,Pupusa,1046.0,floral,0.1152
+3311,465,859,everlasting,Empanada,511.0,floral,0.14889
+3313,484,859,foliage,Empanada,568.0,floral,0.1655
+3317,465,860,everlasting,Arepa,276.0,floral,0.16468
+3319,484,860,foliage,Arepa,168.0,floral,0.10024
+3323,465,862,everlasting,Gefilte fish,548.0,floral,0.17908
+3325,484,862,foliage,Gefilte fish,403.0,floral,0.1317
+3329,465,865,everlasting,Other dish,15005.0,floral,0.1768
+3331,484,865,foliage,Other dish,11669.0,floral,0.13749
+3336,465,866,everlasting,Pot pie,566.0,floral,0.14143
+3338,484,866,foliage,Pot pie,609.0,floral,0.15217
+3342,465,867,everlasting,Stuffing,323.0,floral,0.16598
+3344,484,867,foliage,Stuffing,266.0,floral,0.13669
+3348,465,868,everlasting,Edible shell,653.0,floral,0.14466
+3350,484,868,foliage,Edible shell,547.0,floral,0.12118
+3354,465,871,everlasting,Condensed milk,529.0,floral,0.19278
+3356,484,871,foliage,Condensed milk,167.0,floral,0.06086
+3360,465,872,everlasting,Margarine,497.0,floral,0.21422
+3362,484,872,foliage,Margarine,158.0,floral,0.0681
+3366,465,873,everlasting,Margarine-like spread,84.0,floral,0.20948
+3368,484,873,foliage,Margarine-like spread,27.0,floral,0.06733
+3372,465,874,everlasting,Hummus,215.0,floral,0.16836
+3374,484,874,foliage,Hummus,223.0,floral,0.17463
+3378,465,876,everlasting,Potato puffs,246.0,floral,0.20569
+3380,484,876,foliage,Potato puffs,165.0,floral,0.13796
+3384,465,877,everlasting,Potato gratin,998.0,floral,0.19747
+3386,484,877,foliage,Potato gratin,378.0,floral,0.07479
+3390,465,878,everlasting,Milk substitute,125.0,floral,0.19142
+3392,484,878,foliage,Milk substitute,35.0,floral,0.0536
+3397,484,880,foliage,Soft-necked garlic,340.0,floral,0.25445
+3402,465,881,everlasting,Cabbage,373.6,floral,0.11824
+3404,484,881,foliage,Cabbage,194.0,floral,0.0614
+3407,633,881,neroli,Cabbage,20.0,floral,0.00633
+3409,465,906,everlasting,Sunburst squash (pattypan squash),8444.05,floral,0.19713
+3411,484,906,foliage,Sunburst squash (pattypan squash),8793.4,floral,0.20529
+3416,465,907,everlasting,Green zucchini,1115.23,floral,0.18235
+3418,484,907,foliage,Green zucchini,906.26,floral,0.14818
+3424,465,908,everlasting,Yellow zucchini,1177.95,floral,0.18685
+3426,484,908,foliage,Yellow zucchini,991.99,floral,0.15735
+3432,465,909,everlasting,Green bell pepper,1491.8,floral,0.18742
+3434,484,909,foliage,Green bell pepper,1246.5,floral,0.1566
+3440,633,909,neroli,Green bell pepper,5.688700000000001,floral,0.00071
+3443,465,910,everlasting,Yellow bell pepper,436.6,floral,0.20456
+3445,484,910,foliage,Yellow bell pepper,328.90999999999997,floral,0.15411
+3451,465,911,everlasting,Orange bell pepper,430.85,floral,0.1915
+3453,484,911,foliage,Orange bell pepper,288.75,floral,0.12834
+3458,465,912,everlasting,Red bell pepper,1589.60397895,floral,0.00743
+3460,484,912,foliage,Red bell pepper,45267.218485895006,floral,0.21152
+3466,465,913,everlasting,Italian sweet red pepper,1094.0,floral,0.18382
+3468,484,913,foliage,Italian sweet red pepper,984.0,floral,0.16534
+3475,465,914,everlasting,Yellow wax bean,3154.1,floral,0.20188
+3477,484,914,foliage,Yellow wax bean,2228.6,floral,0.14264
+3482,633,914,neroli,Yellow wax bean,1.22211766,floral,8e-05
+3485,465,915,everlasting,Green bean,1321.43,floral,0.20996
+3487,484,915,foliage,Green bean,875.97,floral,0.13918
+3491,633,915,neroli,Green bean,1.6696176500000002,floral,0.00027
+3493,465,916,everlasting,Saskatoon berry,34.0,floral,0.24028
+3495,484,916,foliage,Saskatoon berry,25.3,floral,0.1788
+3498,465,917,everlasting,Nanking cherry,55.7,floral,0.19293
+3500,484,917,foliage,Nanking cherry,48.0,floral,0.16626
+3503,465,918,everlasting,Japanese pumpkin,7907.5,floral,0.19774
+3505,484,918,foliage,Japanese pumpkin,8389.6,floral,0.2098
+3510,465,919,everlasting,White cabbage,665.2,floral,0.14077
+3512,484,919,foliage,White cabbage,348.84000000000003,floral,0.07382
+3516,633,919,neroli,White cabbage,20.341428569,floral,0.0043
+3518,465,920,everlasting,Romaine lettuce,259.2,floral,0.1611
+3520,484,920,foliage,Romaine lettuce,179.5,floral,0.11156
+3527,465,921,everlasting,"Cow milk, pasteurized, vitamin A + D added, 0% fat",221.0,floral,0.18634
+3529,484,921,foliage,"Cow milk, pasteurized, vitamin A + D added, 0% fat",67.0,floral,0.05649
+3533,465,922,everlasting,"Cow milk, pasteurized, vitamin A + D added, 1% fat",220.0,floral,0.18565
+3535,484,922,foliage,"Cow milk, pasteurized, vitamin A + D added, 1% fat",67.0,floral,0.05654
+3539,465,923,everlasting,"Cow milk, pasteurized, vitamin A + D added, 2% fat",216.0,floral,0.18589
+3541,484,923,foliage,"Cow milk, pasteurized, vitamin A + D added, 2% fat",65.0,floral,0.05594
+3545,465,924,everlasting,"Cow milk, pasteurized, vitamin D added, 3.25% fat",206.0,floral,0.18575
+3547,484,924,foliage,"Cow milk, pasteurized, vitamin D added, 3.25% fat",62.0,floral,0.05591
+3553,465,939,everlasting,Black tea,3.0,floral,0.01614
+3555,484,939,foliage,Black tea,5.0,floral,0.0269
+3558,633,939,neroli,Black tea,10.288454533,floral,0.05535
+3562,465,940,everlasting,Green tea,3.0,floral,0.01614
+3564,484,940,foliage,Green tea,5.0,floral,0.0269
+3567,633,940,neroli,Green tea,10.288454533,floral,0.05535
+3569,465,985,everlasting,Sour cream,172.0,floral,0.19196
+3571,484,985,foliage,Sour cream,48.0,floral,0.05357
+3575,465,1019,everlasting,White bread,6562.0,floral,0.15794
+3577,484,1019,foliage,White bread,5248.0,floral,0.12631
+3581,465,1023,everlasting,Taco shell,653.0,floral,0.14466
+3583,484,1023,foliage,Taco shell,547.0,floral,0.12118
+3587,633,957,neroli,Red tea,7.28,floral,0.96042
+3589,633,1021,neroli,Herbal tea,7.28,floral,0.96042
+3596,465,33,everlasting,Kohlrabi,556.75,floral,0.48846
+3598,633,33,neroli,Kohlrabi,12.859999828,floral,0.01128
+3602,465,155,everlasting,Blackcurrant,17.0,floral,0.44881
+3605,633,155,neroli,Blackcurrant,2.257999995,floral,0.05961
+3607,465,287,everlasting,Alfalfa,445.0,floral,0.51208
+3609,465,298,everlasting,Bamboo shoots,301.0,floral,0.15842
+3611,484,298,foliage,Bamboo shoots,246.0,floral,0.12947
+3614,465,322,everlasting,Calabash,395.25,floral,0.56323
+3616,465,416,everlasting,Moth bean,2007.35,floral,0.37034
+3618,465,479,everlasting,Sesbania flower,216.0,floral,0.54822
+3632,633,626,neroli,Grape wine,0.448738013,floral,0.0
+3642,633,19,neroli,Tarragon,22.0,floral,0.55696
+3648,633,77,neroli,Rocket salad (ssp.),36.67,floral,0.87832
+3652,633,136,neroli,Black chokeberry,0.98,floral,0.10273
+3654,633,146,neroli,Sour cherry,9.29,floral,0.26295
+3656,633,207,neroli,Arctic blackberry,0.15,floral,0.09677
+3658,633,226,neroli,Garden onion (var.),2.506363613,floral,0.11715
+3661,633,244,neroli,Rocket salad,1.78,floral,0.69531
+3663,633,449,neroli,Prickly pear,0.18,floral,0.21687
+3664,633,39,neroli,Capers,494.824118096,floral,1.0
+3665,633,63,neroli,Saffron,205.48,floral,1.0
+3666,633,67,neroli,Cumin,38.599998474,floral,0.31562
+3667,872,67,greenleaf,Cumin,83.7,floral,0.68438
+3668,633,97,neroli,Sweet bay,4.82,floral,1.0
+3669,633,100,neroli,Lovage,14.0,floral,1.0
+3670,633,156,neroli,Redcurrant,0.18000000000000002,floral,1.0
+3671,633,157,neroli,Gooseberry,1.755,floral,1.0
+3672,633,160,neroli,"Rubus (Blackberry, Raspberry)",0.433749998,floral,1.0
+3673,633,172,neroli,Cherry tomato,0.132380953,floral,0.01848
+3675,633,194,neroli,Lingonberry,0.9655555870000001,floral,1.0
+3676,633,202,neroli,Cowpea,1.92,floral,1.0
+3677,633,216,neroli,Chinese chives,3.819999988,floral,1.0
+3678,633,262,neroli,Black radish,2.110000134,floral,1.0
+3679,633,263,neroli,Radish (var.),0.629999995,floral,1.0
+3680,633,282,neroli,Acerola,1.05,floral,1.0
+3681,633,422,neroli,New Zealand spinach,15.75,floral,1.0
+3682,633,442,neroli,Pitanga,0.4,floral,1.0
+3683,633,627,neroli,Berry wine,0.11499999899999999,floral,1.0
+3684,633,930,neroli,Rabbiteye blueberry,1.86,floral,1.0
+3722,826,90,unripe plum,Star anise,20.0,floral,0.19175
+3724,872,90,greenleaf,Star anise,52.0,floral,0.49856
+3725,826,122,unripe plum,Sweet marjoram,2.55,floral,1.0
+3726,826,288,unripe plum,Allspice,1.3,floral,1.0

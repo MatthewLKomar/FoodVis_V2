@@ -1,0 +1,39 @@
+,flavor_name,flavor_group
+0,brownsugar,sweet
+1,very sweet,sweet
+2,cananga,floral
+3,everlasting,floral
+4,foliage,floral
+5,greenleaf,floral
+6,neroli,floral
+7,unripe plum,floral
+8,lemon peel,fruity
+9,papaya,fruity
+10,powderful,fruity
+11,watercress,fruity
+12,red hots,fruity
+13,cookedvegetable,green
+14,cypress,green
+15,diterpene,green
+16,diphenyl oxide,green
+17,plant,green
+18,undergrowth,green
+19,sickening,green
+20,castoreum,animal
+21,leathery,animal
+22,seafood,animal
+23,dry,smoky
+24,dusty,smoky
+25,tonka,smoky
+26,sawen,wine_like
+27,watery,wine_like
+28,styrene,wine_like
+29,sea breeze,wine_like
+30,ketone,chemical
+31,ketonic,chemical
+32,mercaptan,chemical
+33,slight,chemical
+34,vinegar,chemical
+35,thymol,chemical
+36,feta cheese,milky
+37,yeasty,milky

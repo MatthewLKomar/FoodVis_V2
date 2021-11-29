@@ -1,0 +1,48 @@
+,food_id,flavor_name,food_name,orig_content,flavor_group,normalized
+230,38,dry,Tea,0.3,smoky,0.00162
+231,38,dusty,Tea,154.0,smoky,0.82979
+351,58,dusty,Coffee,294.0,smoky,0.04344
+360,59,dusty,Arabica coffee,295.8,smoky,0.0437
+369,60,dusty,Robusta coffee,294.0,smoky,0.04344
+491,90,tonka,Star anise,0.1,smoky,0.00096
+929,182,dry,Cocoa bean,431.3,smoky,0.07417
+930,182,dusty,Cocoa bean,2313.35,smoky,0.39785
+1202,270,dusty,Breakfast cereal,940.0,smoky,0.0073
+1221,275,dusty,Biscuit,2346.0,smoky,0.01624
+2568,634,dusty,Yogurt,46.0,smoky,0.00104
+2586,641,dusty,Ice cream,527.0,smoky,0.02355
+2618,654,dusty,Cake,1569.0,smoky,0.02227
+2649,660,dusty,Pastry,167.0,smoky,0.00105
+2759,689,dusty,Other beverage,1624.0,smoky,0.18613
+2792,695,dusty,Syrup,696.0,smoky,0.20758
+2804,698,dusty,Chocolate spread,230.0,smoky,1.0
+2806,701,dusty,Other candy,4896.0,smoky,0.30642
+2819,707,dusty,Cocoa powder,11638.0,smoky,0.28235
+2829,709,dusty,Chocolate,5052.0,smoky,0.19666
+2836,710,dusty,Hot chocolate,326.0,smoky,0.0224
+2904,724,dusty,Icing,656.0,smoky,0.18705
+2911,725,dusty,Snack bar,597.0,smoky,0.00802
+2972,737,dusty,Cream substitute,192.0,smoky,0.04863
+3039,751,dusty,Junket,508.0,smoky,0.08993
+3052,754,dusty,Other frozen dessert,450.0,smoky,0.31034
+3071,759,dusty,Pudding,2026.0,smoky,0.09842
+3078,760,dusty,Waffle,89.0,smoky,0.00902
+3085,761,dusty,Soy milk,84.0,smoky,0.03579
+3117,768,dusty,Coffee mocha,714.0,smoky,1.0
+3173,779,dusty,Nutritional drink,23.0,smoky,0.01836
+3253,805,dusty,Pie crust,266.0,smoky,0.01131
+3266,807,dusty,Pie,21.0,smoky,0.00082
+3273,810,dusty,Ice cream cone,56.0,smoky,0.01272
+3419,853,dusty,Soft drink,63.0,smoky,1.0
+3421,854,dusty,Frozen yogurt,318.0,smoky,0.10924
+3428,855,dusty,Milkshake,68.0,smoky,0.01135
+3434,856,dusty,Chocolate mousse,45.0,smoky,1.0
+3484,869,dusty,Fudge,510.0,smoky,1.0
+3485,870,dusty,Candy bar,1757.0,smoky,1.0
+3685,939,dry,Black tea,0.6,smoky,0.00323
+3686,939,dusty,Black tea,154.0,smoky,0.82845
+3694,940,dry,Green tea,0.6,smoky,0.00323
+3695,940,dusty,Green tea,154.0,smoky,0.82845
+3705,943,tonka,Red wine,0.56,smoky,0.00064
+3716,957,dry,Red tea,0.3,smoky,0.03958
+3730,1021,dry,Herbal tea,0.3,smoky,0.03958

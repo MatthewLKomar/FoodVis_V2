@@ -1,48 +1,44 @@
-,source_id,food_id,flavor_name,food_name,orig_content,flavor_group,normalized
-11,812,943,tonka,Red wine,0.56,smoky,0.00064
-287,453,38,dry,Tea,0.3,smoky,0.00162
-288,455,38,dusty,Tea,154.0,smoky,0.82979
-377,455,58,dusty,Coffee,294.0,smoky,0.04344
-386,455,59,dusty,Arabica coffee,295.8,smoky,0.0437
-395,455,60,dusty,Robusta coffee,294.0,smoky,0.04344
-907,453,182,dry,Cocoa bean,431.3,smoky,0.07417
-908,455,182,dusty,Cocoa bean,2313.35,smoky,0.39785
-1140,455,270,dusty,Breakfast cereal,940.0,smoky,0.0073
-1159,455,275,dusty,Biscuit,2346.0,smoky,0.01624
-2465,455,634,dusty,Yogurt,46.0,smoky,0.00104
-2478,455,641,dusty,Ice cream,527.0,smoky,0.02355
-2493,455,654,dusty,Cake,1569.0,smoky,0.02227
-2524,455,660,dusty,Pastry,167.0,smoky,0.00105
-2634,455,689,dusty,Other beverage,1624.0,smoky,0.18613
-2667,455,695,dusty,Syrup,696.0,smoky,0.20758
-2680,455,701,dusty,Other candy,4896.0,smoky,0.30642
-2693,455,707,dusty,Cocoa powder,11638.0,smoky,0.28235
-2703,455,709,dusty,Chocolate,5052.0,smoky,0.19666
-2710,455,710,dusty,Hot chocolate,326.0,smoky,0.0224
-2778,455,724,dusty,Icing,656.0,smoky,0.18705
-2785,455,725,dusty,Snack bar,597.0,smoky,0.00802
-2846,455,737,dusty,Cream substitute,192.0,smoky,0.04863
-2913,455,751,dusty,Junket,508.0,smoky,0.08993
-2926,455,754,dusty,Other frozen dessert,450.0,smoky,0.31034
-2945,455,759,dusty,Pudding,2026.0,smoky,0.09842
-2952,455,760,dusty,Waffle,89.0,smoky,0.00902
-2959,455,761,dusty,Soy milk,84.0,smoky,0.03579
-3044,455,779,dusty,Nutritional drink,23.0,smoky,0.01836
-3124,455,805,dusty,Pie crust,266.0,smoky,0.01131
-3137,455,807,dusty,Pie,21.0,smoky,0.00082
-3144,455,810,dusty,Ice cream cone,56.0,smoky,0.01272
-3291,455,854,dusty,Frozen yogurt,318.0,smoky,0.10924
-3298,455,855,dusty,Milkshake,68.0,smoky,0.01135
-3551,453,939,dry,Black tea,0.6,smoky,0.00323
-3552,455,939,dusty,Black tea,154.0,smoky,0.82845
-3560,453,940,dry,Green tea,0.6,smoky,0.00323
-3561,455,940,dusty,Green tea,154.0,smoky,0.82845
-3586,453,957,dry,Red tea,0.3,smoky,0.03958
-3588,453,1021,dry,Herbal tea,0.3,smoky,0.03958
-3590,455,698,dusty,Chocolate spread,230.0,smoky,1.0
-3591,455,768,dusty,Coffee mocha,714.0,smoky,1.0
-3592,455,853,dusty,Soft drink,63.0,smoky,1.0
-3593,455,856,dusty,Chocolate mousse,45.0,smoky,1.0
-3594,455,869,dusty,Fudge,510.0,smoky,1.0
-3595,455,870,dusty,Candy bar,1757.0,smoky,1.0
-3721,812,90,tonka,Star anise,0.1,smoky,0.00096
+,food_id,flavor_group,orig_content,normalized
+168,38,smoky,154.3,0.83141
+253,58,smoky,294.0,0.04344
+259,59,smoky,295.8,0.0437
+265,60,smoky,294.0,0.04344
+351,90,smoky,0.1,0.00096
+667,182,smoky,2744.65,0.47202
+867,270,smoky,940.0,0.0073
+883,275,smoky,2346.0,0.01624
+1994,634,smoky,46.0,0.00104
+2010,641,smoky,527.0,0.02355
+2036,654,smoky,1569.0,0.02227
+2062,660,smoky,167.0,0.00105
+2153,689,smoky,1624.0,0.18613
+2181,695,smoky,696.0,0.20758
+2187,698,smoky,230.0,1.0
+2193,701,smoky,4896.0,0.30642
+2204,707,smoky,11638.0,0.28235
+2212,709,smoky,5052.0,0.19666
+2218,710,smoky,326.0,0.0224
+2274,724,smoky,656.0,0.18705
+2280,725,smoky,597.0,0.00802
+2331,737,smoky,192.0,0.04863
+2387,751,smoky,508.0,0.08993
+2398,754,smoky,450.0,0.31034
+2414,759,smoky,2026.0,0.09842
+2420,760,smoky,89.0,0.00902
+2426,761,smoky,84.0,0.03579
+2449,768,smoky,714.0,1.0
+2500,779,smoky,23.0,0.01836
+2566,805,smoky,266.0,0.01131
+2577,807,smoky,21.0,0.00082
+2583,810,smoky,56.0,0.01272
+2700,853,smoky,63.0,1.0
+2706,854,smoky,318.0,0.10924
+2712,855,smoky,68.0,0.01135
+2713,856,smoky,45.0,1.0
+2755,869,smoky,510.0,1.0
+2756,870,smoky,1757.0,1.0
+2913,939,smoky,154.6,0.83168
+2919,940,smoky,154.6,0.83168
+2923,943,smoky,0.56,0.00064
+2931,957,smoky,0.3,0.03958
+2943,1021,smoky,0.3,0.03958

@@ -1,0 +1,551 @@
+,food_id,flavor_name,food_name,orig_content,flavor_group,normalized
+2,2,feta cheese,Savoy cabbage,93.0,milky,0.07013
+10,4,feta cheese,Kiwi,173.0,milky,0.17009
+18,5,feta cheese,Allium,2231.0,milky,0.18021
+26,6,feta cheese,Garden onion,553.99,milky,0.16348
+36,7,feta cheese,Leek,110.0,milky,0.14436
+42,8,feta cheese,Garlic,2051.0,milky,0.16708
+51,9,feta cheese,Chives,1351.0,milky,0.10736
+59,11,feta cheese,Cashew nut,8648.05,milky,0.15606
+66,12,feta cheese,Pineapple,253.9,milky,0.18602
+74,13,feta cheese,Dill,2431.19,milky,0.3629
+82,14,feta cheese,Custard apple,120.5,milky,1.0
+85,15,feta cheese,Wild celery,404.5,milky,0.20392
+93,16,feta cheese,Peanut,23875.85,milky,0.11828
+101,17,feta cheese,Burdock,452.0,milky,0.29698
+107,18,feta cheese,Horseradish,210.0,milky,0.08425
+121,21,feta cheese,Asparagus,2364.0,milky,0.16648
+129,22,feta cheese,Oat,6889.335913,milky,0.13409
+139,23,feta cheese,Star fruit,393.0,milky,0.21882
+145,24,feta cheese,Brazil nut,1572.35,milky,0.10402
+151,25,feta cheese,Common beet,542.0,milky,0.18467
+157,27,feta cheese,Chinese mustard,648.0,milky,0.32247
+162,28,feta cheese,Swede,123.0,milky,0.2291
+168,30,feta cheese,Common cabbage,1085.0,milky,0.12027
+176,31,feta cheese,Cauliflower,1645.0,milky,0.16526
+184,32,feta cheese,Brussel sprouts,2366.8,milky,0.16247
+192,33,feta cheese,Kohlrabi,570.1,milky,0.50017
+198,34,feta cheese,Broccoli,2598.65,milky,0.24111
+207,35,feta cheese,Chinese cabbage,74.0,milky,0.13873
+215,36,feta cheese,Turnip,1737.22,milky,0.18903
+225,37,feta cheese,Pigeon pea,4007.0,milky,0.26445
+233,38,feta cheese,Tea,3.0,milky,0.01616
+241,40,feta cheese,Pepper,5268.15,milky,0.16675
+248,41,feta cheese,Papaya,178.4,milky,0.27573
+255,42,feta cheese,Safflower,1710.0,milky,0.11614
+261,43,feta cheese,Caraway,1031.0,milky,0.17536
+268,44,feta cheese,Pecan nut,2357.0,milky,0.10294
+274,45,feta cheese,Chestnut,120.0,milky,0.10638
+280,47,feta cheese,Chickpea,6531.25,milky,0.21896
+286,48,feta cheese,Endive,727.75,milky,0.15962
+293,49,feta cheese,Chicory,663.3,milky,0.3624
+301,50,feta cheese,Chinese cinnamon,243.0,milky,0.1757
+309,52,feta cheese,Watermelon,2653.5,milky,0.1705
+314,53,feta cheese,Lime,79.5,milky,0.9521
+319,54,feta cheese,Lemon,25.0,milky,0.08635
+329,56,feta cheese,"Mandarin orange (Clementine, Tangerine)",318.95,milky,0.12803
+340,57,feta cheese,Sweet orange,638.9,milky,0.07126
+353,58,feta cheese,Coffee,285.0,milky,0.04211
+362,59,feta cheese,Arabica coffee,285.0,milky,0.0421
+371,60,feta cheese,Robusta coffee,285.0,milky,0.04211
+381,64,feta cheese,Muskmelon,119.0,milky,0.1142
+388,65,feta cheese,Cucumber,522.8,milky,0.21286
+399,66,feta cheese,Cucurbita,9468.75,milky,0.182
+409,72,feta cheese,Wild carrot,183.75,milky,0.0792
+417,73,feta cheese,Japanese persimmon,111.0,milky,0.21143
+424,76,feta cheese,Loquat,46.0,milky,0.12742
+432,79,feta cheese,Common buckwheat,3680.0,milky,0.14133
+438,81,feta cheese,Fig,553.8,milky,0.08991
+445,82,feta cheese,Fennel,1518.0,milky,0.08263
+455,83,feta cheese,Strawberry,310.0,milky,0.14223
+465,85,feta cheese,Soy bean,91716.5,milky,0.20905
+474,86,feta cheese,Sunflower,9624.0,milky,0.13277
+485,88,feta cheese,Barley,3610.1633708,milky,0.10115
+496,91,feta cheese,Swamp cabbage,283.0,milky,0.05381
+503,92,feta cheese,Sweet potato,1689.5,milky,0.20179
+511,93,feta cheese,Black walnut,713.0,milky,0.07476
+517,94,feta cheese,Common walnut,819.25,milky,0.11129
+524,95,feta cheese,Lettuce,1300.0,milky,0.20248
+532,98,feta cheese,Lentils,13153.0,milky,0.24078
+539,99,feta cheese,Garden cress,160.0,milky,0.13115
+548,101,feta cheese,Flaxseed,2062.0,milky,0.10759
+553,103,feta cheese,Lichee,269.0,milky,1.0
+556,105,feta cheese,Apple,477.3,milky,0.162
+565,106,feta cheese,Mango,286.5,milky,0.19163
+572,112,feta cheese,Spearmint,999.0,milky,0.16295
+579,113,feta cheese,Peppermint,161.0,milky,0.16263
+584,113,yeasty,Peppermint,0.00055,milky,0.0
+589,119,feta cheese,Sweet basil,1878.0,milky,0.14493
+596,120,feta cheese,Evening primrose,347.1,milky,0.09591
+602,121,feta cheese,Olive,70.0,milky,0.11833
+613,124,feta cheese,Common oregano,500.0,milky,0.11105
+623,125,feta cheese,Rice,7618.0,milky,0.10251
+630,126,feta cheese,Millet,1023.0,milky,0.06291
+636,127,feta cheese,Poppy,1100.0,milky,0.09257
+644,129,feta cheese,Parsnip,320.85995493,milky,0.14967
+653,130,feta cheese,Avocado,722.15,milky,0.18176
+659,131,feta cheese,Parsley,6761.7,milky,0.34594
+669,133,feta cheese,Lima bean,10943.5,milky,0.24012
+675,134,feta cheese,Common bean,56259.55,milky,0.23213
+682,135,feta cheese,Date,298.0,milky,0.10873
+693,138,feta cheese,Pine nut,1080.0,milky,0.09959
+700,139,feta cheese,Pepper (Spice),244.0,milky,0.02683
+706,140,feta cheese,Pistachio,7235.75,milky,0.1654
+713,141,feta cheese,Common pea,13699.25,milky,0.22169
+720,142,feta cheese,Purslane,879.5,milky,0.19379
+728,143,feta cheese,"Prunus (Cherry, Plum)",114.0,milky,0.13164
+735,144,feta cheese,Apricot,1758.75,milky,0.17302
+742,145,feta cheese,Sweet cherry,32.0,milky,0.20216
+752,147,feta cheese,European plum,255.95,milky,0.1209
+760,148,feta cheese,Almond,6669.3,milky,0.103
+771,149,feta cheese,Peach,920.65,milky,0.12051
+778,150,feta cheese,Guava,201.3,milky,0.1242
+786,152,feta cheese,Pear,287.25,milky,0.18959
+793,153,feta cheese,Radish,479.75,milky,0.23801
+800,154,feta cheese,Garden rhubarb,80.0,milky,0.12571
+814,158,feta cheese,Watercress,1639.0,milky,0.18777
+821,159,feta cheese,Rosemary,143.0,milky,0.15779
+831,162,feta cheese,Red raspberry,15.14378462,milky,0.02466
+840,164,feta cheese,Sorrel,120.0,milky,0.09331
+848,169,feta cheese,Rye,3768.98,milky,0.09357
+858,170,feta cheese,Sesame,11505.95,milky,0.09776
+864,171,feta cheese,Garden tomato,2911.0,milky,0.18327
+876,173,feta cheese,Garden tomato (var.),273.75,milky,0.22363
+886,174,feta cheese,Eggplant,613.01,milky,0.17277
+897,175,feta cheese,Potato,13232.76,milky,0.2057
+905,177,feta cheese,Sorghum,391.0,milky,0.06874
+913,178,feta cheese,Spinach,3303.2,milky,0.19526
+921,179,feta cheese,Cloves,370.0,milky,0.19636
+927,180,feta cheese,Tamarind,449.8,milky,1.0
+932,182,feta cheese,Cocoa bean,80.0,milky,0.01376
+938,183,feta cheese,Common thyme,548.3,milky,0.25668
+942,186,feta cheese,Fenugreek,3375.75,milky,0.23562
+950,187,feta cheese,Common wheat,3254.0,milky,0.19002
+958,188,feta cheese,"Vaccinium (Blueberry, Cranberry, Huckleberry)",87.0,milky,0.08405
+965,191,feta cheese,Highbush blueberry,45.0,milky,0.09172
+974,192,feta cheese,American cranberry,39.0,milky,0.15207
+986,197,feta cheese,Broad bean,5131.25,milky,0.13695
+995,198,feta cheese,Adzuki bean,4778.2,milky,0.2537
+1001,199,feta cheese,Gram bean,2674.0,milky,0.23344
+1007,200,feta cheese,Mung bean,7973.95,milky,0.22319
+1015,204,feta cheese,Common grape,157.1,milky,0.13644
+1024,205,feta cheese,Corn,12188.45,milky,0.09404
+1033,206,feta cheese,Ginger,540.0,milky,0.14542
+1044,208,feta cheese,Banana,270.0,milky,0.16023
+1051,214,feta cheese,Celeriac,73.0,milky,0.11643
+1058,224,feta cheese,Longan,218.0,milky,0.12429
+1067,229,feta cheese,Nectarine,32.0,milky,0.15531
+1074,237,feta cheese,Swiss chard,820.0560393000001,milky,0.25635
+1084,241,feta cheese,Welsh onion,95.0,milky,0.16816
+1091,242,feta cheese,Hard wheat,303.0,milky,0.08334
+1098,243,feta cheese,Shallot,739.0,milky,0.17591
+1108,245,feta cheese,Carrot,1432.92,milky,0.14845
+1119,246,feta cheese,Triticale,734.0,milky,0.10182
+1125,247,feta cheese,Black cabbage,729.0,milky,0.19226
+1132,249,feta cheese,Celery leaves,73.0,milky,0.11643
+1139,252,feta cheese,Pak choy,364.0,milky,0.21763
+1146,253,feta cheese,Napa cabbage,249.0,milky,0.25829
+1154,256,feta cheese,Grapefruit,204.0,milky,0.10528
+1164,261,feta cheese,Daikon radish,529.0,milky,0.22662
+1173,264,feta cheese,Red beetroot,391.0,milky,0.16544
+1184,268,feta cheese,Beer,50.0,milky,0.0012
+1197,269,feta cheese,Other bread,4574.0,milky,0.10073
+1204,270,feta cheese,Breakfast cereal,11975.0,milky,0.09304
+1210,272,feta cheese,Other soy product,41223.0,milky,0.21673
+1216,274,feta cheese,Pasta,11701.0,milky,0.08593
+1223,275,feta cheese,Biscuit,17493.0,milky,0.12106
+1234,280,feta cheese,Abalone,2711.0,milky,0.23519
+1241,283,feta cheese,Acorn,1357.0,milky,0.21353
+1247,284,feta cheese,Winter squash,455.0,milky,0.16192
+1253,286,feta cheese,Red king crab,3276.0,milky,0.2743
+1258,287,feta cheese,Alfalfa,424.0,milky,0.48792
+1262,289,feta cheese,Amaranth,1919.4,milky,0.16432
+1268,291,feta cheese,Arrowroot,13.0,milky,0.17808
+1274,292,feta cheese,Asian pear,17.0,milky,0.19767
+1280,293,feta cheese,Atlantic herring,9586.0,milky,0.28615
+1286,294,feta cheese,Atlantic mackerel,3898.0,milky,0.28613
+1292,295,feta cheese,Painted comber,3234.0,milky,0.30174
+1298,296,feta cheese,Atlantic pollock,4075.0,milky,0.28619
+1304,297,feta cheese,Atlantic wolffish,5168.0,milky,0.236
+1309,298,feta cheese,Bamboo shoots,381.0,milky,0.20053
+1315,299,feta cheese,Striped bass,3716.0,milky,0.28613
+1321,301,feta cheese,Beech nut,367.0,milky,0.18879
+1327,302,feta cheese,Beluga whale,6313.0,milky,0.27643
+1333,306,feta cheese,Blue crab,6077.0,milky,0.26295
+1339,307,feta cheese,Blue mussel,2668.0,milky,0.23777
+1345,308,feta cheese,Northern bluefin tuna,4889.0,milky,0.28612
+1351,309,feta cheese,Bluefish,4200.0,milky,0.28616
+1357,312,feta cheese,Breadfruit,2510.15,milky,0.22276
+1363,313,feta cheese,Breadnut tree seed,636.0,milky,0.11721
+1369,314,feta cheese,Rapini,437.0,milky,0.24661
+1375,317,feta cheese,Burbot,4048.0,milky,0.2862
+1381,319,feta cheese,American butterfish,3622.0,milky,0.28619
+1387,320,feta cheese,Butternut,1553.3,milky,0.104
+1393,321,feta cheese,Butternut squash,258.0,milky,0.16135
+1398,322,feta cheese,Calabash,306.5,milky,0.43677
+1401,326,feta cheese,Carob,2828.0,milky,0.1934
+1408,327,feta cheese,Common carp,3738.0,milky,0.28617
+1414,328,feta cheese,Cassava,296.75,milky,0.20184
+1420,329,feta cheese,Channel catfish,7861.0,milky,0.28425
+1426,330,feta cheese,Chayote,466.75,milky,0.1357
+1432,331,feta cheese,Cherimoya,42.0,milky,0.10294
+1438,332,feta cheese,Chervil,370.0,milky,0.11178
+1444,333,feta cheese,Chia,970.0,milky,0.18447
+1456,336,feta cheese,Chinese chestnut,998.0,milky,0.2038
+1462,339,feta cheese,Cisco,3247.0,milky,0.28621
+1468,341,feta cheese,Coconut,2295.0,milky,0.13369
+1474,342,feta cheese,Pacific cod,3115.0,milky,0.29252
+1480,343,feta cheese,Atlantic cod,11592.0,milky,0.28614
+1486,344,feta cheese,Common octopus,3342.0,milky,0.23775
+1492,345,feta cheese,Corn salad,852.75,milky,0.20997
+1498,346,feta cheese,Cottonseed,8754.0,milky,0.18413
+1504,347,feta cheese,Catjang pea,2714.0,milky,0.24213
+1510,348,feta cheese,Malus (Crab apple),50.0,milky,0.19011
+1516,350,feta cheese,Atlantic croaker,3204.0,milky,0.27808
+1522,351,feta cheese,Cusk,3980.0,milky,0.2861
+1528,352,feta cheese,Cuttlefish,3640.0,milky,0.23778
+1534,355,feta cheese,Dock,325.0,milky,0.1652
+1541,356,feta cheese,Dolphin fish,3877.0,milky,0.28613
+1547,357,feta cheese,Freshwater drum,3676.0,milky,0.28614
+1553,359,feta cheese,Dungeness crab,3454.0,milky,0.27432
+1559,361,feta cheese,Eastern oyster,3176.0,milky,0.2367
+1565,362,feta cheese,Freshwater eel,3865.0,milky,0.28615
+1571,363,feta cheese,Elderberry,93.0,milky,0.08101
+1579,367,feta cheese,European anchovy,4522.0,milky,0.28615
+1585,368,feta cheese,European chestnut,1410.3,milky,0.18865
+1591,369,feta cheese,Turbot,4864.0,milky,0.23411
+1597,371,feta cheese,Florida pompano,3872.0,milky,0.28612
+1603,372,feta cheese,Ginkgo nuts,1142.7,milky,0.15018
+1609,374,feta cheese,Grape,182.0,milky,0.08067
+1616,375,feta cheese,Greenland halibut/turbot,4212.0,milky,0.23369
+1622,377,feta cheese,Grouper,4061.0,milky,0.28613
+1628,379,feta cheese,Haddock,10379.0,milky,0.21788
+1634,380,feta cheese,Hippoglossus (Common halibut),8014.0,milky,0.28521
+1640,381,feta cheese,Hazelnut,1757.0,milky,0.09607
+1646,382,feta cheese,Hickory nut,497.0,milky,0.13722
+1652,384,feta cheese,Horseradish tree,2665.75,milky,0.1749
+1660,386,feta cheese,Hyacinth bean,4204.5,milky,0.22287
+1666,388,feta cheese,Pacific jack mackerel,2130.0,milky,0.28614
+1672,389,feta cheese,Jackfruit,69.0,milky,0.15436
+1678,390,feta cheese,Japanese chestnut,735.0,milky,0.18274
+1684,392,feta cheese,Jerusalem artichoke,428.8,milky,0.24192
+1690,394,feta cheese,Jute,1533.25,milky,0.16337
+1697,395,feta cheese,Kale,1601.0,milky,0.16937
+1704,396,feta cheese,Kelp,82.0,milky,0.17263
+1710,397,feta cheese,King mackerel,4251.0,milky,0.28615
+1717,399,feta cheese,Lambsquarters,2198.5,milky,0.22856
+1723,401,feta cheese,Wild leek,948.0,milky,0.20193
+1730,402,feta cheese,Common ling,3980.0,milky,0.28619
+1736,403,feta cheese,Lingcod,3701.0,milky,0.28615
+1742,404,feta cheese,American lobster,2666.0,milky,0.23452
+1748,406,feta cheese,Lotus,1249.0,milky,0.184
+1754,407,feta cheese,Sacred lotus,1012.0,milky,0.13376
+1762,408,feta cheese,White lupine,5642.75,milky,0.14756
+1769,409,feta cheese,Malabar spinach,752.25,milky,0.20926
+1773,410,feta cheese,Mammee apple,37.0,milky,1.0
+1776,413,feta cheese,Milkfish,4303.0,milky,0.28612
+1782,414,feta cheese,Monkfish,3035.0,milky,0.28616
+1787,416,feta cheese,Moth bean,3412.9,milky,0.62966
+1790,417,feta cheese,Mountain yam,352.0,milky,0.17902
+1796,418,feta cheese,Striped mullet,4055.0,milky,0.28615
+1802,420,feta cheese,White mustard,3690.1,milky,0.18996
+1809,423,feta cheese,Nopal,122.0,milky,0.20784
+1815,424,feta cheese,Ocean pout,3487.0,milky,0.28615
+1821,427,feta cheese,Okra,513.0,milky,0.17009
+1827,432,feta cheese,Pacific herring,3436.0,milky,0.28617
+1833,433,feta cheese,Pacific oyster,2118.0,milky,0.23774
+1839,434,feta cheese,Pacific rockfish,3996.0,milky,0.3
+1845,436,feta cheese,Pepper (C. frutescens),407.6,milky,0.19432
+1851,437,feta cheese,Common persimmon,45.0,milky,0.2093
+1857,439,feta cheese,Northern pike,4035.0,milky,0.28611
+1863,440,feta cheese,Pili nut,369.0,milky,0.11977
+1869,441,feta cheese,Colorado pinyon,881.75,milky,0.13276
+1876,444,feta cheese,French plantain,157.0,milky,0.16236
+1882,447,feta cheese,Opium poppy,2090.95,milky,0.14954
+1888,448,feta cheese,Prairie turnip,274.3,milky,0.2778
+1896,450,feta cheese,Quinoa,1005.0,milky,0.20816
+1902,453,feta cheese,Rainbow smelt,3695.0,milky,0.28619
+1908,454,feta cheese,Rainbow trout,8189.0,milky,0.28611
+1914,458,feta cheese,Orange roughy,3582.0,milky,0.30341
+1920,459,feta cheese,Sablefish,4433.0,milky,0.28617
+1926,460,feta cheese,Pink salmon,11468.0,milky,0.25508
+1932,461,feta cheese,Chum salmon,9886.0,milky,0.28127
+1938,462,feta cheese,Coho salmon,12647.0,milky,0.28437
+1944,463,feta cheese,Sockeye salmon,19389.0,milky,0.26231
+1950,464,feta cheese,Chinook salmon,9464.0,milky,0.27846
+1956,465,feta cheese,Atlantic salmon,8058.0,milky,0.2846
+1962,468,feta cheese,Sapodilla,39.0,milky,0.28676
+1968,469,feta cheese,Mamey sapote,73.0,milky,0.17136
+1974,470,feta cheese,Spanish mackerel,3937.0,milky,0.2861
+1980,471,feta cheese,Pacific sardine,1400.0,milky,0.25764
+1986,472,feta cheese,Scallop,3913.0,milky,0.2204
+1992,473,feta cheese,Scup,3956.0,milky,0.28613
+1998,475,feta cheese,Steller sea lion,100.0,milky,0.125
+2003,476,feta cheese,Bearded seal,16515.0,milky,0.26829
+2009,478,feta cheese,Sea trout,3509.0,milky,0.28612
+2014,479,feta cheese,Sesbania flower,178.0,milky,0.45178
+2017,480,feta cheese,American shad,3548.0,milky,0.28611
+2023,481,feta cheese,Shark,3560.0,milky,0.2808
+2029,482,feta cheese,Sheefish,1820.0,milky,0.24106
+2040,484,feta cheese,Sheepshead,4246.0,milky,0.28618
+2046,485,feta cheese,Hedge mustard,806.0,milky,0.20221
+2052,486,feta cheese,Skipjack tuna,4610.0,milky,0.2861
+2058,487,feta cheese,Snapper,4298.0,milky,0.28615
+2062,488,feta cheese,Soursop,249.0,milky,1.0
+2065,489,feta cheese,Spelt,409.0,milky,0.09674
+2071,490,feta cheese,Spirulina,3337.0,milky,0.15826
+2077,493,feta cheese,Strawberry guava,65.25,milky,0.13426
+2083,494,feta cheese,Greater sturgeon,6249.0,milky,0.28615
+2089,495,feta cheese,White sucker,3512.0,milky,0.28613
+2093,496,feta cheese,Sugar apple,185.25,milky,1.0
+2096,497,feta cheese,Pumpkinseed sunfish,4066.0,milky,0.28618
+2102,498,feta cheese,Swordfish,3986.0,milky,0.2861
+2108,499,feta cheese,Taro,1755.25,milky,0.30613
+2116,500,feta cheese,Teff,485.0,milky,0.11023
+2122,501,feta cheese,Tilefish,3856.0,milky,0.28612
+2128,504,feta cheese,"Salmonidae (Salmon, Trout)",11853.0,milky,0.19133
+2134,505,feta cheese,Turkey,1609.0,milky,0.10225
+2140,506,feta cheese,"Cattle (Beef, Veal)",1880496.0,milky,0.24454
+2146,507,feta cheese,Walleye,4012.0,milky,0.28618
+2152,508,feta cheese,Alaska pollock,3275.0,milky,0.2866
+2156,510,feta cheese,Wax gourd,146.75,milky,1.0
+2159,511,feta cheese,Whelk,4395.0,milky,0.19545
+2165,514,feta cheese,Whitefish,12520.0,milky,0.25751
+2171,515,feta cheese,Whiting,3838.0,milky,0.28612
+2177,516,feta cheese,Wild rice,799.0,milky,0.15245
+2183,518,feta cheese,Winged bean,6786.5,milky,0.2196
+2189,519,feta cheese,Yam,234.0,milky,0.1481
+2195,520,feta cheese,Jicama,338.5,milky,0.2187
+2201,522,feta cheese,Yellowfin tuna,4712.0,milky,0.28617
+2207,523,feta cheese,Yellowtail amberjack,4851.0,milky,0.28619
+2213,525,feta cheese,Albacore tuna,9212.0,milky,0.28614
+2219,526,feta cheese,Gadus (Common cod),10770.0,milky,0.15027
+2225,527,feta cheese,Atlantic halibut,3800.0,milky,0.16408
+2231,530,feta cheese,Smelt,3690.0,milky,0.21604
+2237,531,feta cheese,"Clupeinae (Herring, Sardine, Sprat)",18100.0,milky,0.1541
+2243,532,feta cheese,Spiny lobster,4087.0,milky,0.27437
+2249,533,feta cheese,Snow crab,3671.0,milky,0.27434
+2255,534,feta cheese,Black-eyed pea,5462.0,milky,0.29072
+2261,535,feta cheese,Deer,18946.0,milky,0.25686
+2267,536,feta cheese,Macadamia nut,364.5,milky,0.05628
+2273,537,feta cheese,Percoidei (Bass and others),11880.0,milky,0.28615
+2279,538,feta cheese,Perciformes,4206.0,milky,0.2861
+2285,540,feta cheese,Rabbit,6999.0,milky,0.21927
+2291,541,feta cheese,Domestic goat,3548.0,milky,0.46875
+2294,544,feta cheese,"Bivalvia (Clam, Mussel, Oyster)",7490.0,milky,0.22707
+2300,545,feta cheese,Squid,2474.0,milky,0.23508
+2306,546,feta cheese,Shrimp,16443.0,milky,0.21003
+2312,547,feta cheese,Crayfish,5658.0,milky,0.27441
+2318,548,feta cheese,Flatfish,4531.0,milky,0.22498
+2324,549,feta cheese,Domestic pig,750870.0,milky,0.23154
+2330,552,feta cheese,Oriental wheat,598.0,milky,0.09968
+2336,553,feta cheese,Yardlong bean,5854.95,milky,0.30676
+2343,555,feta cheese,Quail,5527.0,milky,0.24202
+2349,557,feta cheese,Persian lime,30.0,milky,0.26838
+2356,558,feta cheese,Feijoa,52.0,milky,0.25
+2362,561,feta cheese,Common mushroom,1514.0,milky,0.1561
+2368,562,feta cheese,Shiitake,703.0,milky,0.14723
+2374,563,feta cheese,Purple laver,222.0,milky,0.10359
+2380,564,feta cheese,Wakame,112.0,milky,0.15775
+2386,565,feta cheese,Enokitake,130.0,milky,0.15116
+2392,567,feta cheese,Oyster mushroom,126.0,milky,0.0443
+2398,569,feta cheese,Maitake,90.0,milky,0.16854
+2404,571,feta cheese,Spot croaker,3879.0,milky,0.28608
+2410,575,feta cheese,Wheat,13139.3379327,milky,0.08517
+2417,577,feta cheese,Agave,28.0,milky,0.24348
+2423,580,feta cheese,Anchovy,1100.0,milky,0.13995
+2429,587,feta cheese,Crab,5200.0,milky,0.13171
+2435,590,feta cheese,Anatidae,5620.0,milky,0.09933
+2441,591,feta cheese,Anguilliformes,3500.0,milky,0.15695
+2447,593,feta cheese,Garfish,1900.0,milky,0.152
+2453,597,feta cheese,Lemon sole,1700.0,milky,0.11341
+2459,598,feta cheese,Clawed lobster,4500.0,milky,0.13112
+2465,600,feta cheese,"Scombridae (Bonito, Mackerel, Tuna)",6300.0,milky,0.1551
+2471,601,feta cheese,Marine mussel,4250.0,milky,0.13741
+2477,603,feta cheese,Norway lobster,1500.0,milky,0.12799
+2483,606,feta cheese,True oyster,610.0,milky,0.23106
+2489,608,feta cheese,Persimmon,39.0,milky,0.11712
+2495,610,feta cheese,"Pleuronectidae (Dab, Halibut, Plaice)",1700.0,milky,0.14555
+2501,618,feta cheese,True sole,1800.0,milky,0.2765
+2507,619,feta cheese,Catfish,3700.0,milky,0.21252
+2513,621,feta cheese,Thunnus,20093.0,milky,0.21535
+2519,622,feta cheese,Walnut,490.0,milky,0.11836
+2542,630,feta cheese,Liquor,443.0,milky,0.00172
+2550,631,feta cheese,Cheese,212506.0,milky,0.16258
+2556,632,feta cheese,Milk (Cow),668401.0,milky,0.34887
+2563,633,feta cheese,Eggs,67421.0,milky,0.18665
+2570,634,feta cheese,Yogurt,8596.0,milky,0.19359
+2576,638,feta cheese,Bean,2653.0,milky,0.24709
+2588,641,feta cheese,Ice cream,3908.0,milky,0.17463
+2595,643,feta cheese,Honey,8.0,milky,0.06244
+2620,654,feta cheese,Cake,11262.0,milky,0.15986
+2626,655,feta cheese,Pizza,21632.0,milky,0.18549
+2632,656,feta cheese,Ymer,1070.0,milky,0.13194
+2638,657,feta cheese,Other snack food,13242.0,milky,0.14336
+2644,659,feta cheese,Crisp bread,2700.0,milky,0.07825
+2651,660,feta cheese,Pastry,20122.0,milky,0.12681
+2657,663,feta cheese,Marzipan,360.0,milky,0.0604
+2663,664,feta cheese,Salad dressing,1710.0,milky,0.18484
+2669,665,feta cheese,Sauce,2064.0,milky,0.22567
+2676,667,feta cheese,Butter,289.0,milky,0.19448
+2682,669,feta cheese,Cream,3674.0,milky,0.17188
+2688,671,feta cheese,Sausage,104390.0,milky,0.21077
+2694,673,feta cheese,Mustard,360.0,milky,0.11043
+2700,674,feta cheese,Pate,4355.0,milky,0.18979
+2706,677,feta cheese,Meat bouillon,2340.0,milky,0.06859
+2712,679,feta cheese,Whey,4439.0,milky,0.18474
+2718,680,feta cheese,Casein,5400.0,milky,0.12054
+2724,681,feta cheese,Fruit preserve,30.0,milky,0.18182
+2730,682,feta cheese,Leavening agent,9220.0,milky,0.1665
+2736,683,feta cheese,Marshmallow,77.0,milky,0.07639
+2742,684,feta cheese,Gelatin,3900.0,milky,0.04032
+2748,686,feta cheese,Other fish product,6763.0,milky,0.27416
+2754,687,feta cheese,Milk (Human),68.0,milky,0.20732
+2761,689,feta cheese,Other beverage,990.0,milky,0.11347
+2768,690,feta cheese,Baby food,22493.0,milky,0.20565
+2774,692,feta cheese,Soup,15646.0,milky,0.19349
+2780,693,feta cheese,Other vegetable product,2287.0,milky,0.24764
+2786,694,feta cheese,Unclassified food or beverage,1465.0,milky,0.01506
+2794,695,feta cheese,Syrup,400.0,milky,0.1193
+2800,696,feta cheese,Tallow,340.0,milky,0.02436
+2808,701,feta cheese,Other candy,1872.0,milky,0.11716
+2814,704,feta cheese,Other animal fat,440.0,milky,0.15603
+2821,707,feta cheese,Cocoa powder,3420.0,milky,0.08297
+2831,709,feta cheese,Chocolate,2789.0,milky,0.10857
+2838,710,feta cheese,Hot chocolate,2521.0,milky,0.17324
+2844,711,feta cheese,Dried milk,23994.0,milky,0.20135
+2850,712,feta cheese,Milk (Other mammals),1373.0,milky,0.20058
+2856,713,feta cheese,Kefir,300.0,milky,0.13799
+2862,714,feta cheese,Buttermilk,4159.0,milky,0.21131
+2868,715,feta cheese,Other fermented milk,630.0,milky,0.13981
+2874,716,feta cheese,Soy sauce,1742.0,milky,0.16881
+2880,717,feta cheese,Miso,478.0,milky,0.16242
+2886,718,feta cheese,Tofu,15707.0,milky,0.22912
+2893,722,feta cheese,Roe,5712.0,milky,0.23282
+2899,723,feta cheese,Cichlidae (Tilapia),4125.0,milky,0.28236
+2906,724,feta cheese,Icing,510.0,milky,0.14542
+2913,725,feta cheese,Snack bar,11845.0,milky,0.15908
+2919,728,feta cheese,Burrito,6408.0,milky,0.20234
+2925,729,feta cheese,Hamburger,30331.0,milky,0.20484
+2931,730,feta cheese,Baked beans,2653.0,milky,0.24709
+2937,731,feta cheese,Chili,1529.0,milky,0.21116
+2943,732,feta cheese,Taco,3829.0,milky,0.22455
+2949,733,feta cheese,Tortilla,1056.0,milky,0.08457
+2955,734,feta cheese,Nachos,2057.0,milky,0.15038
+2961,735,feta cheese,Processed cheese,12008.0,milky,0.23026
+2967,736,feta cheese,Salad,2814.0,milky,0.24366
+2974,737,feta cheese,Cream substitute,793.0,milky,0.20086
+2980,739,feta cheese,Topping,1015.0,milky,0.18631
+2986,740,feta cheese,Sweet custard,1539.0,milky,0.22851
+2992,742,feta cheese,Egg roll,1448.0,milky,0.15855
+2998,743,feta cheese,Heart of palm,91.0,milky,0.16221
+3004,744,feta cheese,Popcorn,3273.0,milky,0.10624
+3010,745,feta cheese,Potato chip,5400.0,milky,0.24044
+3016,746,feta cheese,Tortilla chip,1691.0,milky,0.10744
+3022,747,feta cheese,Corn chip,2185.0,milky,0.12699
+3028,749,feta cheese,Stew,1814.0,milky,0.20901
+3034,750,feta cheese,Gelatin dessert,9226.0,milky,0.07655
+3041,751,feta cheese,Junket,1100.0,milky,0.19472
+3047,752,feta cheese,Falafel,856.0,milky,0.24869
+3054,754,feta cheese,Other frozen dessert,250.0,milky,0.17241
+3060,755,feta cheese,Lasagna,655.0,milky,0.12345
+3066,757,feta cheese,Pancake,4094.0,milky,0.14383
+3073,759,feta cheese,Pudding,4008.0,milky,0.1947
+3080,760,feta cheese,Waffle,1600.0,milky,0.16217
+3087,761,feta cheese,Soy milk,430.0,milky,0.18321
+3093,762,feta cheese,Meatloaf,14242.0,milky,0.24921
+3101,765,feta cheese,Couscous,318.0,milky,0.07416
+3107,766,feta cheese,Bulgur,424.0,milky,0.09806
+3113,767,feta cheese,Coffee substitute,329.0,milky,0.14018
+3120,769,feta cheese,Chimichanga,2632.0,milky,0.20254
+3126,770,feta cheese,Semolina,716.0,milky,0.06163
+3132,771,feta cheese,Tapioca pearl,6.0,milky,0.22222
+3138,772,feta cheese,Tostada,1988.0,milky,0.21102
+3144,774,feta cheese,Baked potato,1649.0,milky,0.2352
+3150,775,feta cheese,Hot dog,2027.0,milky,0.19502
+3156,776,feta cheese,Spread,5420.0,milky,0.25174
+3162,777,feta cheese,Enchilada,1372.0,milky,0.20079
+3168,778,feta cheese,Egg substitute,713.0,milky,0.20325
+3175,779,feta cheese,Nutritional drink,225.0,milky,0.17957
+3181,780,feta cheese,Other sandwich,13858.0,milky,0.22305
+3187,781,feta cheese,Ketchup,252.0,milky,0.17647
+3194,782,feta cheese,Breakfast sandwich,15773.0,milky,0.20852
+3200,784,feta cheese,Macaroni and cheese,2902.0,milky,0.14871
+3206,785,feta cheese,Butterfat,22.0,milky,0.22449
+3212,787,feta cheese,Hushpuppy,310.0,milky,0.13299
+3218,789,feta cheese,Relish,113.0,milky,0.20849
+3224,790,feta cheese,Other fruit product,100.0,milky,0.07289
+3230,793,feta cheese,Vegetarian food,5589.0,milky,0.21322
+3236,795,feta cheese,Cold cut,10028.0,milky,0.18664
+3242,796,feta cheese,Mixed nuts,6914.0,milky,0.15856
+3248,803,feta cheese,Phyllo dough,158.0,milky,0.0802
+3255,805,feta cheese,Pie crust,2247.0,milky,0.09553
+3261,806,feta cheese,Pie filling,16.0,milky,0.22857
+3268,807,feta cheese,Pie,4111.0,milky,0.15978
+3275,810,feta cheese,Ice cream cone,310.0,milky,0.07044
+3281,812,feta cheese,Cracker,10092.0,milky,0.10215
+3287,815,feta cheese,Natto,1145.0,milky,0.20571
+3293,816,feta cheese,Ravioli,380.0,milky,0.16889
+3299,818,feta cheese,Other pasta dish,396.0,milky,0.14426
+3305,819,feta cheese,Succotash,1951.0,milky,0.2037
+3311,820,feta cheese,Tamale,1071.0,milky,0.204
+3317,824,feta cheese,Evaporated milk,2219.0,milky,0.2285
+3323,829,feta cheese,Pita bread,703.0,milky,0.09028
+3329,831,feta cheese,Bagel,2326.0,milky,0.08826
+3335,832,feta cheese,Other bread product,2534.0,milky,0.09099
+3341,835,feta cheese,French toast,1312.0,milky,0.15517
+3347,836,feta cheese,Wheat bread,7728.0,milky,0.07897
+3353,837,feta cheese,Rye bread,2686.0,milky,0.08445
+3361,838,feta cheese,Oat bread,2353.0,milky,0.11157
+3367,839,feta cheese,Potato bread,311.0,milky,0.17721
+3373,840,feta cheese,Cornbread,1009.0,milky,0.12019
+3379,841,feta cheese,Corn grits,1234.0,milky,0.08061
+3385,842,feta cheese,Multigrain bread,603.0,milky,0.12331
+3391,843,feta cheese,Rice bread,541.0,milky,0.10309
+3397,845,feta cheese,Raisin bread,617.0,milky,0.09532
+3403,846,feta cheese,Wonton wrapper,204.0,milky,0.07638
+3409,848,feta cheese,Trail mix,2422.0,milky,0.14808
+3415,850,feta cheese,Fruit-flavor drink,245.0,milky,0.22313
+3423,854,feta cheese,Frozen yogurt,577.0,milky,0.19821
+3430,855,feta cheese,Milkshake,1352.0,milky,0.22571
+3437,858,feta cheese,Pupusa,1947.0,milky,0.21443
+3443,859,feta cheese,Empanada,614.0,milky,0.1789
+3449,860,feta cheese,Arepa,228.0,milky,0.13604
+3455,862,feta cheese,Gefilte fish,842.0,milky,0.27516
+3461,865,feta cheese,Other dish,18118.0,milky,0.21348
+3468,866,feta cheese,Pot pie,732.0,milky,0.18291
+3474,867,feta cheese,Stuffing,496.0,milky,0.25488
+3480,868,feta cheese,Edible shell,400.0,milky,0.08861
+3488,871,feta cheese,Condensed milk,627.0,milky,0.2285
+3494,872,feta cheese,Margarine,328.0,milky,0.14138
+3500,873,feta cheese,Margarine-like spread,72.0,milky,0.17955
+3506,874,feta cheese,Hummus,291.0,milky,0.22788
+3512,876,feta cheese,Potato puffs,268.0,milky,0.22408
+3518,877,feta cheese,Potato gratin,1146.0,milky,0.22675
+3524,878,feta cheese,Milk substitute,141.0,milky,0.21593
+3529,880,feta cheese,Soft-necked garlic,464.1,milky,0.34733
+3536,881,feta cheese,Cabbage,409.55,milky,0.12961
+3543,906,feta cheese,Sunburst squash (pattypan squash),7353.35,milky,0.17167
+3550,907,feta cheese,Green zucchini,1345.06,milky,0.21993
+3558,908,feta cheese,Yellow zucchini,1381.32,milky,0.21911
+3566,909,feta cheese,Green bell pepper,1550.85,milky,0.19484
+3577,910,feta cheese,Yellow bell pepper,426.68999999999994,milky,0.19992
+3585,911,feta cheese,Orange bell pepper,394.04999999999995,milky,0.17514
+3592,912,feta cheese,Red bell pepper,61592.728800000004,milky,0.28781
+3600,913,feta cheese,Italian sweet red pepper,1199.0,milky,0.20147
+3609,914,feta cheese,Yellow wax bean,3616.3,milky,0.23146
+3619,915,feta cheese,Green bean,1339.46,milky,0.21283
+3627,916,feta cheese,Saskatoon berry,14.8,milky,0.10459
+3632,917,feta cheese,Nanking cherry,50.9,milky,0.17631
+3637,918,feta cheese,Japanese pumpkin,6672.0,milky,0.16685
+3644,919,feta cheese,White cabbage,921.97,milky,0.19511
+3652,920,feta cheese,Romaine lettuce,276.2,milky,0.17166
+3661,921,feta cheese,"Cow milk, pasteurized, vitamin A + D added, 0% fat",282.0,milky,0.23777
+3667,922,feta cheese,"Cow milk, pasteurized, vitamin A + D added, 1% fat",282.0,milky,0.23797
+3673,923,feta cheese,"Cow milk, pasteurized, vitamin A + D added, 2% fat",276.0,milky,0.23752
+3679,924,feta cheese,"Cow milk, pasteurized, vitamin D added, 3.25% fat",264.0,milky,0.23805
+3688,939,feta cheese,Black tea,3.0,milky,0.01614
+3697,940,feta cheese,Green tea,3.0,milky,0.01614
+3720,985,feta cheese,Sour cream,193.0,milky,0.2154
+3726,1019,feta cheese,White bread,4354.0,milky,0.10479
+3734,1023,feta cheese,Taco shell,400.0,milky,0.08861

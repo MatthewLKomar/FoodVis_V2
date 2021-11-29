@@ -1,0 +1,98 @@
+,food_id,flavor_name,food_name,orig_content,flavor_group,normalized
+15,4,watery,Kiwi,0.051666668,wine_like,5e-05
+33,6,watery,Garden onion,1102.0,wine_like,0.3252
+70,12,sawen,Pineapple,6.0,wine_like,0.0044
+71,12,styrene,Pineapple,125.1,wine_like,0.09166
+98,16,watery,Peanut,0.4,wine_like,0.0
+118,19,watery,Tarragon,0.3,wine_like,0.00759
+133,22,styrene,Oat,5272.916087,wine_like,0.10263
+136,22,watery,Oat,0.090000004,wine_like,0.0
+181,31,watery,Cauliflower,0.439999998,wine_like,4e-05
+222,36,watery,Turnip,0.606100023,wine_like,7e-05
+306,51,watery,Ceylon cinnamon,1.164999962,wine_like,0.62466
+335,56,sawen,"Mandarin orange (Clementine, Tangerine)",9.15,wine_like,0.00367
+336,56,styrene,"Mandarin orange (Clementine, Tangerine)",51.5,wine_like,0.02067
+347,57,sawen,Sweet orange,48.2,wine_like,0.00538
+348,57,styrene,Sweet orange,100.0,wine_like,0.01115
+377,61,watery,Coriander,95.509199905,wine_like,0.43313
+395,65,styrene,Cucumber,17.3,wine_like,0.00704
+421,74,watery,Cardamom,0.01,wine_like,1.0
+452,82,watery,Fennel,0.109999999,wine_like,1e-05
+462,83,watery,Strawberry,0.400000006,wine_like,0.00018
+471,85,watery,Soy bean,0.035,wine_like,0.0
+480,87,watery,Sea-buckthornberry,0.250000007,wine_like,0.00647
+489,88,styrene,Barley,2294.857303,wine_like,0.06429
+493,90,watery,Star anise,32.200000763,wine_like,0.30872
+536,98,watery,Lentils,0.223499995,wine_like,0.0
+561,105,styrene,Apple,17.1,wine_like,0.0058
+562,105,watery,Apple,1.3597966639999999,wine_like,0.00046
+586,118,watery,Nutmeg,0.015999999,wine_like,0.16667
+609,121,watery,Olive,65.317726664,wine_like,0.11042
+620,124,watery,Common oregano,13.2,wine_like,0.00293
+649,129,styrene,Parsnip,346.8376338,wine_like,0.16178
+686,135,styrene,Date,340.0,wine_like,0.12406
+688,135,watery,Date,13.739999929,wine_like,0.00501
+757,147,watery,European plum,0.067500001,wine_like,3e-05
+768,148,watery,Almond,0.266137496,wine_like,0.0
+782,151,sea breeze,Pomegranate,30.0,wine_like,0.99722
+783,151,watery,Pomegranate,0.083692308,wine_like,0.00278
+809,155,styrene,Blackcurrant,8.7,wine_like,0.22968
+835,162,styrene,Red raspberry,306.2242051,wine_like,0.49868
+837,162,watery,Red raspberry,1.299999952,wine_like,0.00212
+852,169,styrene,Rye,3076.26,wine_like,0.07638
+882,173,styrene,Garden tomato (var.),30.0,wine_like,0.02451
+892,174,styrene,Eggplant,117.9,wine_like,0.03323
+894,174,watery,Eggplant,1.7350000140000001,wine_like,0.00049
+910,177,watery,Sorghum,2.547499977,wine_like,0.00045
+926,179,watery,Cloves,0.524999976,wine_like,0.00028
+946,186,watery,Fenugreek,8.7390998,wine_like,0.00061
+955,187,watery,Common wheat,0.45,wine_like,3e-05
+983,195,sawen,Vanilla,67300.0,wine_like,1.0
+1020,204,watery,Common grape,0.382,wine_like,0.00033
+1030,205,watery,Corn,0.352599985,wine_like,0.0
+1038,206,styrene,Ginger,50.0,wine_like,0.01347
+1064,226,watery,Garden onion (var.),3.0,wine_like,0.14022
+1079,237,styrene,Swiss chard,368.41649540000003,wine_like,0.11517
+1081,237,watery,Swiss chard,11.900000155,wine_like,0.00372
+1102,243,watery,Shallot,1.0,wine_like,0.00024
+1116,245,watery,Carrot,0.129999995,wine_like,1e-05
+1136,250,watery,Chicory leaves,38.576999982,wine_like,1.0
+1161,256,watery,Grapefruit,0.063999999,wine_like,3e-05
+1178,264,styrene,Red beetroot,88.0,wine_like,0.03723
+1189,268,sawen,Beer,40240.0,wine_like,0.96181
+1190,268,sea breeze,Beer,34.32,wine_like,0.00082
+1191,268,styrene,Beer,11.76,wine_like,0.00028
+1194,268,watery,Beer,7.376623479,wine_like,0.00018
+1227,277,sawen,Spirit,130200.0,wine_like,1.0
+1231,279,sawen,Other alcoholic beverage,189500.0,wine_like,1.0
+1759,407,styrene,Sacred lotus,2000.0,wine_like,0.26434
+1766,408,styrene,White lupine,11634.0,wine_like,0.30424
+2414,575,styrene,Wheat,9336.620096,wine_like,0.06052
+2533,626,sawen,Grape wine,432578.0,wine_like,0.99927
+2534,626,sea breeze,Grape wine,9.2,wine_like,2e-05
+2538,626,watery,Grape wine,1.1318882590000001,wine_like,0.0
+2546,630,sawen,Liquor,254300.0,wine_like,0.98953
+2547,630,watery,Liquor,0.520000003,wine_like,0.0
+2560,632,sawen,Milk (Cow),25.3,wine_like,1e-05
+2580,639,sawen,Vodka,66800.0,wine_like,1.0
+2581,640,sawen,Whisky,124700.0,wine_like,1.0
+2592,642,sawen,Gin,75800.0,wine_like,1.0
+2601,645,sawen,Vinegar,200.0,wine_like,0.99463
+2605,645,watery,Vinegar,0.81043157,wine_like,0.00403
+2606,646,sawen,Rum,73100.0,wine_like,1.0
+2610,647,sawen,Port wine,15500.0,wine_like,1.0
+2611,648,sawen,Vermouth,26200.0,wine_like,1.0
+2612,649,sawen,Sherry,46200.0,wine_like,0.99998
+2615,649,watery,Sherry,0.564999998,wine_like,1e-05
+2616,650,sawen,Madeira wine,18000.0,wine_like,1.0
+2765,689,sawen,Other beverage,300.0,wine_like,0.03438
+2790,694,sawen,Unclassified food or beverage,90500.0,wine_like,0.93021
+2827,707,watery,Cocoa powder,40.0,wine_like,0.00097
+3097,763,sawen,Sake,16100.0,wine_like,1.0
+3098,764,sawen,Cocktail,61000.0,wine_like,1.0
+3358,837,watery,Rye bread,1.0,wine_like,3e-05
+3465,865,sawen,Other dish,300.0,wine_like,0.00353
+3563,908,styrene,Yellow zucchini,71.17,wine_like,0.01129
+3657,920,styrene,Romaine lettuce,403.5128772,wine_like,0.25079
+3713,949,styrene,White wine,48.9,wine_like,0.01253
+3715,949,watery,White wine,6.0,wine_like,0.00154

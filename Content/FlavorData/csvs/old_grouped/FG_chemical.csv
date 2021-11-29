@@ -1,0 +1,588 @@
+,food_id,flavor_name,food_name,orig_content,flavor_group,normalized
+4,2,ketone,Savoy cabbage,140.0,chemical,0.10558
+12,4,ketone,Kiwi,181.0,chemical,0.17796
+20,5,ketone,Allium,1745.0,chemical,0.14095
+22,5,mercaptan,Allium,5.01,chemical,0.0004
+28,6,ketone,Garden onion,528.51349412,chemical,0.15597
+31,6,mercaptan,Garden onion,1.0101,chemical,0.0003
+38,7,ketone,Leek,220.0,chemical,0.28871
+44,8,ketone,Garlic,1577.0,chemical,0.12847
+46,8,mercaptan,Garlic,0.030100000000000002,chemical,0.0
+53,9,ketone,Chives,2215.5,chemical,0.17606
+55,9,mercaptan,Chives,13.5,chemical,0.00107
+61,11,ketone,Cashew nut,9007.05,chemical,0.16253
+68,12,ketone,Pineapple,230.45,chemical,0.16884
+76,13,ketone,Dill,684.8475688,chemical,0.10223
+79,13,mercaptan,Dill,87.1229,chemical,0.013
+87,15,ketone,Wild celery,371.25,chemical,0.18716
+95,16,ketone,Peanut,31305.35,chemical,0.15509
+103,17,ketone,Burdock,168.0,chemical,0.11038
+109,18,ketone,Horseradish,277.0,chemical,0.11113
+114,19,mercaptan,Tarragon,10.7,chemical,0.27089
+123,21,ketone,Asparagus,3167.05,chemical,0.22304
+125,21,mercaptan,Asparagus,5.7,chemical,0.0004
+131,22,ketone,Oat,8491.917295700001,chemical,0.16528
+141,23,ketone,Star fruit,213.0,chemical,0.1186
+147,24,ketone,Brazil nut,2376.85,chemical,0.15725
+153,25,ketone,Common beet,612.0,chemical,0.20852
+158,27,mercaptan,Chinese mustard,16.2,chemical,0.00806
+164,28,ketone,Swede,103.0,chemical,0.19185
+170,30,ketone,Common cabbage,1648.0,chemical,0.18267
+172,30,mercaptan,Common cabbage,23.6,chemical,0.00262
+178,31,ketone,Cauliflower,2404.0,chemical,0.24151
+186,32,ketone,Brussel sprouts,1560.0,chemical,0.10709
+195,33,slight,Kohlrabi,0.076,chemical,7e-05
+200,34,ketone,Broccoli,1623.62,chemical,0.15064
+209,35,ketone,Chinese cabbage,144.0,chemical,0.26996
+211,35,mercaptan,Chinese cabbage,0.16,chemical,0.0003
+217,36,ketone,Turnip,1853.78,chemical,0.20171
+227,37,ketone,Pigeon pea,2530.0,chemical,0.16697
+235,38,ketone,Tea,4.0,chemical,0.02155
+243,40,ketone,Pepper,5214.2,chemical,0.16504
+250,41,ketone,Papaya,115.65,chemical,0.17875
+257,42,ketone,Safflower,2472.0,chemical,0.16789
+263,43,ketone,Caraway,914.0,chemical,0.15546
+270,44,ketone,Pecan nut,4435.0,chemical,0.1937
+276,45,ketone,Chestnut,260.0,chemical,0.2305
+282,47,ketone,Chickpea,5049.0,chemical,0.16927
+288,48,ketone,Endive,840.2,chemical,0.18428
+295,49,ketone,Chicory,96.0,chemical,0.05245
+303,50,ketone,Chinese cinnamon,166.0,chemical,0.12003
+311,52,ketone,Watermelon,3253.0,chemical,0.20902
+321,54,ketone,Lemon,58.0,chemical,0.20034
+331,56,ketone,"Mandarin orange (Clementine, Tangerine)",404.5,chemical,0.16237
+342,57,ketone,Sweet orange,707.25,chemical,0.07888
+355,58,ketone,Coffee,1339.0,chemical,0.19786
+364,59,ketone,Arabica coffee,1339.0,chemical,0.19781
+373,60,ketone,Robusta coffee,1339.0,chemical,0.19786
+383,64,ketone,Muskmelon,463.0,chemical,0.44431
+390,65,ketone,Cucumber,490.75,chemical,0.19981
+393,65,mercaptan,Cucumber,0.1321,chemical,5e-05
+401,66,ketone,Cucurbita,8554.5,chemical,0.16443
+411,72,ketone,Wild carrot,271.0,chemical,0.11681
+419,73,ketone,Japanese persimmon,97.0,chemical,0.18476
+426,76,ketone,Loquat,72.0,chemical,0.19945
+428,77,mercaptan,Rocket salad (ssp.),5.08,chemical,0.12168
+434,79,ketone,Common buckwheat,4721.0,chemical,0.18131
+440,81,ketone,Fig,1233.2,chemical,0.2002
+448,82,ketone,Fennel,3176.25,chemical,0.17289
+450,82,mercaptan,Fennel,18.600000191,chemical,0.00101
+457,83,ketone,Strawberry,489.0,chemical,0.22436
+467,85,ketone,Soy bean,67275.25,chemical,0.15334
+476,86,ketone,Sunflower,11937.0,chemical,0.16468
+479,87,mercaptan,Sea-buckthornberry,38.38,chemical,0.99353
+487,88,ketone,Barley,5622.762782,chemical,0.15753
+498,91,ketone,Swamp cabbage,1061.25,chemical,0.2018
+505,92,ketone,Sweet potato,1486.7,chemical,0.17757
+507,92,mercaptan,Sweet potato,0.13,chemical,2e-05
+513,93,ketone,Black walnut,1778.0,chemical,0.18643
+519,94,ketone,Common walnut,1316.5,chemical,0.17884
+526,95,ketone,Lettuce,1173.65,chemical,0.1828
+534,98,ketone,Lentils,8865.25,chemical,0.16229
+541,99,ketone,Garden cress,240.0,chemical,0.19672
+543,99,mercaptan,Garden cress,2.0,chemical,0.00164
+550,101,ketone,Flaxseed,3525.0,chemical,0.18392
+558,105,ketone,Apple,413.25,chemical,0.14026
+567,106,ketone,Mango,490.0,chemical,0.32775
+574,112,ketone,Spearmint,1207.0,chemical,0.19688
+581,113,ketone,Peppermint,195.0,chemical,0.19697
+591,119,ketone,Sweet basil,2059.0,chemical,0.1589
+598,120,ketone,Evening primrose,568.5,chemical,0.15708
+604,121,ketone,Olive,93.0,chemical,0.15721
+607,121,vinegar,Olive,0.218815747,chemical,0.00037
+615,124,ketone,Common oregano,500.0,chemical,0.11105
+625,125,ketone,Rice,15562.0,chemical,0.20941
+632,126,ketone,Millet,4542.0,chemical,0.2793
+638,127,ketone,Poppy,2400.0,chemical,0.20196
+640,127,mercaptan,Poppy,1.1,chemical,9e-05
+646,129,ketone,Parsnip,404.6212969,chemical,0.18874
+648,129,mercaptan,Parsnip,0.39680000000000004,chemical,0.00019
+655,130,ketone,Avocado,855.25,chemical,0.21526
+661,131,ketone,Parsley,2615.0,chemical,0.13379
+663,131,mercaptan,Parsley,331.276400001,chemical,0.01695
+671,133,ketone,Lima bean,7334.5,chemical,0.16093
+677,134,ketone,Common bean,38074.2,chemical,0.15709
+684,135,ketone,Date,415.5,chemical,0.15161
+689,136,mercaptan,Black chokeberry,8.56,chemical,0.89727
+695,138,ketone,Pine nut,2024.0,chemical,0.18665
+702,139,ketone,Pepper (Spice),616.0,chemical,0.06774
+708,140,ketone,Pistachio,7638.0,chemical,0.17459
+715,141,ketone,Common pea,10484.8,chemical,0.16967
+722,142,ketone,Purslane,862.5,chemical,0.19004
+724,142,mercaptan,Purslane,2.8,chemical,0.00062
+730,143,ketone,"Prunus (Cherry, Plum)",184.0,chemical,0.21247
+737,144,ketone,Apricot,1490.0,chemical,0.14658
+744,145,ketone,Sweet cherry,26.0,chemical,0.16426
+746,145,mercaptan,Sweet cherry,0.05,chemical,0.00032
+748,146,mercaptan,Sour cherry,26.04,chemical,0.73705
+754,147,ketone,European plum,445.45,chemical,0.21042
+762,148,ketone,Almond,11894.7,chemical,0.18371
+764,148,mercaptan,Almond,2.788299999,chemical,4e-05
+773,149,ketone,Peach,1856.1,chemical,0.24295
+780,150,ketone,Guava,402.1,chemical,0.24809
+788,152,ketone,Pear,283.65,chemical,0.18722
+790,152,mercaptan,Pear,0.3,chemical,0.0002
+795,153,ketone,Radish,321.25,chemical,0.15938
+802,154,ketone,Garden rhubarb,116.0,chemical,0.18228
+807,155,mercaptan,Blackcurrant,0.12,chemical,0.00317
+816,158,ketone,Watercress,1775.5,chemical,0.20341
+823,159,ketone,Rosemary,172.0,chemical,0.18978
+833,162,ketone,Red raspberry,183.6690585,chemical,0.2991
+842,164,ketone,Sorrel,260.0,chemical,0.20218
+850,169,ketone,Rye,7162.610298,chemical,0.17783
+860,170,ketone,Sesame,21115.6,chemical,0.17941
+866,171,ketone,Garden tomato,3287.0,chemical,0.20694
+868,171,mercaptan,Garden tomato,0.0106,chemical,0.0
+878,173,ketone,Garden tomato (var.),208.1,chemical,0.17
+888,174,ketone,Eggplant,678.32,chemical,0.19118
+890,174,mercaptan,Eggplant,0.14420000000000002,chemical,4e-05
+899,175,ketone,Potato,9507.95,chemical,0.1478
+907,177,ketone,Sorghum,1741.0,chemical,0.30607
+915,178,ketone,Spinach,3001.6,chemical,0.17743
+923,179,ketone,Cloves,290.0,chemical,0.1539
+934,182,ketone,Cocoa bean,1040.0,chemical,0.17886
+944,186,ketone,Fenugreek,2017.0,chemical,0.14078
+952,187,ketone,Common wheat,1745.9,chemical,0.10195
+960,188,ketone,"Vaccinium (Blueberry, Cranberry, Huckleberry)",228.0,chemical,0.22026
+967,191,ketone,Highbush blueberry,105.0,chemical,0.21401
+976,192,ketone,American cranberry,49.0,chemical,0.19107
+979,192,vinegar,American cranberry,5.056999981,chemical,0.01972
+988,197,ketone,Broad bean,3248.0,chemical,0.08668
+997,198,ketone,Adzuki bean,3702.05,chemical,0.19656
+1003,199,ketone,Gram bean,1721.0,chemical,0.15024
+1009,200,ketone,Mung bean,6183.7,chemical,0.17308
+1017,204,ketone,Common grape,213.0,chemical,0.18499
+1026,205,ketone,Corn,31416.1,chemical,0.2424
+1035,206,ketone,Ginger,472.15,chemical,0.12715
+1040,207,mercaptan,Arctic blackberry,1.4,chemical,0.90323
+1046,208,ketone,Banana,302.0,chemical,0.17922
+1053,214,ketone,Celeriac,146.0,chemical,0.23285
+1060,224,ketone,Longan,742.0,chemical,0.42303
+1062,226,mercaptan,Garden onion (var.),15.888333571,chemical,0.74263
+1069,229,ketone,Nectarine,51.0,chemical,0.24752
+1076,237,ketone,Swiss chard,534.975358,chemical,0.16724
+1086,241,ketone,Welsh onion,86.0,chemical,0.15223
+1093,242,ketone,Hard wheat,427.0,chemical,0.11744
+1100,243,ketone,Shallot,668.0,chemical,0.15901
+1103,244,mercaptan,Rocket salad,0.78,chemical,0.30469
+1110,245,ketone,Carrot,2645.25,chemical,0.27405
+1112,245,mercaptan,Carrot,0.7753,chemical,8e-05
+1121,246,ketone,Triticale,977.0,chemical,0.13553
+1127,247,ketone,Black cabbage,655.0,chemical,0.17274
+1134,249,ketone,Celery leaves,146.0,chemical,0.23285
+1141,252,ketone,Pak choy,438.0,chemical,0.26187
+1148,253,ketone,Napa cabbage,241.0,chemical,0.24999
+1156,256,ketone,Grapefruit,293.0,chemical,0.15122
+1166,261,ketone,Daikon radish,385.0,chemical,0.16493
+1175,264,ketone,Red beetroot,584.0,chemical,0.2471
+1186,268,ketone,Beer,235.347,chemical,0.00563
+1199,269,ketone,Other bread,5776.0,chemical,0.1272
+1206,270,ketone,Breakfast cereal,22562.0,chemical,0.1753
+1212,272,ketone,Other soy product,28256.0,chemical,0.14856
+1218,274,ketone,Pasta,17372.0,chemical,0.12757
+1225,275,ketone,Biscuit,18552.0,chemical,0.12839
+1236,280,ketone,Abalone,2203.0,chemical,0.19112
+1243,283,ketone,Acorn,1238.0,chemical,0.19481
+1249,284,ketone,Winter squash,515.0,chemical,0.18327
+1255,286,ketone,Red king crab,2132.0,chemical,0.17851
+1264,289,ketone,Amaranth,2081.6,chemical,0.1782
+1270,291,ketone,Arrowroot,14.0,chemical,0.19178
+1276,292,ketone,Asian pear,17.0,chemical,0.19767
+1282,293,ketone,Atlantic herring,6313.0,chemical,0.18845
+1288,294,ketone,Atlantic mackerel,2567.0,chemical,0.18843
+1294,295,ketone,Painted comber,1990.0,chemical,0.18567
+1300,296,ketone,Atlantic pollock,2683.0,chemical,0.18843
+1306,297,ketone,Atlantic wolffish,4375.0,chemical,0.19979
+1311,298,ketone,Bamboo shoots,350.0,chemical,0.18421
+1317,299,ketone,Striped bass,2447.0,chemical,0.18842
+1323,301,ketone,Beech nut,414.0,chemical,0.21296
+1329,302,ketone,Beluga whale,4268.0,chemical,0.18688
+1335,306,ketone,Blue crab,3956.0,chemical,0.17117
+1341,307,ketone,Blue mussel,2160.0,chemical,0.1925
+1347,308,ketone,Northern bluefin tuna,3220.0,chemical,0.18845
+1353,309,ketone,Bluefish,2766.0,chemical,0.18846
+1359,312,ketone,Breadfruit,1411.25,chemical,0.12524
+1365,313,ketone,Breadnut tree seed,663.0,chemical,0.12219
+1371,314,ketone,Rapini,273.0,chemical,0.15406
+1377,317,ketone,Burbot,2665.0,chemical,0.18842
+1383,319,ketone,American butterfish,2385.0,chemical,0.18845
+1389,320,ketone,Butternut,2767.9,chemical,0.18532
+1395,321,ketone,Butternut squash,294.0,chemical,0.18386
+1403,326,ketone,Carob,2511.0,chemical,0.17172
+1410,327,ketone,Common carp,2461.0,chemical,0.18841
+1416,328,ketone,Cassava,293.75,chemical,0.1998
+1422,329,ketone,Channel catfish,5112.0,chemical,0.18485
+1428,330,ketone,Chayote,657.0,chemical,0.19102
+1434,331,ketone,Cherimoya,63.0,chemical,0.15441
+1440,332,ketone,Chervil,800.0,chemical,0.24169
+1446,333,ketone,Chia,1044.0,chemical,0.19854
+1452,334,ketone,Chicken,15300.0,chemical,0.23196
+1458,336,ketone,Chinese chestnut,874.0,chemical,0.17848
+1464,339,ketone,Cisco,2138.0,chemical,0.18845
+1470,341,ketone,Coconut,3275.0,chemical,0.19077
+1476,342,ketone,Pacific cod,1953.0,chemical,0.1834
+1482,343,ketone,Atlantic cod,7634.0,chemical,0.18844
+1488,344,ketone,Common octopus,2706.0,chemical,0.1925
+1494,345,ketone,Corn salad,743.0,chemical,0.18295
+1500,346,ketone,Cottonseed,8005.0,chemical,0.16837
+1506,347,ketone,Catjang pea,1830.0,chemical,0.16326
+1512,348,ketone,Malus (Crab apple),42.0,chemical,0.1597
+1518,350,ketone,Atlantic croaker,2142.0,chemical,0.18591
+1524,351,ketone,Cusk,2621.0,chemical,0.18841
+1530,352,ketone,Cuttlefish,2946.0,chemical,0.19245
+1536,355,ketone,Dock,374.0,chemical,0.19011
+1543,356,ketone,Dolphin fish,2553.0,chemical,0.18841
+1549,357,ketone,Freshwater drum,2421.0,chemical,0.18845
+1555,359,ketone,Dungeness crab,2247.0,chemical,0.17846
+1561,361,ketone,Eastern oyster,2400.0,chemical,0.17886
+1567,362,ketone,Freshwater eel,2545.0,chemical,0.18842
+1573,363,ketone,Elderberry,178.0,chemical,0.15505
+1575,363,mercaptan,Elderberry,5.42,chemical,0.00472
+1581,367,ketone,European anchovy,2978.0,chemical,0.18845
+1587,368,ketone,European chestnut,1597.8,chemical,0.21373
+1593,369,ketone,Turbot,4215.0,chemical,0.20287
+1599,371,ketone,Florida pompano,2550.0,chemical,0.18843
+1605,372,ketone,Ginkgo nuts,1356.6,chemical,0.17829
+1611,374,ketone,Grape,736.0,chemical,0.32622
+1618,375,ketone,Greenland halibut/turbot,3503.0,chemical,0.19435
+1624,377,ketone,Grouper,2675.0,chemical,0.18847
+1630,379,ketone,Haddock,10069.0,chemical,0.21137
+1636,380,ketone,Hippoglossus (Common halibut),5255.0,chemical,0.18702
+1642,381,ketone,Hazelnut,3812.0,chemical,0.20844
+1648,382,ketone,Hickory nut,662.0,chemical,0.18277
+1654,384,ketone,Horseradish tree,3007.5,chemical,0.19733
+1656,384,mercaptan,Horseradish tree,0.44,chemical,3e-05
+1662,386,ketone,Hyacinth bean,2819.75,chemical,0.14947
+1668,388,ketone,Pacific jack mackerel,1403.0,chemical,0.18847
+1674,389,ketone,Jackfruit,86.0,chemical,0.19239
+1680,390,ketone,Japanese chestnut,1016.0,chemical,0.25261
+1686,392,ketone,Jerusalem artichoke,257.3,chemical,0.14516
+1692,394,ketone,Jute,1830.0,chemical,0.19499
+1699,395,ketone,Kale,1549.0,chemical,0.16387
+1706,396,ketone,Kelp,122.0,chemical,0.25684
+1712,397,ketone,King mackerel,2799.0,chemical,0.18841
+1719,399,ketone,Lambsquarters,1998.55,chemical,0.20777
+1725,401,ketone,Wild leek,903.0,chemical,0.19235
+1732,402,ketone,Common ling,2620.0,chemical,0.18839
+1738,403,ketone,Lingcod,2437.0,chemical,0.18842
+1744,404,ketone,American lobster,1888.0,chemical,0.16608
+1750,406,ketone,Lotus,1131.0,chemical,0.16662
+1756,407,ketone,Sacred lotus,757.85,chemical,0.10017
+1764,408,ketone,White lupine,3783.5,chemical,0.09894
+1771,409,ketone,Malabar spinach,656.0,chemical,0.18249
+1778,413,ketone,Milkfish,2834.0,chemical,0.18844
+1784,414,ketone,Monkfish,1999.0,chemical,0.18848
+1792,417,ketone,Mountain yam,372.75,chemical,0.18957
+1798,418,ketone,Striped mullet,2670.0,chemical,0.18841
+1804,420,ketone,White mustard,2571.5,chemical,0.13237
+1811,423,ketone,Nopal,103.0,chemical,0.17547
+1817,424,ketone,Ocean pout,2296.0,chemical,0.18841
+1823,427,ketone,Okra,538.0,chemical,0.17838
+1829,432,ketone,Pacific herring,2262.0,chemical,0.18839
+1835,433,ketone,Pacific oyster,1715.0,chemical,0.1925
+1841,434,ketone,Pacific rockfish,2414.0,chemical,0.18123
+1847,436,ketone,Pepper (C. frutescens),375.55,chemical,0.17904
+1853,437,ketone,Common persimmon,39.0,chemical,0.1814
+1859,439,ketone,Northern pike,2658.0,chemical,0.18847
+1865,440,ketone,Pili nut,509.0,chemical,0.16521
+1871,441,ketone,Colorado pinyon,1229.0,chemical,0.18504
+1878,444,ketone,French plantain,186.0,chemical,0.19235
+1884,447,ketone,Opium poppy,2059.85,chemical,0.14731
+1890,448,ketone,Prairie turnip,113.9,chemical,0.11535
+1892,449,mercaptan,Prickly pear,0.65,chemical,0.78313
+1898,450,ketone,Quinoa,771.0,chemical,0.15969
+1904,453,ketone,Rainbow smelt,2433.0,chemical,0.18844
+1910,454,ketone,Rainbow trout,5395.0,chemical,0.18849
+1916,458,ketone,Orange roughy,2188.0,chemical,0.18533
+1922,459,ketone,Sablefish,2919.0,chemical,0.18843
+1928,460,ketone,Pink salmon,8369.0,chemical,0.18615
+1934,461,ketone,Chum salmon,6562.0,chemical,0.1867
+1940,462,ketone,Coho salmon,8426.0,chemical,0.18946
+1946,463,ketone,Sockeye salmon,13841.0,chemical,0.18725
+1952,464,ketone,Chinook salmon,6456.0,chemical,0.18995
+1958,465,ketone,Atlantic salmon,5346.0,chemical,0.18882
+1964,468,ketone,Sapodilla,14.0,chemical,0.10294
+1970,469,ketone,Mamey sapote,73.0,chemical,0.17136
+1976,470,ketone,Spanish mackerel,2594.0,chemical,0.1885
+1982,471,ketone,Pacific sardine,1005.0,chemical,0.18495
+1988,472,ketone,Scallop,3069.0,chemical,0.17286
+1994,473,ketone,Scup,2606.0,chemical,0.18849
+1999,475,ketone,Steller sea lion,200.0,chemical,0.25
+2005,476,ketone,Bearded seal,11664.0,chemical,0.18949
+2011,478,ketone,Sea trout,2311.0,chemical,0.18844
+2019,480,ketone,American shad,2337.0,chemical,0.18845
+2025,481,ketone,Shark,2366.0,chemical,0.18662
+2031,482,ketone,Sheefish,1400.0,chemical,0.18543
+2036,483,ketone,"Sheep (Mutton, Lamb)",9500.0,chemical,0.24485
+2042,484,ketone,Sheepshead,2796.0,chemical,0.18845
+2048,485,ketone,Hedge mustard,685.0,chemical,0.17185
+2054,486,ketone,Skipjack tuna,3037.0,chemical,0.18848
+2060,487,ketone,Snapper,2830.0,chemical,0.18842
+2067,489,ketone,Spelt,534.0,chemical,0.1263
+2073,490,ketone,Spirulina,4980.0,chemical,0.23618
+2079,493,ketone,Strawberry guava,118.5,chemical,0.24383
+2085,494,ketone,Greater sturgeon,4115.0,chemical,0.18843
+2091,495,ketone,White sucker,2313.0,chemical,0.18845
+2098,497,ketone,Pumpkinseed sunfish,2677.0,chemical,0.18841
+2104,498,ketone,Swordfish,2627.0,chemical,0.18856
+2110,499,ketone,Taro,283.75,chemical,0.04949
+2112,499,mercaptan,Taro,0.14,chemical,2e-05
+2118,500,ketone,Teff,965.0,chemical,0.21932
+2124,501,ketone,Tilefish,2539.0,chemical,0.1884
+2130,504,ketone,"Salmonidae (Salmon, Trout)",13066.0,chemical,0.21091
+2136,505,ketone,Turkey,3357.0,chemical,0.21333
+2142,506,ketone,"Cattle (Beef, Veal)",1711779.0,chemical,0.2226
+2148,507,ketone,Walleye,2641.0,chemical,0.18839
+2154,508,ketone,Alaska pollock,2113.0,chemical,0.18491
+2161,511,ketone,Whelk,4669.0,chemical,0.20764
+2167,514,ketone,Whitefish,9469.0,chemical,0.19476
+2173,515,ketone,Whiting,2528.0,chemical,0.18846
+2179,516,ketone,Wild rice,1048.0,chemical,0.19996
+2185,518,ketone,Winged bean,3818.25,chemical,0.12355
+2191,519,ketone,Yam,313.0,chemical,0.1981
+2197,520,ketone,Jicama,254.0,chemical,0.16411
+2203,522,ketone,Yellowfin tuna,3103.0,chemical,0.18845
+2209,523,ketone,Yellowtail amberjack,3194.0,chemical,0.18844
+2215,525,ketone,Albacore tuna,6066.0,chemical,0.18842
+2221,526,ketone,Gadus (Common cod),15540.0,chemical,0.21683
+2227,527,ketone,Atlantic halibut,4800.0,chemical,0.20725
+2233,530,ketone,Smelt,3520.0,chemical,0.20609
+2239,531,ketone,"Clupeinae (Herring, Sardine, Sprat)",24560.0,chemical,0.20909
+2245,532,ketone,Spiny lobster,2658.0,chemical,0.17844
+2251,533,ketone,Snow crab,2388.0,chemical,0.17846
+2257,534,ketone,Black-eyed pea,2117.0,chemical,0.11268
+2263,535,ketone,Deer,13592.0,chemical,0.18427
+2269,536,ketone,Macadamia nut,1103.75,chemical,0.17042
+2275,537,ketone,Percoidei (Bass and others),7822.0,chemical,0.1884
+2281,538,ketone,Perciformes,2770.0,chemical,0.18842
+2287,540,ketone,Rabbit,6107.0,chemical,0.19133
+2296,544,ketone,"Bivalvia (Clam, Mussel, Oyster)",6170.0,chemical,0.18705
+2302,545,ketone,Squid,2010.0,chemical,0.19099
+2308,546,ketone,Shrimp,14117.0,chemical,0.18032
+2314,547,ketone,Crayfish,3678.0,chemical,0.17838
+2320,548,ketone,Flatfish,3919.0,chemical,0.19459
+2326,549,ketone,Domestic pig,604357.0,chemical,0.18636
+2332,552,ketone,Oriental wheat,781.0,chemical,0.13019
+2338,553,ketone,Yardlong bean,3025.05,chemical,0.15849
+2345,555,ketone,Quail,3993.0,chemical,0.17485
+2351,557,ketone,Persian lime,24.0,chemical,0.21471
+2358,558,ketone,Feijoa,52.0,chemical,0.25
+2364,561,ketone,Common mushroom,2649.0,chemical,0.27312
+2370,562,ketone,Shiitake,1055.0,chemical,0.22094
+2376,563,ketone,Purple laver,651.0,chemical,0.30378
+2382,564,ketone,Wakame,136.0,chemical,0.19155
+2388,565,ketone,Enokitake,190.0,chemical,0.22093
+2394,567,ketone,Oyster mushroom,759.0,chemical,0.26688
+2400,569,ketone,Maitake,124.0,chemical,0.23221
+2406,571,ketone,Spot croaker,2555.0,chemical,0.18844
+2412,575,ketone,Wheat,20474.5039558,chemical,0.13272
+2419,577,ketone,Agave,24.0,chemical,0.2087
+2425,580,ketone,Anchovy,1540.0,chemical,0.19593
+2431,587,ketone,Crab,8800.0,chemical,0.2229
+2437,590,ketone,Anatidae,12140.0,chemical,0.21456
+2443,591,ketone,Anguilliformes,4600.0,chemical,0.20628
+2449,593,ketone,Garfish,2800.0,chemical,0.224
+2455,597,ketone,Lemon sole,3700.0,chemical,0.24683
+2461,598,ketone,Clawed lobster,7800.0,chemical,0.22727
+2467,600,ketone,"Scombridae (Bonito, Mackerel, Tuna)",8260.0,chemical,0.20335
+2473,601,ketone,Marine mussel,5840.0,chemical,0.18881
+2479,603,ketone,Norway lobster,2600.0,chemical,0.22184
+2485,606,ketone,True oyster,520.0,chemical,0.19697
+2491,608,ketone,Persimmon,70.0,chemical,0.21021
+2497,610,ketone,"Pleuronectidae (Dab, Halibut, Plaice)",2400.0,chemical,0.20548
+2503,618,ketone,True sole,1300.0,chemical,0.19969
+2509,619,ketone,Catfish,3300.0,chemical,0.18955
+2515,621,ketone,Thunnus,19172.0,chemical,0.20547
+2521,622,ketone,Walnut,730.0,chemical,0.17633
+2526,624,ketone,"Columbidae (Dove, Pigeon)",2300.0,chemical,0.24731
+2530,626,mercaptan,Grape wine,1.0035082700000002,chemical,0.0
+2544,630,ketone,Liquor,295.0,chemical,0.00115
+2552,631,ketone,Cheese,122428.0,chemical,0.09366
+2558,632,ketone,Milk (Cow),246873.0,chemical,0.12886
+2565,633,ketone,Eggs,70237.0,chemical,0.19445
+2572,634,ketone,Yogurt,4714.0,chemical,0.10616
+2578,638,ketone,Bean,1659.0,chemical,0.15451
+2590,641,ketone,Ice cream,2499.0,chemical,0.11167
+2597,643,ketone,Honey,6.0,chemical,0.04683
+2599,643,mercaptan,Honey,0.06,chemical,0.00047
+2622,654,ketone,Cake,9321.0,chemical,0.13231
+2628,655,ketone,Pizza,12055.0,chemical,0.10337
+2634,656,ketone,Ymer,860.0,chemical,0.10604
+2640,657,ketone,Other snack food,15142.0,chemical,0.16392
+2646,659,ketone,Crisp bread,5602.0,chemical,0.16235
+2653,660,ketone,Pastry,21922.0,chemical,0.13815
+2659,663,ketone,Marzipan,1140.0,chemical,0.19128
+2665,664,ketone,Salad dressing,1082.0,chemical,0.11696
+2671,665,ketone,Sauce,1102.0,chemical,0.12049
+2678,667,ketone,Butter,151.0,chemical,0.10162
+2684,669,ketone,Cream,2266.0,chemical,0.10601
+2690,671,ketone,Sausage,90445.0,chemical,0.18262
+2696,673,ketone,Mustard,440.0,chemical,0.13497
+2702,674,ketone,Pate,3991.0,chemical,0.17393
+2708,677,ketone,Meat bouillon,7040.0,chemical,0.20635
+2714,679,ketone,Whey,3414.0,chemical,0.14208
+2720,680,ketone,Casein,7200.0,chemical,0.16071
+2726,681,ketone,Fruit preserve,37.0,chemical,0.22424
+2732,682,ketone,Leavening agent,11893.0,chemical,0.21478
+2738,683,ketone,Marshmallow,180.0,chemical,0.17857
+2744,684,ketone,Gelatin,17200.0,chemical,0.17783
+2750,686,ketone,Other fish product,4479.0,chemical,0.18157
+2756,687,ketone,Milk (Human),36.0,chemical,0.10976
+2763,689,ketone,Other beverage,795.0,chemical,0.09112
+2770,690,ketone,Baby food,17455.0,chemical,0.15959
+2776,692,ketone,Soup,12560.0,chemical,0.15533
+2782,693,ketone,Other vegetable product,1734.0,chemical,0.18776
+2788,694,ketone,Unclassified food or beverage,1320.0,chemical,0.01357
+2796,695,ketone,Syrup,371.0,chemical,0.11065
+2802,696,ketone,Tallow,3120.0,chemical,0.2235
+2810,701,ketone,Other candy,1583.0,chemical,0.09907
+2816,704,ketone,Other animal fat,600.0,chemical,0.21277
+2823,707,ketone,Cocoa powder,5178.0,chemical,0.12563
+2833,709,ketone,Chocolate,3096.0,chemical,0.12052
+2840,710,ketone,Hot chocolate,1479.0,chemical,0.10164
+2846,711,ketone,Dried milk,12174.0,chemical,0.10216
+2852,712,ketone,Milk (Other mammals),759.0,chemical,0.11088
+2858,713,ketone,Kefir,240.0,chemical,0.1104
+2864,714,ketone,Buttermilk,1982.0,chemical,0.1007
+2870,715,ketone,Other fermented milk,480.0,chemical,0.10652
+2876,716,ketone,Soy sauce,1579.0,chemical,0.15302
+2882,717,ketone,Miso,500.0,chemical,0.16989
+2888,718,ketone,Tofu,9848.0,chemical,0.14366
+2895,722,ketone,Roe,4912.0,chemical,0.20021
+2901,723,ketone,Cichlidae (Tilapia),2711.0,chemical,0.18557
+2908,724,ketone,Icing,503.0,chemical,0.14343
+2915,725,ketone,Snack bar,11548.0,chemical,0.15509
+2921,728,ketone,Burrito,4657.0,chemical,0.14705
+2927,729,ketone,Hamburger,23947.0,chemical,0.16173
+2933,730,ketone,Baked beans,1659.0,chemical,0.15451
+2939,731,ketone,Chili,1327.0,chemical,0.18326
+2945,732,ketone,Taco,2636.0,chemical,0.15459
+2951,733,ketone,Tortilla,1888.0,chemical,0.15121
+2957,734,ketone,Nachos,2543.0,chemical,0.18591
+2963,735,ketone,Processed cheese,4347.0,chemical,0.08336
+2969,736,ketone,Salad,1894.0,chemical,0.164
+2976,737,ketone,Cream substitute,367.0,chemical,0.09296
+2982,739,ketone,Topping,577.0,chemical,0.10591
+2988,740,ketone,Sweet custard,847.0,chemical,0.12576
+2994,742,ketone,Egg roll,1326.0,chemical,0.14519
+3000,743,ketone,Heart of palm,111.0,chemical,0.19786
+3006,744,ketone,Popcorn,6978.0,chemical,0.22649
+3012,745,ketone,Potato chip,2948.0,chemical,0.13126
+3018,746,ketone,Tortilla chip,3310.0,chemical,0.21031
+3024,747,ketone,Corn chip,3610.0,chemical,0.20981
+3030,749,ketone,Stew,1665.0,chemical,0.19184
+3036,750,ketone,Gelatin dessert,21353.0,chemical,0.17718
+3043,751,ketone,Junket,576.0,chemical,0.10196
+3049,752,ketone,Falafel,573.0,chemical,0.16647
+3056,754,ketone,Other frozen dessert,110.0,chemical,0.07586
+3062,755,ketone,Lasagna,422.0,chemical,0.07953
+3068,757,ketone,Pancake,3997.0,chemical,0.14042
+3075,759,ketone,Pudding,1911.0,chemical,0.09283
+3082,760,ketone,Waffle,1335.0,chemical,0.13531
+3089,761,ketone,Soy milk,341.0,chemical,0.14529
+3095,762,ketone,Meatloaf,9755.0,chemical,0.17069
+3103,765,ketone,Couscous,485.0,chemical,0.11311
+3109,766,ketone,Bulgur,545.0,chemical,0.12604
+3115,767,ketone,Coffee substitute,356.0,chemical,0.15168
+3122,769,ketone,Chimichanga,2092.0,chemical,0.16098
+3128,770,ketone,Semolina,1364.0,chemical,0.1174
+3134,771,ketone,Tapioca pearl,5.0,chemical,0.18519
+3140,772,ketone,Tostada,1503.0,chemical,0.15954
+3146,774,ketone,Baked potato,714.0,chemical,0.10184
+3152,775,ketone,Hot dog,1873.0,chemical,0.1802
+3158,776,ketone,Spread,3600.0,chemical,0.16721
+3164,777,ketone,Enchilada,1077.0,chemical,0.15762
+3170,778,ketone,Egg substitute,624.0,chemical,0.17788
+3177,779,ketone,Nutritional drink,135.0,chemical,0.10774
+3183,780,ketone,Other sandwich,10080.0,chemical,0.16224
+3189,781,ketone,Ketchup,328.0,chemical,0.22969
+3196,782,ketone,Breakfast sandwich,11285.0,chemical,0.14919
+3202,784,ketone,Macaroni and cheese,2228.0,chemical,0.11417
+3208,785,ketone,Butterfat,10.0,chemical,0.10204
+3214,787,ketone,Hushpuppy,383.0,chemical,0.16431
+3220,789,ketone,Relish,90.0,chemical,0.16605
+3226,790,ketone,Other fruit product,320.0,chemical,0.23324
+3232,793,ketone,Vegetarian food,3826.0,chemical,0.14596
+3238,795,ketone,Cold cut,10177.0,chemical,0.18942
+3244,796,ketone,Mixed nuts,7199.0,chemical,0.16509
+3250,803,ketone,Phyllo dough,229.0,chemical,0.11624
+3257,805,ketone,Pie crust,2689.0,chemical,0.11432
+3263,806,ketone,Pie filling,13.0,chemical,0.18571
+3270,807,ketone,Pie,3286.0,chemical,0.12772
+3277,810,ketone,Ice cream cone,490.0,chemical,0.11134
+3283,812,ketone,Cracker,12390.0,chemical,0.12541
+3289,815,ketone,Natto,798.0,chemical,0.14337
+3295,816,ketone,Ravioli,331.0,chemical,0.14711
+3301,818,ketone,Other pasta dish,412.0,chemical,0.15009
+3307,819,ketone,Succotash,1834.0,chemical,0.19148
+3313,820,ketone,Tamale,1049.0,chemical,0.19981
+3319,824,ketone,Evaporated milk,965.0,chemical,0.09937
+3325,829,ketone,Pita bread,947.0,chemical,0.12161
+3331,831,ketone,Bagel,3200.0,chemical,0.12143
+3337,832,ketone,Other bread product,3550.0,chemical,0.12748
+3343,835,ketone,French toast,1202.0,chemical,0.14216
+3349,836,ketone,Wheat bread,12224.0,chemical,0.12491
+3355,837,ketone,Rye bread,4488.0,chemical,0.1411
+3363,838,ketone,Oat bread,2758.0,chemical,0.13078
+3369,839,ketone,Potato bread,243.0,chemical,0.13846
+3375,840,ketone,Cornbread,1393.0,chemical,0.16593
+3381,841,ketone,Corn grits,3662.0,chemical,0.23921
+3387,842,ketone,Multigrain bread,712.0,chemical,0.1456
+3393,843,ketone,Rice bread,685.0,chemical,0.13053
+3399,845,ketone,Raisin bread,824.0,chemical,0.1273
+3405,846,ketone,Wonton wrapper,307.0,chemical,0.11494
+3411,848,ketone,Trail mix,2625.0,chemical,0.16049
+3417,850,ketone,Fruit-flavor drink,112.0,chemical,0.102
+3425,854,ketone,Frozen yogurt,276.0,chemical,0.09481
+3432,855,ketone,Milkshake,598.0,chemical,0.09983
+3439,858,ketone,Pupusa,1423.0,chemical,0.15672
+3445,859,ketone,Empanada,578.0,chemical,0.16841
+3451,860,ketone,Arepa,342.0,chemical,0.20406
+3457,862,ketone,Gefilte fish,546.0,chemical,0.17843
+3463,865,ketone,Other dish,13716.0,chemical,0.16161
+3470,866,ketone,Pot pie,643.0,chemical,0.16067
+3476,867,ketone,Stuffing,346.0,chemical,0.1778
+3482,868,ketone,Edible shell,997.0,chemical,0.22087
+3490,871,ketone,Condensed milk,273.0,chemical,0.09949
+3496,872,ketone,Margarine,257.0,chemical,0.11078
+3502,873,ketone,Margarine-like spread,42.0,chemical,0.10474
+3508,874,ketone,Hummus,213.0,chemical,0.1668
+3514,876,ketone,Potato puffs,189.0,chemical,0.15803
+3520,877,ketone,Potato gratin,500.0,chemical,0.09893
+3526,878,ketone,Milk substitute,55.0,chemical,0.08423
+3531,880,ketone,Soft-necked garlic,224.4,chemical,0.16794
+3533,880,thymol,Soft-necked garlic,0.01,chemical,1e-05
+3538,881,ketone,Cabbage,301.75,chemical,0.0955
+3545,906,ketone,Sunburst squash (pattypan squash),7067.0,chemical,0.16499
+3552,907,ketone,Green zucchini,1276.0900000000001,chemical,0.20865
+3553,907,ketonic,Green zucchini,62.0,chemical,0.01014
+3560,908,ketone,Yellow zucchini,1285.65,chemical,0.20394
+3568,909,ketone,Green bell pepper,1425.9,chemical,0.17914
+3569,909,ketonic,Green bell pepper,35.0,chemical,0.0044
+3572,909,mercaptan,Green bell pepper,127.3921,chemical,0.016
+3579,910,ketone,Yellow bell pepper,417.39,chemical,0.19556
+3587,911,ketone,Orange bell pepper,698.21504,chemical,0.31033
+3594,912,ketone,Red bell pepper,1483.98357081,chemical,0.00693
+3595,912,ketonic,Red bell pepper,50000.0,chemical,0.23364
+3602,913,ketone,Italian sweet red pepper,1039.0,chemical,0.17458
+3603,913,ketonic,Italian sweet red pepper,26.0,chemical,0.00437
+3605,913,mercaptan,Italian sweet red pepper,0.0436,chemical,1e-05
+3611,914,ketone,Yellow wax bean,2824.8,chemical,0.1808
+3614,914,mercaptan,Yellow wax bean,0.291,chemical,2e-05
+3621,915,ketone,Green bean,1428.34,chemical,0.22695
+3629,916,ketone,Saskatoon berry,58.3,chemical,0.41201
+3634,917,ketone,Nanking cherry,112.9,chemical,0.39106
+3639,918,ketone,Japanese pumpkin,6441.0,chemical,0.16107
+3646,919,ketone,White cabbage,618.15,chemical,0.13082
+3654,920,ketone,Romaine lettuce,270.0,chemical,0.16781
+3656,920,mercaptan,Romaine lettuce,1.2172,chemical,0.00076
+3663,921,ketone,"Cow milk, pasteurized, vitamin A + D added, 0% fat",114.0,chemical,0.09612
+3669,922,ketone,"Cow milk, pasteurized, vitamin A + D added, 1% fat",114.0,chemical,0.0962
+3675,923,ketone,"Cow milk, pasteurized, vitamin A + D added, 2% fat",112.0,chemical,0.09639
+3681,924,ketone,"Cow milk, pasteurized, vitamin D added, 3.25% fat",107.0,chemical,0.09648
+3690,939,ketone,Black tea,4.0,chemical,0.02152
+3699,940,ketone,Green tea,4.0,chemical,0.02152
+3711,949,ketone,White wine,259.8,chemical,0.06656
+3722,985,ketone,Sour cream,75.0,chemical,0.08371
+3728,1019,ketone,White bread,5236.0,chemical,0.12602
+3736,1023,ketone,Taco shell,997.0,chemical,0.22087

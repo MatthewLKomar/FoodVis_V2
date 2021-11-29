@@ -1,0 +1,25 @@
+,food_id,flavor_name,food_name,orig_content,flavor_group,normalized
+29,6,leathery,Garden onion,0.14,animal,4e-05
+77,13,leathery,Dill,0.38,animal,6e-05
+201,34,leathery,Broccoli,0.48,animal,4e-05
+218,36,leathery,Turnip,0.06,animal,1e-05
+316,53,seafood,Lime,0.6,animal,0.00719
+391,65,leathery,Cucumber,0.04,animal,2e-05
+618,124,seafood,Common oregano,0.1,animal,2e-05
+900,175,leathery,Potato,0.12,animal,0.0
+916,178,leathery,Spinach,1.07,animal,6e-05
+989,197,leathery,Broad bean,16031.0,animal,0.42785
+1077,237,leathery,Swiss chard,7.517044284,animal,0.00235
+1176,264,leathery,Red beetroot,0.62,animal,0.00026
+3546,906,leathery,Sunburst squash (pattypan squash),0.06,animal,0.0
+3561,908,leathery,Yellow zucchini,0.6599999999999999,animal,0.0001
+3570,909,leathery,Green bell pepper,0.1,animal,1e-05
+3580,910,leathery,Yellow bell pepper,0.17,animal,8e-05
+3588,911,leathery,Orange bell pepper,0.26,animal,0.00012
+3596,912,leathery,Red bell pepper,0.257030521,animal,0.0
+3612,914,leathery,Yellow wax bean,1.4,animal,9e-05
+3622,915,leathery,Green bean,1.02,animal,0.00016
+3640,918,leathery,Japanese pumpkin,0.13,animal,0.0
+3647,919,leathery,White cabbage,0.1,animal,2e-05
+3703,943,castoreum,Red wine,216.0,animal,0.24687
+3706,949,castoreum,White wine,66.5,animal,0.01704

@@ -1,79 +1,79 @@
-,food_id,flavor_group,orig_content,normalized
-11,4,wine_like,0.051666668,5e-05
-23,6,wine_like,1102.0,0.3252
-49,12,wine_like,131.1,0.09606
-68,16,wine_like,0.4,0.0
-84,19,wine_like,0.3,0.00759
-96,22,wine_like,5273.006087004,0.10263
-130,31,wine_like,0.439999998,4e-05
-157,36,wine_like,0.606100023,7e-05
-221,51,wine_like,1.164999962,0.62466
-241,56,wine_like,60.65,0.02434
-247,57,wine_like,148.2,0.01653
-267,61,wine_like,95.509199905,0.43313
-280,65,wine_like,17.3,0.00704
-298,74,wine_like,0.01,1.0
-322,82,wine_like,0.109999999,1e-05
-328,83,wine_like,0.400000006,0.00018
-334,85,wine_like,0.035,0.0
-342,87,wine_like,0.250000007,0.00647
-349,88,wine_like,2294.857303,0.06429
-352,90,wine_like,32.200000763,0.30872
-384,98,wine_like,0.223499995,0.0
-403,105,wine_like,18.459796664000002,0.00626
-421,118,wine_like,0.015999999,0.16667
-438,121,wine_like,65.317726664,0.11042
-446,124,wine_like,13.2,0.00293
-467,129,wine_like,346.8376338,0.16178
-493,135,wine_like,353.739999929,0.12907
-543,147,wine_like,0.067500001,3e-05
-549,148,wine_like,0.266137496,0.0
-560,151,wine_like,30.083692308,1.0
-579,155,wine_like,8.7,0.22968
-598,162,wine_like,307.524205052,0.5008
-612,169,wine_like,3076.26,0.07638
-630,173,wine_like,30.0,0.02451
-636,174,wine_like,119.635000014,0.03372
-648,177,wine_like,2.547499977,0.00045
-660,179,wine_like,0.524999976,0.00028
-677,186,wine_like,8.7390998,0.00061
-684,187,wine_like,0.45,3e-05
-704,195,wine_like,67300.0,1.0
-732,204,wine_like,0.382,0.00033
-739,205,wine_like,0.352599985,0.0
-745,206,wine_like,50.0,0.01347
-766,226,wine_like,3.0,0.14022
-778,237,wine_like,380.316495555,0.11889
-794,243,wine_like,1.0,0.00024
-802,245,wine_like,0.129999995,1e-05
-818,250,wine_like,38.576999982,1.0
-835,256,wine_like,0.063999999,3e-05
-849,264,wine_like,88.0,0.03723
-856,268,wine_like,40293.456623479,0.96309
-887,277,wine_like,130200.0,1.0
-888,279,wine_like,189500.0,1.0
-1319,407,wine_like,2000.0,0.26434
-1325,408,wine_like,11634.0,0.30424
-1865,575,wine_like,9336.620096,0.06052
-1965,626,wine_like,432588.331888259,0.99929
-1972,630,wine_like,254300.520000003,0.98953
-1983,632,wine_like,25.3,1e-05
-2000,639,wine_like,66800.0,1.0
-2004,640,wine_like,124700.0,1.0
-2011,642,wine_like,75800.0,1.0
-2020,645,wine_like,200.81043157,0.99866
-2024,646,wine_like,73100.0,1.0
-2025,647,wine_like,15500.0,1.0
-2026,648,wine_like,26200.0,1.0
-2029,649,wine_like,46200.564999998,0.9999899999999999
-2030,650,wine_like,18000.0,1.0
-2154,689,wine_like,300.0,0.03438
-2175,694,wine_like,90500.0,0.93021
-2206,707,wine_like,40.0,0.00097
-2432,763,wine_like,16100.0,1.0
-2433,764,wine_like,61000.0,1.0
-2649,837,wine_like,1.0,3e-05
-2739,865,wine_like,300.0,0.00353
-2819,908,wine_like,71.17,0.01129
-2886,920,wine_like,403.5128772,0.25079
-2929,949,wine_like,54.9,0.01407
+,food_id,food_name,flavor_group,orig_content,normalized
+11,4,Kiwi,wine_like,0.051666668,5e-05
+23,6,Garden onion,wine_like,1102.0,0.3252
+49,12,Pineapple,wine_like,131.1,0.09606
+68,16,Peanut,wine_like,0.4,0.0
+84,19,Tarragon,wine_like,0.3,0.00759
+96,22,Oat,wine_like,5273.006087004,0.10263
+130,31,Cauliflower,wine_like,0.439999998,4e-05
+157,36,Turnip,wine_like,0.606100023,7e-05
+221,51,Ceylon cinnamon,wine_like,1.164999962,0.62466
+241,56,"Mandarin orange (Clementine, Tangerine)",wine_like,60.65,0.02434
+247,57,Sweet orange,wine_like,148.2,0.01653
+267,61,Coriander,wine_like,95.509199905,0.43313
+280,65,Cucumber,wine_like,17.3,0.00704
+298,74,Cardamom,wine_like,0.01,1.0
+322,82,Fennel,wine_like,0.109999999,1e-05
+328,83,Strawberry,wine_like,0.400000006,0.00018
+334,85,Soy bean,wine_like,0.035,0.0
+342,87,Sea-buckthornberry,wine_like,0.250000007,0.00647
+349,88,Barley,wine_like,2294.857303,0.06429
+352,90,Star anise,wine_like,32.200000763,0.30872
+384,98,Lentils,wine_like,0.223499995,0.0
+403,105,Apple,wine_like,18.459796664000002,0.00626
+421,118,Nutmeg,wine_like,0.015999999,0.16667
+438,121,Olive,wine_like,65.317726664,0.11042
+446,124,Common oregano,wine_like,13.2,0.00293
+467,129,Parsnip,wine_like,346.8376338,0.16178
+493,135,Date,wine_like,353.739999929,0.12907
+543,147,European plum,wine_like,0.067500001,3e-05
+549,148,Almond,wine_like,0.266137496,0.0
+560,151,Pomegranate,wine_like,30.083692308,1.0
+579,155,Blackcurrant,wine_like,8.7,0.22968
+598,162,Red raspberry,wine_like,307.524205052,0.5008
+612,169,Rye,wine_like,3076.26,0.07638
+630,173,Garden tomato (var.),wine_like,30.0,0.02451
+636,174,Eggplant,wine_like,119.635000014,0.03372
+648,177,Sorghum,wine_like,2.547499977,0.00045
+660,179,Cloves,wine_like,0.524999976,0.00028
+677,186,Fenugreek,wine_like,8.7390998,0.00061
+684,187,Common wheat,wine_like,0.45,3e-05
+704,195,Vanilla,wine_like,67300.0,1.0
+732,204,Common grape,wine_like,0.382,0.00033
+739,205,Corn,wine_like,0.352599985,0.0
+745,206,Ginger,wine_like,50.0,0.01347
+766,226,Garden onion (var.),wine_like,3.0,0.14022
+778,237,Swiss chard,wine_like,380.316495555,0.11889
+794,243,Shallot,wine_like,1.0,0.00024
+802,245,Carrot,wine_like,0.129999995,1e-05
+818,250,Chicory leaves,wine_like,38.576999982,1.0
+835,256,Grapefruit,wine_like,0.063999999,3e-05
+849,264,Red beetroot,wine_like,88.0,0.03723
+856,268,Beer,wine_like,40293.456623479,0.96309
+887,277,Spirit,wine_like,130200.0,1.0
+888,279,Other alcoholic beverage,wine_like,189500.0,1.0
+1319,407,Sacred lotus,wine_like,2000.0,0.26434
+1325,408,White lupine,wine_like,11634.0,0.30424
+1865,575,Wheat,wine_like,9336.620096,0.06052
+1965,626,Grape wine,wine_like,432588.331888259,0.99929
+1972,630,Liquor,wine_like,254300.520000003,0.98953
+1983,632,Milk (Cow),wine_like,25.3,1e-05
+2000,639,Vodka,wine_like,66800.0,1.0
+2004,640,Whisky,wine_like,124700.0,1.0
+2011,642,Gin,wine_like,75800.0,1.0
+2020,645,Vinegar,wine_like,200.81043157,0.99866
+2024,646,Rum,wine_like,73100.0,1.0
+2025,647,Port wine,wine_like,15500.0,1.0
+2026,648,Vermouth,wine_like,26200.0,1.0
+2029,649,Sherry,wine_like,46200.564999998,0.9999899999999999
+2030,650,Madeira wine,wine_like,18000.0,1.0
+2154,689,Other beverage,wine_like,300.0,0.03438
+2175,694,Unclassified food or beverage,wine_like,90500.0,0.93021
+2206,707,Cocoa powder,wine_like,40.0,0.00097
+2432,763,Sake,wine_like,16100.0,1.0
+2433,764,Cocktail,wine_like,61000.0,1.0
+2649,837,Rye bread,wine_like,1.0,3e-05
+2739,865,Other dish,wine_like,300.0,0.00353
+2819,908,Yellow zucchini,wine_like,71.17,0.01129
+2886,920,Romaine lettuce,wine_like,403.5128772,0.25079
+2929,949,White wine,wine_like,54.9,0.01407

@@ -1,25 +1,25 @@
-,food_id,flavor_group,orig_content,normalized
-17,6,animal,0.14,4e-05
-50,13,animal,0.38,6e-05
-140,34,animal,0.48,4e-05
-151,36,animal,0.06,1e-05
-227,53,animal,0.6,0.00719
-274,65,animal,0.04,2e-05
-440,124,animal,0.1,2e-05
-637,175,animal,0.12,0.0
-649,178,animal,1.07,6e-05
-705,197,animal,16031.0,0.42785
-772,237,animal,7.517044284,0.00235
-843,264,animal,0.62,0.00026
-2802,906,animal,0.06,0.0
-2813,908,animal,0.6599999999999999,0.0001
-2820,909,animal,0.1,1e-05
-2826,910,animal,0.17,8e-05
-2832,911,animal,0.26,0.00012
-2838,912,animal,0.257030521,0.0
-2849,914,animal,1.4,9e-05
-2855,915,animal,1.02,0.00016
-2869,918,animal,0.13,0.0
-2875,919,animal,0.1,2e-05
-2920,943,animal,216.0,0.24687
-2924,949,animal,66.5,0.01704
+,food_id,food_name,flavor_group,orig_content,normalized
+17,6,Garden onion,animal,0.14,4e-05
+50,13,Dill,animal,0.38,6e-05
+140,34,Broccoli,animal,0.48,4e-05
+151,36,Turnip,animal,0.06,1e-05
+227,53,Lime,animal,0.6,0.00719
+274,65,Cucumber,animal,0.04,2e-05
+440,124,Common oregano,animal,0.1,2e-05
+637,175,Potato,animal,0.12,0.0
+649,178,Spinach,animal,1.07,6e-05
+705,197,Broad bean,animal,16031.0,0.42785
+772,237,Swiss chard,animal,7.517044284,0.00235
+843,264,Red beetroot,animal,0.62,0.00026
+2802,906,Sunburst squash (pattypan squash),animal,0.06,0.0
+2813,908,Yellow zucchini,animal,0.6599999999999999,0.0001
+2820,909,Green bell pepper,animal,0.1,1e-05
+2826,910,Yellow bell pepper,animal,0.17,8e-05
+2832,911,Orange bell pepper,animal,0.26,0.00012
+2838,912,Red bell pepper,animal,0.257030521,0.0
+2849,914,Yellow wax bean,animal,1.4,9e-05
+2855,915,Green bean,animal,1.02,0.00016
+2869,918,Japanese pumpkin,animal,0.13,0.0
+2875,919,White cabbage,animal,0.1,2e-05
+2920,943,Red wine,animal,216.0,0.24687
+2924,949,White wine,animal,66.5,0.01704

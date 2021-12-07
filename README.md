@@ -1,6 +1,4 @@
-#Foodiverse 
-
-Welcome to our repository! This is a virtual reality data visualization where the user is sorrounded by an interactive Parallel Coordinate. This was made with love in Unreal Engine 4 for CMU's 05-499 Data Visualization Class. 
+This is a virtual reality data visualization where the user is sorrounded by an interactive Parallel Coordinate. This was made with love in Unreal Engine 4 for CMU's 05-499 Data Visualization Class. 
 
 To run this locally, clone this repository onto your PC, install the latest version of Unreal Engine, Oculus and go to best buy and buy yourself an Oculus Quest and a decently long USB Type C link cable. 
 

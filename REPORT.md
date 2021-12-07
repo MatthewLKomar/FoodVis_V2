@@ -2,8 +2,7 @@
 
 Joyce Zhang, Matthew Komar
 
-Human-Computer Interaction Institute and College of Fine Arts
-
+Human-Computer Interaction Institute and School of art
 Carnegie Mellon University
 
 5000 Forbes Avenue, Pittsburgh, PA, 15213, USA

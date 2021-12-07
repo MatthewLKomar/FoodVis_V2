@@ -56,8 +56,6 @@ We wanted to add color blind friendly palettes to add colorblind support, unfort
 
 Discussion
 
-- What has the audience learned from your work? What new insights or practices has your system enabled? Informal observations of use (how did people use this system) that help evaluate your system are encouraged.(what worked and what didn&#39;t)
-
 Insights
 
 One of the insights we gained while working on this project is to use the right medium to visualize the right data. VR&#39;s strength for visualization is its ability to represent spatial data well. Theoretically, it&#39;s much better to visualize data that is inherently spatial -- such as the track of a player during a tennis match, unlike our numerical data.

@@ -1,4 +1,4 @@
-**Foodaverse**
+**Foodiverse**
 
 This is a virtual reality data visualization where the user is sorrounded by an interactive Parallel Coordinate. This was made with love in Unreal Engine 4 for CMU's 05-499 Data Visualization Class. 
 
